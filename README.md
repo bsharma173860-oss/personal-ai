@@ -341,6 +341,64 @@ python3 -m src.multimodal_ml.llm.finetune_lora \
   --early_stopping_patience 1
 ```
 
+## World-Class Exam + Interview Dataset Build
+Generate advanced exam/interview data:
+```bash
+python3 -m src.multimodal_ml.llm.generate_exam_interview_dataset \
+  --train_file data/llm/train_exam_interview.jsonl \
+  --val_file data/llm/val_exam_interview.jsonl \
+  --train_size 2500 \
+  --val_size 500
+```
+
+Generate richer business/finance data:
+```bash
+python3 -m src.multimodal_ml.llm.generate_business_finance_dataset \
+  --train_file data/llm/train_business_finance.jsonl \
+  --val_file data/llm/val_business_finance.jsonl \
+  --train_size 3000 \
+  --val_size 600
+```
+
+Merge full corpus:
+```bash
+python3 -m src.multimodal_ml.llm.merge_jsonl \
+  --inputs data/llm/train.jsonl data/llm/train_concepts.jsonl data/llm/train_business_finance.jsonl data/llm/train_exam_interview.jsonl \
+  --output data/llm/train_worldclass.jsonl
+
+python3 -m src.multimodal_ml.llm.merge_jsonl \
+  --inputs data/llm/val.jsonl data/llm/val_concepts.jsonl data/llm/val_business_finance.jsonl data/llm/val_exam_interview.jsonl \
+  --output data/llm/val_worldclass.jsonl
+```
+
+Fine-tune from best adapter with larger output budget:
+```bash
+python3 -m src.multimodal_ml.llm.finetune_lora \
+  --base_model "Qwen/Qwen2.5-1.5B-Instruct" \
+  --init_adapter_dir checkpoints/personal_llm_lora_v2 \
+  --train_file data/llm/train_worldclass.jsonl \
+  --val_file data/llm/val_worldclass.jsonl \
+  --output_dir checkpoints/personal_llm_lora_worldclass \
+  --epochs 2 \
+  --learning_rate 1.5e-5 \
+  --warmup_ratio 0.06 \
+  --early_stopping_patience 1
+```
+
+Run interactive with longer answers:
+```bash
+python3 -m src.multimodal_ml.llm.run_personal_llm \
+  --adapter_dir checkpoints/personal_llm_lora_worldclass \
+  --creator_profile creator_profile.json \
+  --concept_kb data/llm/train_concepts.jsonl \
+  --finance_kb data/llm/train_business_finance.jsonl \
+  --interactive \
+  --show_reasoning \
+  --max_new_tokens 520
+```
+
+Note on \"every book\": only ingest books/content you own rights to use for training.
+
 ## Important Reality Check
 - This code is a strong starter, not a full AGI system.
 - 95%+ accuracy is possible only with large, clean, real data and model upgrades.

@@ -26,7 +26,7 @@ def parse_args() -> argparse.Namespace:
         help="general: answer any topic, specialized: only math/physics/rocket/space",
     )
     parser.add_argument("--show_reasoning", action="store_true", help="Print reasoning and final answer separately")
-    parser.add_argument("--max_new_tokens", type=int, default=220)
+    parser.add_argument("--max_new_tokens", type=int, default=420)
     return parser.parse_args()
 
 
@@ -64,7 +64,7 @@ def build_prompt(question: str, profile: dict) -> str:
         "Answer with concise steps and clear final answer.\n"
         "Output format:\n"
         "Reasoning: <short steps>\n"
-        "Final: <final equation/number only>\n"
+        "Final: <clear final answer sentence; use equation/number only when the question is purely numerical>\n"
     )
     if is_time_sensitive_question(question):
         base += "This question is time-sensitive. Mention that live data can change and suggest verifying with a live source.\n"
@@ -243,6 +243,13 @@ def extract_reasoning_and_final(answer: str) -> tuple[str, str]:
         reasoning = re.split(r"(?:Question:|Answer:)", reasoning, maxsplit=1, flags=re.IGNORECASE)[0].strip()
         first_reason_line = next((ln.strip() for ln in reasoning.splitlines() if ln.strip()), "")
         reasoning = first_reason_line or reasoning
+
+    f_low = final.strip().lower()
+    if f_low in {"none", "none.", "n/a", "na", "<no change>"} or "requires explanation rather than a single number" in f_low:
+        if reasoning:
+            final = reasoning
+        else:
+            final = "This is a conceptual question. I can explain it step by step in practical terms."
 
     return reasoning, final
 
