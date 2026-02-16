@@ -1,0 +1,258 @@
+from __future__ import annotations
+
+import argparse
+import json
+import random
+from pathlib import Path
+
+
+CONCEPT_QA = [
+    {
+        "q": "What is an atom?",
+        "a": "An atom is the smallest unit of an element that keeps its chemical properties. It has a nucleus (protons and neutrons) with electrons around it.",
+    },
+    {
+        "q": "What is a molecule?",
+        "a": "A molecule is two or more atoms chemically bonded together, such as H2O or CO2.",
+    },
+    {
+        "q": "Difference between atom and molecule?",
+        "a": "An atom is a single elemental unit, while a molecule is a bonded group of atoms.",
+    },
+    {
+        "q": "What is a proton?",
+        "a": "A proton is a positively charged particle in the atomic nucleus.",
+    },
+    {
+        "q": "What is a neutron?",
+        "a": "A neutron is an electrically neutral particle in the atomic nucleus.",
+    },
+    {
+        "q": "What is an electron?",
+        "a": "An electron is a negatively charged particle found in quantum states around the nucleus.",
+    },
+    {
+        "q": "What is isotope?",
+        "a": "Isotopes are atoms of the same element with the same proton count but different neutron counts.",
+    },
+    {
+        "q": "What is ionization?",
+        "a": "Ionization is the process of removing or adding electrons to an atom or molecule, creating an ion.",
+    },
+    {
+        "q": "What is quantum mechanics?",
+        "a": "Quantum mechanics is the physics theory describing matter and energy at atomic and subatomic scales using probabilistic states.",
+    },
+    {
+        "q": "What is wave-particle duality?",
+        "a": "Wave-particle duality means microscopic entities like electrons and photons show both wave-like and particle-like behavior.",
+    },
+    {
+        "q": "What is Heisenberg uncertainty principle?",
+        "a": "It states that position and momentum cannot both be known with arbitrary precision at the same time: Delta x * Delta p >= hbar/2.",
+    },
+    {
+        "q": "What is Schrödinger equation used for?",
+        "a": "It describes how a quantum state evolves and lets us compute probability amplitudes for physical outcomes.",
+    },
+    {
+        "q": "What is superposition?",
+        "a": "Superposition means a quantum system can exist in a linear combination of states until measured.",
+    },
+    {
+        "q": "What is entanglement?",
+        "a": "Entanglement is a quantum correlation where the state of one particle is linked to another even at large separation.",
+    },
+    {
+        "q": "What is thermodynamics?",
+        "a": "Thermodynamics studies heat, work, energy, and how macroscopic systems exchange and transform them.",
+    },
+    {
+        "q": "State the first law of thermodynamics.",
+        "a": "First law: energy is conserved. For a system, Delta U = Q - W (sign convention dependent).",
+    },
+    {
+        "q": "State the second law of thermodynamics.",
+        "a": "Second law: entropy of an isolated system does not decrease; spontaneous processes increase total entropy.",
+    },
+    {
+        "q": "What is entropy?",
+        "a": "Entropy is a measure of energy dispersal or the number of microscopic configurations consistent with a macroscopic state.",
+    },
+    {
+        "q": "What is heat capacity?",
+        "a": "Heat capacity is the amount of heat needed to change a body's temperature by one unit.",
+    },
+    {
+        "q": "What is specific heat?",
+        "a": "Specific heat is heat capacity per unit mass.",
+    },
+    {
+        "q": "What is ideal gas law?",
+        "a": "Ideal gas law: PV = nRT.",
+    },
+    {
+        "q": "What is Newton's first law?",
+        "a": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force.",
+    },
+    {
+        "q": "What is Newton's second law?",
+        "a": "Newton's second law: F = ma.",
+    },
+    {
+        "q": "What is Newton's third law?",
+        "a": "For every action, there is an equal and opposite reaction.",
+    },
+    {
+        "q": "What is momentum?",
+        "a": "Momentum is mass times velocity: p = mv.",
+    },
+    {
+        "q": "What is kinetic energy?",
+        "a": "Kinetic energy is E_k = 1/2 m v^2.",
+    },
+    {
+        "q": "What is potential energy near Earth surface?",
+        "a": "Gravitational potential energy near Earth is U = mgh.",
+    },
+    {
+        "q": "What is escape velocity?",
+        "a": "Escape velocity is the minimum speed to leave a body's gravitational field without further propulsion: v_e = sqrt(2GM/R).",
+    },
+    {
+        "q": "What is orbital velocity for circular orbit?",
+        "a": "Circular orbital speed is v = sqrt(GM/r).",
+    },
+    {
+        "q": "What is rocket equation?",
+        "a": "Tsiolkovsky rocket equation: Delta v = v_e * ln(m0/mf).",
+    },
+    {
+        "q": "What is thrust?",
+        "a": "Thrust is the force generated by expelling mass at high speed from a propulsion system.",
+    },
+    {
+        "q": "What is specific impulse in rockets?",
+        "a": "Specific impulse (Isp) measures propulsion efficiency and is thrust per unit propellant flow rate, usually in seconds.",
+    },
+    {
+        "q": "What is staging in rockets?",
+        "a": "Staging discards spent mass during ascent to improve mass ratio and increase achievable Delta v.",
+    },
+    {
+        "q": "Why do rockets work in space without air?",
+        "a": "Rockets work by conservation of momentum; they do not need air because thrust comes from expelling propellant mass.",
+    },
+    {
+        "q": "What is low Earth orbit?",
+        "a": "Low Earth orbit (LEO) is roughly 160 to 2,000 km altitude above Earth.",
+    },
+    {
+        "q": "What is geostationary orbit?",
+        "a": "A geostationary orbit is an equatorial circular orbit with a 24-hour period where a satellite appears fixed over one longitude.",
+    },
+    {
+        "q": "What is apogee and perigee?",
+        "a": "In Earth orbits, perigee is the nearest point and apogee is the farthest point from Earth.",
+    },
+    {
+        "q": "What is Hohmann transfer?",
+        "a": "A Hohmann transfer is a two-burn orbital maneuver to move between two coplanar circular orbits with minimum energy.",
+    },
+    {
+        "q": "What is delta-v budget?",
+        "a": "A delta-v budget is the total planned velocity change required across mission phases.",
+    },
+    {
+        "q": "What is cosmic microwave background?",
+        "a": "The cosmic microwave background is relic thermal radiation from the early universe, observed as a near-uniform microwave signal.",
+    },
+    {
+        "q": "What is a light-year?",
+        "a": "A light-year is a distance unit equal to how far light travels in vacuum in one year.",
+    },
+    {
+        "q": "What is a parsec?",
+        "a": "A parsec is a distance unit equal to about 3.26 light-years.",
+    },
+    {
+        "q": "What is a black hole?",
+        "a": "A black hole is a spacetime region where gravity is so strong that within the event horizon nothing, not even light, can escape.",
+    },
+    {
+        "q": "What is an exoplanet?",
+        "a": "An exoplanet is a planet orbiting a star outside our solar system.",
+    },
+    {
+        "q": "What is spectroscopy in astronomy?",
+        "a": "Spectroscopy analyzes light by wavelength to infer composition, temperature, motion, and other properties of celestial objects.",
+    },
+    {
+        "q": "What is redshift?",
+        "a": "Redshift is an increase in observed wavelength, often caused by recession velocity or cosmic expansion.",
+    },
+    {
+        "q": "What is Big Bang theory?",
+        "a": "Big Bang theory says the universe expanded from a hot dense early state and has been evolving for billions of years.",
+    },
+    {
+        "q": "What is dark matter?",
+        "a": "Dark matter is non-luminous matter inferred from gravitational effects on galaxies and cosmic structure.",
+    },
+    {
+        "q": "What is dark energy?",
+        "a": "Dark energy is a component associated with accelerated cosmic expansion.",
+    },
+    {
+        "q": "What is the difference between astronomy and astrophysics?",
+        "a": "Astronomy focuses on observing celestial objects; astrophysics applies physics to explain their behavior and evolution.",
+    },
+]
+
+
+VARIANTS = [
+    "Explain clearly: {q}",
+    "Give a concise but complete answer: {q}",
+    "Teach me like a beginner: {q}",
+    "In simple words, {q}",
+]
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Generate concept Q&A dataset for physics/space/rocket science")
+    parser.add_argument("--train_file", type=Path, default=Path("data/llm/train_concepts.jsonl"))
+    parser.add_argument("--val_file", type=Path, default=Path("data/llm/val_concepts.jsonl"))
+    parser.add_argument("--train_size", type=int, default=1200)
+    parser.add_argument("--val_size", type=int, default=200)
+    parser.add_argument("--seed", type=int, default=52)
+    return parser.parse_args()
+
+
+def sample_item() -> tuple[str, str]:
+    base = random.choice(CONCEPT_QA)
+    q = random.choice(VARIANTS).format(q=base["q"])
+    reasoning = "Use core definitions and physical meaning."
+    response = f"Reasoning: {reasoning} Final: {base['a']}"
+    return q, response
+
+
+def write_jsonl(path: Path, n: int) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        for _ in range(n):
+            q, a = sample_item()
+            f.write(json.dumps({"instruction": q, "response": a}, ensure_ascii=True) + "\n")
+
+
+def main() -> None:
+    args = parse_args()
+    random.seed(args.seed)
+
+    write_jsonl(args.train_file, args.train_size)
+    write_jsonl(args.val_file, args.val_size)
+    print(f"generated_concept_train={args.train_file} count={args.train_size}")
+    print(f"generated_concept_val={args.val_file} count={args.val_size}")
+
+
+if __name__ == "__main__":
+    main()

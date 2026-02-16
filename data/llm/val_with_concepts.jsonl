@@ -1,0 +1,354 @@
+{"instruction": "Given u=0 m/s, a=9.8 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=9.8 m/s and s=4.9 m."}
+{"instruction": "Solve equation x^2 - 4x - 12 = 0.", "response": "Factoring gives roots x = 6 and x = -2."}
+{"instruction": "A mass of 2 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 2.0 = 4.0 N."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=11.5 m."}
+{"instruction": "Solve equation x^2 - 15x + 56 = 0.", "response": "Factoring gives roots x = 7 and x = 8."}
+{"instruction": "Find limit of sin(8x)/(8x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=21.0 m."}
+{"instruction": "Find limit of sin(12x)/(12x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Integrate f(x) = 3x^3 - 2x^4 - 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/4x^4 - 2/5x^5 - 2/5x^5 + C."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=83.4 m/s and s=353.6 m."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=34.5 m."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.0 m/s and s=176.0 m."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=16.0 m."}
+{"instruction": "A mass of 10 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 2.0 = 20.0 N."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=6.0 m."}
+{"instruction": "Integrate f(x) = -4x^4 + 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/5x^5 + 7x + C."}
+{"instruction": "Solve equation x^2 + 0x - 9 = 0.", "response": "Factoring gives roots x = 3 and x = -3."}
+{"instruction": "Integrate f(x) = 9 - 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x - 3x^3 + C."}
+{"instruction": "Find limit of sin(6x)/(6x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Given u=2 m/s, a=1.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=7.0 m/s and s=22.5 m."}
+{"instruction": "Differentiate f(x) = 2x^3 - 6x^4.", "response": "Using the power rule term-by-term, f'(x) = 6x^2 - 24x^3."}
+{"instruction": "Integrate f(x) = 9x + 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 + 7/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -x + 8x^4 - 6x^5 - 8x^3.", "response": "Using the power rule term-by-term, f'(x) = -1 + 32x^3 - 30x^4 - 24x^2."}
+{"instruction": "Solve equation x^2 - 3x - 108 = 0.", "response": "Factoring gives roots x = 12 and x = -9."}
+{"instruction": "Differentiate f(x) = -6x^4 - 8x^4 - 6x - 6x.", "response": "Using the power rule term-by-term, f'(x) = -24x^3 - 32x^3 - 6 - 6."}
+{"instruction": "Find limit of sin(3x)/(3x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=20.0 m/s and s=62.5 m."}
+{"instruction": "Solve equation x^2 - 2x - 99 = 0.", "response": "Factoring gives roots x = 11 and x = -9."}
+{"instruction": "Integrate f(x) = 3x^2 - 5 - 3x^3 + 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^3 - 5x - 3/4x^4 + 5x + C."}
+{"instruction": "Integrate f(x) = 2x^2 + 8x - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/3x^3 + 4x^2 - 7/3x^3 + C."}
+{"instruction": "Solve equation x^2 - 7x - 8 = 0.", "response": "Factoring gives roots x = -1 and x = 8."}
+{"instruction": "Solve equation x^2 + 13x + 40 = 0.", "response": "Factoring gives roots x = -5 and x = -8."}
+{"instruction": "Solve equation x^2 - 2x + 1 = 0.", "response": "Factoring gives roots x = 1 and x = 1."}
+{"instruction": "Solve equation x^2 - 13x + 36 = 0.", "response": "Factoring gives roots x = 4 and x = 9."}
+{"instruction": "Find limit of sin(1x)/(1x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 - 4x - 96 = 0.", "response": "Factoring gives roots x = -8 and x = 12."}
+{"instruction": "Differentiate f(x) = 8 - 7x^2 + 2x^3 - 4x^3.", "response": "Using the power rule term-by-term, f'(x) = -14x + 6x^2 - 12x^2."}
+{"instruction": "Differentiate f(x) = -8x^5 - 5x^4 - 8x^5.", "response": "Using the power rule term-by-term, f'(x) = -40x^4 - 20x^3 - 40x^4."}
+{"instruction": "Given u=15 m/s, a=2.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=23.0 m/s and s=76.0 m."}
+{"instruction": "Solve equation x^2 - 19x + 90 = 0.", "response": "Factoring gives roots x = 9 and x = 10."}
+{"instruction": "A mass of 15 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 9.8 = 147.0 N."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=7.0 m/s and s=6.0 m."}
+{"instruction": "Find limit of sin(9x)/(9x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "A mass of 5 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 9.8 = 49.0 N."}
+{"instruction": "Solve equation x^2 - 10x + 16 = 0.", "response": "Factoring gives roots x = 2 and x = 8."}
+{"instruction": "Integrate f(x) = 6x^5 + 3x^5 + 4x + 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^6 + 3/6x^6 + 2x^2 + x + C."}
+{"instruction": "Differentiate f(x) = 2x^3 - 5x^4 + 9x^2 - 3.", "response": "Using the power rule term-by-term, f'(x) = 6x^2 - 20x^3 + 18x."}
+{"instruction": "A mass of 15 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 4.0 = 60.0 N."}
+{"instruction": "Find limit of sin(11x)/(11x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Integrate f(x) = -9x^4 - x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/5x^5 - 1/2x^2 + C."}
+{"instruction": "Solve equation x^2 + 5x - 36 = 0.", "response": "Factoring gives roots x = 4 and x = -9."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=9.0 m."}
+{"instruction": "Given u=15 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=16.0 m."}
+{"instruction": "Differentiate f(x) = -6x^3 + x^4 - 9x^3 + 2x.", "response": "Using the power rule term-by-term, f'(x) = -18x^2 + 4x^3 - 27x^2 + 2."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=93.4 m/s and s=433.6 m."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.6 m/s and s=49.6 m."}
+{"instruction": "Find limit of sin(5x)/(5x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=23.0 m/s and s=152.0 m."}
+{"instruction": "Solve equation x^2 - 15x + 44 = 0.", "response": "Factoring gives roots x = 4 and x = 11."}
+{"instruction": "Integrate f(x) = 2x^4 - 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/5x^5 - x^3 + C."}
+{"instruction": "Solve equation x^2 + 17x + 72 = 0.", "response": "Factoring gives roots x = -9 and x = -8."}
+{"instruction": "Differentiate f(x) = 5x + 7x.", "response": "Using the power rule term-by-term, f'(x) = 5 + 7."}
+{"instruction": "Solve equation x^2 + 11x + 10 = 0.", "response": "Factoring gives roots x = -10 and x = -1."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=30.0 m/s and s=112.5 m."}
+{"instruction": "A mass of 30 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 12.0 = 360.0 N."}
+{"instruction": "Find limit of sin(10x)/(10x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 - 9x + 8 = 0.", "response": "Factoring gives roots x = 8 and x = 1."}
+{"instruction": "Solve equation x^2 - 13x + 30 = 0.", "response": "Factoring gives roots x = 10 and x = 3."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=12.0 m/s and s=22.0 m."}
+{"instruction": "A mass of 5 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 3.5 = 17.5 N."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=18.0 m/s and s=112.0 m."}
+{"instruction": "A mass of 2 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 9.8 = 19.6 N."}
+{"instruction": "Integrate f(x) = 7 - 4x^4 + 3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7x - 4/5x^5 + 3x + C."}
+{"instruction": "A mass of 30 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 0.5 = 15.0 N."}
+{"instruction": "Differentiate f(x) = 1 + 8x - 6x^2.", "response": "Using the power rule term-by-term, f'(x) = 8 - 12x."}
+{"instruction": "Solve equation x^2 + 20x + 96 = 0.", "response": "Factoring gives roots x = -12 and x = -8."}
+{"instruction": "Integrate f(x) = 5 + x^2 - 3x + 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5x + 1/3x^3 - 3/2x^2 + 7x + C."}
+{"instruction": "Differentiate f(x) = 3 - 8x^3 + 7x^4 + x^4.", "response": "Using the power rule term-by-term, f'(x) = -24x^2 + 28x^3 + 4x^3."}
+{"instruction": "Solve equation x^2 + 2x + 0 = 0.", "response": "Factoring gives roots x = -2 and x = 0."}
+{"instruction": "Solve equation x^2 - 18x + 77 = 0.", "response": "Factoring gives roots x = 11 and x = 7."}
+{"instruction": "Integrate f(x) = 8x^5 + 6x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/6x^6 + 6/4x^4 + C."}
+{"instruction": "Find limit of sin(2x)/(2x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "A mass of 30 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 3.5 = 105.0 N."}
+{"instruction": "Integrate f(x) = 2x^4 - 8x^5 + 6x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/5x^5 - 8/6x^6 + x^6 + C."}
+{"instruction": "Differentiate f(x) = -9x^4 + x^4.", "response": "Using the power rule term-by-term, f'(x) = -36x^3 + 4x^3."}
+{"instruction": "Integrate f(x) = 9x^4 - 8x^4 + 8x + 7x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/5x^5 - 8/5x^5 + 4x^2 + 7/5x^5 + C."}
+{"instruction": "Differentiate f(x) = 9x - 9x^2.", "response": "Using the power rule term-by-term, f'(x) = 9 - 18x."}
+{"instruction": "Integrate f(x) = 6 + 9x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6x + 9/5x^5 + C."}
+{"instruction": "Find limit of sin(7x)/(7x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "A mass of 1 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 3.5 = 3.5 N."}
+{"instruction": "Differentiate f(x) = 5x + 5 + 8x^2.", "response": "Using the power rule term-by-term, f'(x) = 5 + 16x."}
+{"instruction": "Solve equation x^2 + 14x + 40 = 0.", "response": "Factoring gives roots x = -4 and x = -10."}
+{"instruction": "Differentiate f(x) = 9x + x.", "response": "Using the power rule term-by-term, f'(x) = 9 + 1."}
+{"instruction": "Integrate f(x) = -7x + x^3 - 4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/2x^2 + 1/4x^4 - 4x + C."}
+{"instruction": "A mass of 20 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 1.0 = 20.0 N."}
+{"instruction": "Differentiate f(x) = -8x^2 + 4 + 2x + 5x^2.", "response": "Using the power rule term-by-term, f'(x) = -16x + 2 + 10x."}
+{"instruction": "Differentiate f(x) = -3x - 2x^3.", "response": "Using the power rule term-by-term, f'(x) = -3 - 6x^2."}
+{"instruction": "Solve equation x^2 + 11x - 12 = 0.", "response": "Factoring gives roots x = -12 and x = 1."}
+{"instruction": "Given u=2 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=3.5 m/s and s=8.25 m."}
+{"instruction": "A mass of 2 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 1.0 = 2.0 N."}
+{"instruction": "A mass of 5 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 2.0 = 10.0 N."}
+{"instruction": "Differentiate f(x) = 8x - 5x^2 + 9x - 2x^4.", "response": "Using the power rule term-by-term, f'(x) = 8 - 10x + 9 - 8x^3."}
+{"instruction": "Solve equation x^2 - 7x + 10 = 0.", "response": "Factoring gives roots x = 5 and x = 2."}
+{"instruction": "Differentiate f(x) = 6x^4 + x^5.", "response": "Using the power rule term-by-term, f'(x) = 24x^3 + 5x^4."}
+{"instruction": "Integrate f(x) = -8x^3 - x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x^4 - 1/5x^5 + C."}
+{"instruction": "Integrate f(x) = 8x^2 - 8x + 9x^4 - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/3x^3 - 4x^2 + 9/5x^5 - 7/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -6x + 9x^2 + 5x.", "response": "Using the power rule term-by-term, f'(x) = -6 + 18x + 5."}
+{"instruction": "A mass of 20 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 9.8 = 196.0 N."}
+{"instruction": "Solve equation x^2 + 9x + 20 = 0.", "response": "Factoring gives roots x = -4 and x = -5."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=9.0 m/s and s=14.0 m."}
+{"instruction": "Solve equation x^2 - 5x - 14 = 0.", "response": "Factoring gives roots x = 7 and x = -2."}
+{"instruction": "Differentiate f(x) = -5x^5 - 9x^4 + 7 - 9x^5.", "response": "Using the power rule term-by-term, f'(x) = -25x^4 - 36x^3 - 45x^4."}
+{"instruction": "Integrate f(x) = 9x^5 + 7x^3 + 9 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/6x^6 + 7/4x^4 + 9x + C."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.5 m/s and s=32.25 m."}
+{"instruction": "Solve equation x^2 - 6x - 7 = 0.", "response": "Factoring gives roots x = 7 and x = -1."}
+{"instruction": "Solve equation x^2 - 5x - 84 = 0.", "response": "Factoring gives roots x = -7 and x = 12."}
+{"instruction": "Given u=0 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.0 m/s and s=4.0 m."}
+{"instruction": "Find limit of sin(4x)/(4x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 + 17x + 60 = 0.", "response": "Factoring gives roots x = -12 and x = -5."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=16.0 m/s and s=64.0 m."}
+{"instruction": "Given u=5 m/s, a=1.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=5.5 m."}
+{"instruction": "A mass of 15 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 12.0 = 180.0 N."}
+{"instruction": "Given u=2 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=16.0 m."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=16.0 m/s and s=15.5 m."}
+{"instruction": "Integrate f(x) = 4 - x^4 + 8x^3 - 4x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4x - 1/5x^5 + 2x^4 - 4/5x^5 + C."}
+{"instruction": "Integrate f(x) = -4 - 5x^5 - 7x - x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4x - 5/6x^6 - 7/2x^2 - 1/5x^5 + C."}
+{"instruction": "Integrate f(x) = -x - 9x^5 + 9x^4 - x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/2x^2 - 9/6x^6 + 9/5x^5 - 1/6x^6 + C."}
+{"instruction": "A mass of 50 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 0.5 = 25.0 N."}
+{"instruction": "Solve equation x^2 - 17x + 72 = 0.", "response": "Factoring gives roots x = 8 and x = 9."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=8.0 m/s and s=16.0 m."}
+{"instruction": "Solve equation x^2 + 13x + 36 = 0.", "response": "Factoring gives roots x = -4 and x = -9."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=27.0 m/s and s=84.0 m."}
+{"instruction": "Differentiate f(x) = -2 - x^3 + 9x^3 + 2.", "response": "Using the power rule term-by-term, f'(x) = -3x^2 + 27x^2."}
+{"instruction": "Solve equation x^2 + 8x + 12 = 0.", "response": "Factoring gives roots x = -6 and x = -2."}
+{"instruction": "Differentiate f(x) = -9x^5 - 2x^5 + 5 - 2x.", "response": "Using the power rule term-by-term, f'(x) = -45x^4 - 10x^4 - 2."}
+{"instruction": "Integrate f(x) = 1 - 6 + 7x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x - 6x + 7/4x^4 + C."}
+{"instruction": "Differentiate f(x) = 2x^2 - 2 + 7x + 2.", "response": "Using the power rule term-by-term, f'(x) = 4x + 7."}
+{"instruction": "Integrate f(x) = 6 + 6x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6x + 6/5x^5 + C."}
+{"instruction": "Differentiate f(x) = -8 + 4x^2.", "response": "Using the power rule term-by-term, f'(x) = 8x."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=1.0 m/s and s=0.5 m."}
+{"instruction": "Solve equation x^2 + 14x + 33 = 0.", "response": "Factoring gives roots x = -11 and x = -3."}
+{"instruction": "Differentiate f(x) = -8x^4 - 8x^2 + 4x^3 - 6x^4.", "response": "Using the power rule term-by-term, f'(x) = -32x^3 - 16x + 12x^2 - 24x^3."}
+{"instruction": "Solve equation x^2 - 2x - 35 = 0.", "response": "Factoring gives roots x = -5 and x = 7."}
+{"instruction": "Given u=15 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=64.0 m."}
+{"instruction": "Solve equation x^2 - 3x + 2 = 0.", "response": "Factoring gives roots x = 2 and x = 1."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=37.5 m."}
+{"instruction": "Integrate f(x) = -6 - 7x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -6x - 7/5x^5 + C."}
+{"instruction": "Integrate f(x) = -5x^5 + 8x^2 + 3x^3 + 7x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/6x^6 + 8/3x^3 + 3/4x^4 + 7/6x^6 + C."}
+{"instruction": "A mass of 50 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 1.0 = 50.0 N."}
+{"instruction": "Integrate f(x) = -8 - 5x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8x - 5/3x^3 + C."}
+{"instruction": "A mass of 30 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 4.0 = 120.0 N."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=50.0 m."}
+{"instruction": "A mass of 5 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 1.0 = 5.0 N."}
+{"instruction": "Solve equation x^2 - 4x - 21 = 0.", "response": "Factoring gives roots x = -3 and x = 7."}
+{"instruction": "A mass of 5 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 0.5 = 2.5 N."}
+{"instruction": "Integrate f(x) = 9 + 5x^2 - 3x - 3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x + 5/3x^3 - 3/2x^2 - 3x + C."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=25.0 m/s and s=87.5 m."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=54.0 m/s and s=147.5 m."}
+{"instruction": "Differentiate f(x) = -8x^3 - 2 - 2x^5.", "response": "Using the power rule term-by-term, f'(x) = -24x^2 - 10x^4."}
+{"instruction": "Integrate f(x) = -3x + 7x^5 + 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/2x^2 + 7/6x^6 + 2/6x^6 + C."}
+{"instruction": "Solve equation x^2 + 6x + 0 = 0.", "response": "Factoring gives roots x = -6 and x = 0."}
+{"instruction": "Integrate f(x) = 3 - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x - 7/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -6x + x^3 - 3x^5 + 3.", "response": "Using the power rule term-by-term, f'(x) = -6 + 3x^2 - 15x^4."}
+{"instruction": "Differentiate f(x) = -3x^2 - 4x.", "response": "Using the power rule term-by-term, f'(x) = -6x - 4."}
+{"instruction": "Integrate f(x) = 9x - 4x - 9x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 - 2x^2 - 9/2x^2 + C."}
+{"instruction": "Differentiate f(x) = -5x^3 - 6x^2 - 3x^2 + 6x.", "response": "Using the power rule term-by-term, f'(x) = -15x^2 - 12x - 6x + 6."}
+{"instruction": "Given u=2 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=51.0 m/s and s=132.5 m."}
+{"instruction": "Solve equation x^2 + 0x - 100 = 0.", "response": "Factoring gives roots x = 10 and x = -10."}
+{"instruction": "Differentiate f(x) = -5x - 3x^4.", "response": "Using the power rule term-by-term, f'(x) = -5 - 12x^3."}
+{"instruction": "Solve equation x^2 - 9x - 10 = 0.", "response": "Factoring gives roots x = 10 and x = -1."}
+{"instruction": "Solve equation x^2 - 3x - 40 = 0.", "response": "Factoring gives roots x = 8 and x = -5."}
+{"instruction": "Differentiate f(x) = -3x^4 + x + 2x - 8x^5.", "response": "Using the power rule term-by-term, f'(x) = -12x^3 + 1 + 2 - 40x^4."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=24.0 m/s and s=96.0 m."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=22.0 m/s and s=64.0 m."}
+{"instruction": "Solve equation x^2 - 14x + 48 = 0.", "response": "Factoring gives roots x = 8 and x = 6."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.0 m/s and s=2.0 m."}
+{"instruction": "Integrate f(x) = -2x^3 - 3x^2 + 5x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2/4x^4 - x^3 + 5/4x^4 + C."}
+{"instruction": "A mass of 5 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 12.0 = 60.0 N."}
+{"instruction": "Differentiate f(x) = 6x^4 + 3x - 8x^3.", "response": "Using the power rule term-by-term, f'(x) = 24x^3 + 3 - 24x^2."}
+{"instruction": "A mass of 20 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 3.5 = 70.0 N."}
+{"instruction": "Solve equation x^2 - 2x - 3 = 0.", "response": "Factoring gives roots x = -1 and x = 3."}
+{"instruction": "Solve equation x^2 + 19x + 84 = 0.", "response": "Factoring gives roots x = -12 and x = -7."}
+{"instruction": "Solve equation x^2 + 9x + 20 = 0.", "response": "Factoring gives roots x = -5 and x = -4."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.0 m/s and s=1.0 m."}
+{"instruction": "A mass of 2 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 12.0 = 24.0 N."}
+{"instruction": "Differentiate f(x) = -7x^2 - 8x^4.", "response": "Using the power rule term-by-term, f'(x) = -14x - 32x^3."}
+{"instruction": "Integrate f(x) = -3x^5 + 2x^2 + x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/6x^6 + 2/3x^3 + 1/6x^6 + C."}
+{"instruction": "Given u=5 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=72.0 m."}
+{"instruction": "Solve equation x^2 - 18x + 72 = 0.", "response": "Factoring gives roots x = 6 and x = 12."}
+{"instruction": "Solve equation x^2 + 10x + 25 = 0.", "response": "Factoring gives roots x = -5 and x = -5."}
+{"instruction": "Given u=2 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=8.0 m/s and s=10.0 m."}
+{"instruction": "A mass of 50 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 9.8 = 490.00000000000006 N."}
+{"instruction": "Solve equation x^2 + 12x + 20 = 0.", "response": "Factoring gives roots x = -2 and x = -10."}
+{"instruction": "Solve equation x^2 - 22x + 120 = 0.", "response": "Factoring gives roots x = 12 and x = 10."}
+{"instruction": "Solve equation x^2 + 4x - 12 = 0.", "response": "Factoring gives roots x = -6 and x = 2."}
+{"instruction": "Solve equation x^2 + 7x - 60 = 0.", "response": "Factoring gives roots x = 5 and x = -12."}
+{"instruction": "Integrate f(x) = 5x^5 + 4x^5 + 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/6x^6 + 4/6x^6 + 3x^3 + C."}
+{"instruction": "Differentiate f(x) = -8x - 5x^2 + 4x^3 - 3x^3.", "response": "Using the power rule term-by-term, f'(x) = -8 - 10x + 12x^2 - 9x^2."}
+{"instruction": "Differentiate f(x) = 4x + 7 + 2x^4 + 6x^5.", "response": "Using the power rule term-by-term, f'(x) = 4 + 8x^3 + 30x^4."}
+{"instruction": "Integrate f(x) = 9x - 8x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 - 8/6x^6 + C."}
+{"instruction": "Integrate f(x) = -7x^3 + x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/4x^4 + 1/2x^2 + C."}
+{"instruction": "Integrate f(x) = 8 + 6 + 3x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8x + 6x + 3/5x^5 + C."}
+{"instruction": "Differentiate f(x) = 2x^3 + 4x.", "response": "Using the power rule term-by-term, f'(x) = 6x^2 + 4."}
+{"instruction": "Differentiate f(x) = 9x^3 + 7x^5.", "response": "Using the power rule term-by-term, f'(x) = 27x^2 + 35x^4."}
+{"instruction": "Differentiate f(x) = -3x - 3x^2 + 5x^5.", "response": "Using the power rule term-by-term, f'(x) = -3 - 6x + 25x^4."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=62.5 m."}
+{"instruction": "Integrate f(x) = 6x^2 - 3 - 5x^3 - 7x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^3 - 3x - 5/4x^4 - 7/4x^4 + C."}
+{"instruction": "A mass of 10 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 4.0 = 40.0 N."}
+{"instruction": "Solve equation x^2 - 4x + 4 = 0.", "response": "Factoring gives roots x = 2 and x = 2."}
+{"instruction": "A mass of 1 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 9.8 = 9.8 N."}
+{"instruction": "Differentiate f(x) = 6x^2 + x^3 - 4x^3.", "response": "Using the power rule term-by-term, f'(x) = 12x + 3x^2 - 12x^2."}
+{"instruction": "Integrate f(x) = 5x^3 + 4x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/4x^4 + 4/6x^6 + C."}
+{"instruction": "Integrate f(x) = -6x^3 - 8x - 4x^2 + 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -6/4x^4 - 4x^2 - 4/3x^3 + 3x^3 + C."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=4.0 m/s and s=8.0 m."}
+{"instruction": "Solve equation x^2 - 17x + 60 = 0.", "response": "Factoring gives roots x = 12 and x = 5."}
+{"instruction": "Differentiate f(x) = -7 + 8x^2 + 5x^3.", "response": "Using the power rule term-by-term, f'(x) = 16x + 15x^2."}
+{"instruction": "Integrate f(x) = -3x^4 - 8x^3 - 9 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/5x^5 - 2x^4 - 9x + C."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=19.0 m/s and s=43.5 m."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=14.0 m/s and s=48.0 m."}
+{"instruction": "Differentiate f(x) = -1 - 5x^2.", "response": "Using the power rule term-by-term, f'(x) = -10x."}
+{"instruction": "Differentiate f(x) = 9x^5 - 2x^5.", "response": "Using the power rule term-by-term, f'(x) = 45x^4 - 10x^4."}
+{"instruction": "Solve equation x^2 + 5x - 24 = 0.", "response": "Factoring gives roots x = -8 and x = 3."}
+{"instruction": "Integrate f(x) = -6x + 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3x^2 + x + C."}
+{"instruction": "A mass of 30 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 1.0 = 30.0 N."}
+{"instruction": "Differentiate f(x) = -9x^5 - x + 6x^2 - 4x.", "response": "Using the power rule term-by-term, f'(x) = -45x^4 - 1 + 12x - 4."}
+{"instruction": "Given u=0 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=19.6 m/s and s=19.6 m."}
+{"instruction": "Solve equation x^2 + 1x - 110 = 0.", "response": "Factoring gives roots x = 10 and x = -11."}
+{"instruction": "In simple words, What is redshift?", "response": "Reasoning: Use core definitions and physical meaning. Final: Redshift is an increase in observed wavelength, often caused by recession velocity or cosmic expansion."}
+{"instruction": "Teach me like a beginner: What is specific heat?", "response": "Reasoning: Use core definitions and physical meaning. Final: Specific heat is heat capacity per unit mass."}
+{"instruction": "Teach me like a beginner: What is thermodynamics?", "response": "Reasoning: Use core definitions and physical meaning. Final: Thermodynamics studies heat, work, energy, and how macroscopic systems exchange and transform them."}
+{"instruction": "Give a concise but complete answer: What is entanglement?", "response": "Reasoning: Use core definitions and physical meaning. Final: Entanglement is a quantum correlation where the state of one particle is linked to another even at large separation."}
+{"instruction": "In simple words, What is an atom?", "response": "Reasoning: Use core definitions and physical meaning. Final: An atom is the smallest unit of an element that keeps its chemical properties. It has a nucleus (protons and neutrons) with electrons around it."}
+{"instruction": "Teach me like a beginner: What is dark matter?", "response": "Reasoning: Use core definitions and physical meaning. Final: Dark matter is non-luminous matter inferred from gravitational effects on galaxies and cosmic structure."}
+{"instruction": "Teach me like a beginner: What is entropy?", "response": "Reasoning: Use core definitions and physical meaning. Final: Entropy is a measure of energy dispersal or the number of microscopic configurations consistent with a macroscopic state."}
+{"instruction": "In simple words, What is Heisenberg uncertainty principle?", "response": "Reasoning: Use core definitions and physical meaning. Final: It states that position and momentum cannot both be known with arbitrary precision at the same time: Delta x * Delta p >= hbar/2."}
+{"instruction": "Give a concise but complete answer: What is thrust?", "response": "Reasoning: Use core definitions and physical meaning. Final: Thrust is the force generated by expelling mass at high speed from a propulsion system."}
+{"instruction": "Explain clearly: What is Heisenberg uncertainty principle?", "response": "Reasoning: Use core definitions and physical meaning. Final: It states that position and momentum cannot both be known with arbitrary precision at the same time: Delta x * Delta p >= hbar/2."}
+{"instruction": "Explain clearly: What is ionization?", "response": "Reasoning: Use core definitions and physical meaning. Final: Ionization is the process of removing or adding electrons to an atom or molecule, creating an ion."}
+{"instruction": "Teach me like a beginner: What is specific impulse in rockets?", "response": "Reasoning: Use core definitions and physical meaning. Final: Specific impulse (Isp) measures propulsion efficiency and is thrust per unit propellant flow rate, usually in seconds."}
+{"instruction": "Give a concise but complete answer: State the first law of thermodynamics.", "response": "Reasoning: Use core definitions and physical meaning. Final: First law: energy is conserved. For a system, Delta U = Q - W (sign convention dependent)."}
+{"instruction": "Explain clearly: State the first law of thermodynamics.", "response": "Reasoning: Use core definitions and physical meaning. Final: First law: energy is conserved. For a system, Delta U = Q - W (sign convention dependent)."}
+{"instruction": "In simple words, What is momentum?", "response": "Reasoning: Use core definitions and physical meaning. Final: Momentum is mass times velocity: p = mv."}
+{"instruction": "Explain clearly: What is geostationary orbit?", "response": "Reasoning: Use core definitions and physical meaning. Final: A geostationary orbit is an equatorial circular orbit with a 24-hour period where a satellite appears fixed over one longitude."}
+{"instruction": "In simple words, What is a neutron?", "response": "Reasoning: Use core definitions and physical meaning. Final: A neutron is an electrically neutral particle in the atomic nucleus."}
+{"instruction": "In simple words, State the second law of thermodynamics.", "response": "Reasoning: Use core definitions and physical meaning. Final: Second law: entropy of an isolated system does not decrease; spontaneous processes increase total entropy."}
+{"instruction": "Give a concise but complete answer: What is a neutron?", "response": "Reasoning: Use core definitions and physical meaning. Final: A neutron is an electrically neutral particle in the atomic nucleus."}
+{"instruction": "Explain clearly: What is Big Bang theory?", "response": "Reasoning: Use core definitions and physical meaning. Final: Big Bang theory says the universe expanded from a hot dense early state and has been evolving for billions of years."}
+{"instruction": "In simple words, What is specific impulse in rockets?", "response": "Reasoning: Use core definitions and physical meaning. Final: Specific impulse (Isp) measures propulsion efficiency and is thrust per unit propellant flow rate, usually in seconds."}
+{"instruction": "Teach me like a beginner: What is an exoplanet?", "response": "Reasoning: Use core definitions and physical meaning. Final: An exoplanet is a planet orbiting a star outside our solar system."}
+{"instruction": "Give a concise but complete answer: What is dark energy?", "response": "Reasoning: Use core definitions and physical meaning. Final: Dark energy is a component associated with accelerated cosmic expansion."}
+{"instruction": "Give a concise but complete answer: Why do rockets work in space without air?", "response": "Reasoning: Use core definitions and physical meaning. Final: Rockets work by conservation of momentum; they do not need air because thrust comes from expelling propellant mass."}
+{"instruction": "In simple words, What is Newton's second law?", "response": "Reasoning: Use core definitions and physical meaning. Final: Newton's second law: F = ma."}
+{"instruction": "In simple words, What is thermodynamics?", "response": "Reasoning: Use core definitions and physical meaning. Final: Thermodynamics studies heat, work, energy, and how macroscopic systems exchange and transform them."}
+{"instruction": "Teach me like a beginner: What is cosmic microwave background?", "response": "Reasoning: Use core definitions and physical meaning. Final: The cosmic microwave background is relic thermal radiation from the early universe, observed as a near-uniform microwave signal."}
+{"instruction": "In simple words, What is orbital velocity for circular orbit?", "response": "Reasoning: Use core definitions and physical meaning. Final: Circular orbital speed is v = sqrt(GM/r)."}
+{"instruction": "In simple words, What is quantum mechanics?", "response": "Reasoning: Use core definitions and physical meaning. Final: Quantum mechanics is the physics theory describing matter and energy at atomic and subatomic scales using probabilistic states."}
+{"instruction": "Explain clearly: What is an atom?", "response": "Reasoning: Use core definitions and physical meaning. Final: An atom is the smallest unit of an element that keeps its chemical properties. It has a nucleus (protons and neutrons) with electrons around it."}
+{"instruction": "Explain clearly: Difference between atom and molecule?", "response": "Reasoning: Use core definitions and physical meaning. Final: An atom is a single elemental unit, while a molecule is a bonded group of atoms."}
+{"instruction": "Explain clearly: What is kinetic energy?", "response": "Reasoning: Use core definitions and physical meaning. Final: Kinetic energy is E_k = 1/2 m v^2."}
+{"instruction": "Teach me like a beginner: What is Schr\u00f6dinger equation used for?", "response": "Reasoning: Use core definitions and physical meaning. Final: It describes how a quantum state evolves and lets us compute probability amplitudes for physical outcomes."}
+{"instruction": "In simple words, What is ionization?", "response": "Reasoning: Use core definitions and physical meaning. Final: Ionization is the process of removing or adding electrons to an atom or molecule, creating an ion."}
+{"instruction": "Explain clearly: What is a black hole?", "response": "Reasoning: Use core definitions and physical meaning. Final: A black hole is a spacetime region where gravity is so strong that within the event horizon nothing, not even light, can escape."}
+{"instruction": "Teach me like a beginner: What is heat capacity?", "response": "Reasoning: Use core definitions and physical meaning. Final: Heat capacity is the amount of heat needed to change a body's temperature by one unit."}
+{"instruction": "Explain clearly: What is thermodynamics?", "response": "Reasoning: Use core definitions and physical meaning. Final: Thermodynamics studies heat, work, energy, and how macroscopic systems exchange and transform them."}
+{"instruction": "Teach me like a beginner: What is isotope?", "response": "Reasoning: Use core definitions and physical meaning. Final: Isotopes are atoms of the same element with the same proton count but different neutron counts."}
+{"instruction": "In simple words, What is delta-v budget?", "response": "Reasoning: Use core definitions and physical meaning. Final: A delta-v budget is the total planned velocity change required across mission phases."}
+{"instruction": "In simple words, Why do rockets work in space without air?", "response": "Reasoning: Use core definitions and physical meaning. Final: Rockets work by conservation of momentum; they do not need air because thrust comes from expelling propellant mass."}
+{"instruction": "In simple words, What is superposition?", "response": "Reasoning: Use core definitions and physical meaning. Final: Superposition means a quantum system can exist in a linear combination of states until measured."}
+{"instruction": "Teach me like a beginner: What is a proton?", "response": "Reasoning: Use core definitions and physical meaning. Final: A proton is a positively charged particle in the atomic nucleus."}
+{"instruction": "Teach me like a beginner: What is Heisenberg uncertainty principle?", "response": "Reasoning: Use core definitions and physical meaning. Final: It states that position and momentum cannot both be known with arbitrary precision at the same time: Delta x * Delta p >= hbar/2."}
+{"instruction": "Explain clearly: What is quantum mechanics?", "response": "Reasoning: Use core definitions and physical meaning. Final: Quantum mechanics is the physics theory describing matter and energy at atomic and subatomic scales using probabilistic states."}
+{"instruction": "Teach me like a beginner: Why do rockets work in space without air?", "response": "Reasoning: Use core definitions and physical meaning. Final: Rockets work by conservation of momentum; they do not need air because thrust comes from expelling propellant mass."}
+{"instruction": "Teach me like a beginner: What is redshift?", "response": "Reasoning: Use core definitions and physical meaning. Final: Redshift is an increase in observed wavelength, often caused by recession velocity or cosmic expansion."}
+{"instruction": "Teach me like a beginner: What is apogee and perigee?", "response": "Reasoning: Use core definitions and physical meaning. Final: In Earth orbits, perigee is the nearest point and apogee is the farthest point from Earth."}
+{"instruction": "In simple words, What is kinetic energy?", "response": "Reasoning: Use core definitions and physical meaning. Final: Kinetic energy is E_k = 1/2 m v^2."}
+{"instruction": "Teach me like a beginner: What is a light-year?", "response": "Reasoning: Use core definitions and physical meaning. Final: A light-year is a distance unit equal to how far light travels in vacuum in one year."}
+{"instruction": "Give a concise but complete answer: What is quantum mechanics?", "response": "Reasoning: Use core definitions and physical meaning. Final: Quantum mechanics is the physics theory describing matter and energy at atomic and subatomic scales using probabilistic states."}
+{"instruction": "Explain clearly: What is entropy?", "response": "Reasoning: Use core definitions and physical meaning. Final: Entropy is a measure of energy dispersal or the number of microscopic configurations consistent with a macroscopic state."}
+{"instruction": "Give a concise but complete answer: What is Big Bang theory?", "response": "Reasoning: Use core definitions and physical meaning. Final: Big Bang theory says the universe expanded from a hot dense early state and has been evolving for billions of years."}
+{"instruction": "Teach me like a beginner: What is a parsec?", "response": "Reasoning: Use core definitions and physical meaning. Final: A parsec is a distance unit equal to about 3.26 light-years."}
+{"instruction": "Explain clearly: What is spectroscopy in astronomy?", "response": "Reasoning: Use core definitions and physical meaning. Final: Spectroscopy analyzes light by wavelength to infer composition, temperature, motion, and other properties of celestial objects."}
+{"instruction": "Explain clearly: What is cosmic microwave background?", "response": "Reasoning: Use core definitions and physical meaning. Final: The cosmic microwave background is relic thermal radiation from the early universe, observed as a near-uniform microwave signal."}
+{"instruction": "Explain clearly: What is a molecule?", "response": "Reasoning: Use core definitions and physical meaning. Final: A molecule is two or more atoms chemically bonded together, such as H2O or CO2."}
+{"instruction": "Give a concise but complete answer: What is heat capacity?", "response": "Reasoning: Use core definitions and physical meaning. Final: Heat capacity is the amount of heat needed to change a body's temperature by one unit."}
+{"instruction": "Give a concise but complete answer: What is low Earth orbit?", "response": "Reasoning: Use core definitions and physical meaning. Final: Low Earth orbit (LEO) is roughly 160 to 2,000 km altitude above Earth."}
+{"instruction": "Teach me like a beginner: What is a neutron?", "response": "Reasoning: Use core definitions and physical meaning. Final: A neutron is an electrically neutral particle in the atomic nucleus."}
+{"instruction": "Teach me like a beginner: What is orbital velocity for circular orbit?", "response": "Reasoning: Use core definitions and physical meaning. Final: Circular orbital speed is v = sqrt(GM/r)."}
+{"instruction": "Teach me like a beginner: What is escape velocity?", "response": "Reasoning: Use core definitions and physical meaning. Final: Escape velocity is the minimum speed to leave a body's gravitational field without further propulsion: v_e = sqrt(2GM/R)."}
+{"instruction": "Give a concise but complete answer: What is Heisenberg uncertainty principle?", "response": "Reasoning: Use core definitions and physical meaning. Final: It states that position and momentum cannot both be known with arbitrary precision at the same time: Delta x * Delta p >= hbar/2."}
+{"instruction": "Teach me like a beginner: What is a black hole?", "response": "Reasoning: Use core definitions and physical meaning. Final: A black hole is a spacetime region where gravity is so strong that within the event horizon nothing, not even light, can escape."}
+{"instruction": "Teach me like a beginner: What is wave-particle duality?", "response": "Reasoning: Use core definitions and physical meaning. Final: Wave-particle duality means microscopic entities like electrons and photons show both wave-like and particle-like behavior."}
+{"instruction": "Explain clearly: What is specific impulse in rockets?", "response": "Reasoning: Use core definitions and physical meaning. Final: Specific impulse (Isp) measures propulsion efficiency and is thrust per unit propellant flow rate, usually in seconds."}
+{"instruction": "Teach me like a beginner: What is entanglement?", "response": "Reasoning: Use core definitions and physical meaning. Final: Entanglement is a quantum correlation where the state of one particle is linked to another even at large separation."}
+{"instruction": "Give a concise but complete answer: What is a proton?", "response": "Reasoning: Use core definitions and physical meaning. Final: A proton is a positively charged particle in the atomic nucleus."}
+{"instruction": "Give a concise but complete answer: What is Schr\u00f6dinger equation used for?", "response": "Reasoning: Use core definitions and physical meaning. Final: It describes how a quantum state evolves and lets us compute probability amplitudes for physical outcomes."}
+{"instruction": "Give a concise but complete answer: What is orbital velocity for circular orbit?", "response": "Reasoning: Use core definitions and physical meaning. Final: Circular orbital speed is v = sqrt(GM/r)."}
+{"instruction": "In simple words, What is dark matter?", "response": "Reasoning: Use core definitions and physical meaning. Final: Dark matter is non-luminous matter inferred from gravitational effects on galaxies and cosmic structure."}
+{"instruction": "In simple words, What is potential energy near Earth surface?", "response": "Reasoning: Use core definitions and physical meaning. Final: Gravitational potential energy near Earth is U = mgh."}
+{"instruction": "In simple words, What is Big Bang theory?", "response": "Reasoning: Use core definitions and physical meaning. Final: Big Bang theory says the universe expanded from a hot dense early state and has been evolving for billions of years."}
+{"instruction": "Give a concise but complete answer: What is apogee and perigee?", "response": "Reasoning: Use core definitions and physical meaning. Final: In Earth orbits, perigee is the nearest point and apogee is the farthest point from Earth."}
+{"instruction": "Give a concise but complete answer: What is cosmic microwave background?", "response": "Reasoning: Use core definitions and physical meaning. Final: The cosmic microwave background is relic thermal radiation from the early universe, observed as a near-uniform microwave signal."}
+{"instruction": "Explain clearly: What is dark energy?", "response": "Reasoning: Use core definitions and physical meaning. Final: Dark energy is a component associated with accelerated cosmic expansion."}
+{"instruction": "Give a concise but complete answer: What is kinetic energy?", "response": "Reasoning: Use core definitions and physical meaning. Final: Kinetic energy is E_k = 1/2 m v^2."}
+{"instruction": "Teach me like a beginner: What is potential energy near Earth surface?", "response": "Reasoning: Use core definitions and physical meaning. Final: Gravitational potential energy near Earth is U = mgh."}
+{"instruction": "Explain clearly: What is the difference between astronomy and astrophysics?", "response": "Reasoning: Use core definitions and physical meaning. Final: Astronomy focuses on observing celestial objects; astrophysics applies physics to explain their behavior and evolution."}
+{"instruction": "Teach me like a beginner: What is the difference between astronomy and astrophysics?", "response": "Reasoning: Use core definitions and physical meaning. Final: Astronomy focuses on observing celestial objects; astrophysics applies physics to explain their behavior and evolution."}
+{"instruction": "Teach me like a beginner: What is rocket equation?", "response": "Reasoning: Use core definitions and physical meaning. Final: Tsiolkovsky rocket equation: Delta v = v_e * ln(m0/mf)."}
+{"instruction": "Give a concise but complete answer: What is an electron?", "response": "Reasoning: Use core definitions and physical meaning. Final: An electron is a negatively charged particle found in quantum states around the nucleus."}
+{"instruction": "Explain clearly: What is wave-particle duality?", "response": "Reasoning: Use core definitions and physical meaning. Final: Wave-particle duality means microscopic entities like electrons and photons show both wave-like and particle-like behavior."}
+{"instruction": "Give a concise but complete answer: What is a parsec?", "response": "Reasoning: Use core definitions and physical meaning. Final: A parsec is a distance unit equal to about 3.26 light-years."}
+{"instruction": "Give a concise but complete answer: What is escape velocity?", "response": "Reasoning: Use core definitions and physical meaning. Final: Escape velocity is the minimum speed to leave a body's gravitational field without further propulsion: v_e = sqrt(2GM/R)."}
+{"instruction": "Explain clearly: What is low Earth orbit?", "response": "Reasoning: Use core definitions and physical meaning. Final: Low Earth orbit (LEO) is roughly 160 to 2,000 km altitude above Earth."}
+{"instruction": "Give a concise but complete answer: What is rocket equation?", "response": "Reasoning: Use core definitions and physical meaning. Final: Tsiolkovsky rocket equation: Delta v = v_e * ln(m0/mf)."}
+{"instruction": "Explain clearly: What is a parsec?", "response": "Reasoning: Use core definitions and physical meaning. Final: A parsec is a distance unit equal to about 3.26 light-years."}
+{"instruction": "In simple words, What is Newton's first law?", "response": "Reasoning: Use core definitions and physical meaning. Final: An object remains at rest or in uniform straight-line motion unless acted on by a net external force."}
+{"instruction": "Give a concise but complete answer: What is momentum?", "response": "Reasoning: Use core definitions and physical meaning. Final: Momentum is mass times velocity: p = mv."}
+{"instruction": "In simple words, What is spectroscopy in astronomy?", "response": "Reasoning: Use core definitions and physical meaning. Final: Spectroscopy analyzes light by wavelength to infer composition, temperature, motion, and other properties of celestial objects."}
+{"instruction": "Give a concise but complete answer: What is superposition?", "response": "Reasoning: Use core definitions and physical meaning. Final: Superposition means a quantum system can exist in a linear combination of states until measured."}
+{"instruction": "Give a concise but complete answer: What is the difference between astronomy and astrophysics?", "response": "Reasoning: Use core definitions and physical meaning. Final: Astronomy focuses on observing celestial objects; astrophysics applies physics to explain their behavior and evolution."}
+{"instruction": "Give a concise but complete answer: What is ideal gas law?", "response": "Reasoning: Use core definitions and physical meaning. Final: Ideal gas law: PV = nRT."}
+{"instruction": "Give a concise but complete answer: What is an atom?", "response": "Reasoning: Use core definitions and physical meaning. Final: An atom is the smallest unit of an element that keeps its chemical properties. It has a nucleus (protons and neutrons) with electrons around it."}
+{"instruction": "Teach me like a beginner: Difference between atom and molecule?", "response": "Reasoning: Use core definitions and physical meaning. Final: An atom is a single elemental unit, while a molecule is a bonded group of atoms."}
+{"instruction": "Explain clearly: What is a proton?", "response": "Reasoning: Use core definitions and physical meaning. Final: A proton is a positively charged particle in the atomic nucleus."}
+{"instruction": "Explain clearly: What is potential energy near Earth surface?", "response": "Reasoning: Use core definitions and physical meaning. Final: Gravitational potential energy near Earth is U = mgh."}
+{"instruction": "Give a concise but complete answer: What is staging in rockets?", "response": "Reasoning: Use core definitions and physical meaning. Final: Staging discards spent mass during ascent to improve mass ratio and increase achievable Delta v."}
+{"instruction": "Give a concise but complete answer: What is redshift?", "response": "Reasoning: Use core definitions and physical meaning. Final: Redshift is an increase in observed wavelength, often caused by recession velocity or cosmic expansion."}
+{"instruction": "In simple words, What is staging in rockets?", "response": "Reasoning: Use core definitions and physical meaning. Final: Staging discards spent mass during ascent to improve mass ratio and increase achievable Delta v."}
+{"instruction": "Explain clearly: What is thrust?", "response": "Reasoning: Use core definitions and physical meaning. Final: Thrust is the force generated by expelling mass at high speed from a propulsion system."}
+{"instruction": "Teach me like a beginner: What is a molecule?", "response": "Reasoning: Use core definitions and physical meaning. Final: A molecule is two or more atoms chemically bonded together, such as H2O or CO2."}
+{"instruction": "Explain clearly: What is isotope?", "response": "Reasoning: Use core definitions and physical meaning. Final: Isotopes are atoms of the same element with the same proton count but different neutron counts."}
+{"instruction": "In simple words, What is a proton?", "response": "Reasoning: Use core definitions and physical meaning. Final: A proton is a positively charged particle in the atomic nucleus."}
+{"instruction": "In simple words, What is a light-year?", "response": "Reasoning: Use core definitions and physical meaning. Final: A light-year is a distance unit equal to how far light travels in vacuum in one year."}
+{"instruction": "Explain clearly: What is a light-year?", "response": "Reasoning: Use core definitions and physical meaning. Final: A light-year is a distance unit equal to how far light travels in vacuum in one year."}
+{"instruction": "Explain clearly: What is Hohmann transfer?", "response": "Reasoning: Use core definitions and physical meaning. Final: A Hohmann transfer is a two-burn orbital maneuver to move between two coplanar circular orbits with minimum energy."}
+{"instruction": "Teach me like a beginner: What is Big Bang theory?", "response": "Reasoning: Use core definitions and physical meaning. Final: Big Bang theory says the universe expanded from a hot dense early state and has been evolving for billions of years."}
+{"instruction": "Explain clearly: What is delta-v budget?", "response": "Reasoning: Use core definitions and physical meaning. Final: A delta-v budget is the total planned velocity change required across mission phases."}
+{"instruction": "Teach me like a beginner: State the second law of thermodynamics.", "response": "Reasoning: Use core definitions and physical meaning. Final: Second law: entropy of an isolated system does not decrease; spontaneous processes increase total entropy."}
+{"instruction": "Teach me like a beginner: What is geostationary orbit?", "response": "Reasoning: Use core definitions and physical meaning. Final: A geostationary orbit is an equatorial circular orbit with a 24-hour period where a satellite appears fixed over one longitude."}
+{"instruction": "Explain clearly: What is an electron?", "response": "Reasoning: Use core definitions and physical meaning. Final: An electron is a negatively charged particle found in quantum states around the nucleus."}
+{"instruction": "Give a concise but complete answer: What is dark matter?", "response": "Reasoning: Use core definitions and physical meaning. Final: Dark matter is non-luminous matter inferred from gravitational effects on galaxies and cosmic structure."}
+{"instruction": "In simple words, What is a black hole?", "response": "Reasoning: Use core definitions and physical meaning. Final: A black hole is a spacetime region where gravity is so strong that within the event horizon nothing, not even light, can escape."}
+{"instruction": "Explain clearly: What is heat capacity?", "response": "Reasoning: Use core definitions and physical meaning. Final: Heat capacity is the amount of heat needed to change a body's temperature by one unit."}
+{"instruction": "Teach me like a beginner: What is momentum?", "response": "Reasoning: Use core definitions and physical meaning. Final: Momentum is mass times velocity: p = mv."}
+{"instruction": "In simple words, What is Schr\u00f6dinger equation used for?", "response": "Reasoning: Use core definitions and physical meaning. Final: It describes how a quantum state evolves and lets us compute probability amplitudes for physical outcomes."}
+{"instruction": "In simple words, What is an electron?", "response": "Reasoning: Use core definitions and physical meaning. Final: An electron is a negatively charged particle found in quantum states around the nucleus."}
+{"instruction": "Give a concise but complete answer: What is a black hole?", "response": "Reasoning: Use core definitions and physical meaning. Final: A black hole is a spacetime region where gravity is so strong that within the event horizon nothing, not even light, can escape."}
+{"instruction": "Teach me like a beginner: What is low Earth orbit?", "response": "Reasoning: Use core definitions and physical meaning. Final: Low Earth orbit (LEO) is roughly 160 to 2,000 km altitude above Earth."}
+{"instruction": "Give a concise but complete answer: What is a light-year?", "response": "Reasoning: Use core definitions and physical meaning. Final: A light-year is a distance unit equal to how far light travels in vacuum in one year."}
+{"instruction": "Explain clearly: What is redshift?", "response": "Reasoning: Use core definitions and physical meaning. Final: Redshift is an increase in observed wavelength, often caused by recession velocity or cosmic expansion."}
+{"instruction": "Give a concise but complete answer: What is a molecule?", "response": "Reasoning: Use core definitions and physical meaning. Final: A molecule is two or more atoms chemically bonded together, such as H2O or CO2."}
+{"instruction": "Give a concise but complete answer: What is ionization?", "response": "Reasoning: Use core definitions and physical meaning. Final: Ionization is the process of removing or adding electrons to an atom or molecule, creating an ion."}
+{"instruction": "In simple words, Difference between atom and molecule?", "response": "Reasoning: Use core definitions and physical meaning. Final: An atom is a single elemental unit, while a molecule is a bonded group of atoms."}
+{"instruction": "Teach me like a beginner: What is an atom?", "response": "Reasoning: Use core definitions and physical meaning. Final: An atom is the smallest unit of an element that keeps its chemical properties. It has a nucleus (protons and neutrons) with electrons around it."}
+{"instruction": "In simple words, What is geostationary orbit?", "response": "Reasoning: Use core definitions and physical meaning. Final: A geostationary orbit is an equatorial circular orbit with a 24-hour period where a satellite appears fixed over one longitude."}

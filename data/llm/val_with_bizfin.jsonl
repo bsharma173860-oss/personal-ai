@@ -1,0 +1,339 @@
+{"instruction": "Given u=0 m/s, a=9.8 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=9.8 m/s and s=4.9 m."}
+{"instruction": "Solve equation x^2 - 4x - 12 = 0.", "response": "Factoring gives roots x = 6 and x = -2."}
+{"instruction": "A mass of 2 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 2.0 = 4.0 N."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=11.5 m."}
+{"instruction": "Solve equation x^2 - 15x + 56 = 0.", "response": "Factoring gives roots x = 7 and x = 8."}
+{"instruction": "Find limit of sin(8x)/(8x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=21.0 m."}
+{"instruction": "Find limit of sin(12x)/(12x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Integrate f(x) = 3x^3 - 2x^4 - 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/4x^4 - 2/5x^5 - 2/5x^5 + C."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=83.4 m/s and s=353.6 m."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=34.5 m."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.0 m/s and s=176.0 m."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=16.0 m."}
+{"instruction": "A mass of 10 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 2.0 = 20.0 N."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=6.0 m."}
+{"instruction": "Integrate f(x) = -4x^4 + 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/5x^5 + 7x + C."}
+{"instruction": "Solve equation x^2 + 0x - 9 = 0.", "response": "Factoring gives roots x = 3 and x = -3."}
+{"instruction": "Integrate f(x) = 9 - 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x - 3x^3 + C."}
+{"instruction": "Find limit of sin(6x)/(6x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Given u=2 m/s, a=1.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=7.0 m/s and s=22.5 m."}
+{"instruction": "Differentiate f(x) = 2x^3 - 6x^4.", "response": "Using the power rule term-by-term, f'(x) = 6x^2 - 24x^3."}
+{"instruction": "Integrate f(x) = 9x + 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 + 7/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -x + 8x^4 - 6x^5 - 8x^3.", "response": "Using the power rule term-by-term, f'(x) = -1 + 32x^3 - 30x^4 - 24x^2."}
+{"instruction": "Solve equation x^2 - 3x - 108 = 0.", "response": "Factoring gives roots x = 12 and x = -9."}
+{"instruction": "Differentiate f(x) = -6x^4 - 8x^4 - 6x - 6x.", "response": "Using the power rule term-by-term, f'(x) = -24x^3 - 32x^3 - 6 - 6."}
+{"instruction": "Find limit of sin(3x)/(3x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=20.0 m/s and s=62.5 m."}
+{"instruction": "Solve equation x^2 - 2x - 99 = 0.", "response": "Factoring gives roots x = 11 and x = -9."}
+{"instruction": "Integrate f(x) = 3x^2 - 5 - 3x^3 + 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^3 - 5x - 3/4x^4 + 5x + C."}
+{"instruction": "Integrate f(x) = 2x^2 + 8x - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/3x^3 + 4x^2 - 7/3x^3 + C."}
+{"instruction": "Solve equation x^2 - 7x - 8 = 0.", "response": "Factoring gives roots x = -1 and x = 8."}
+{"instruction": "Solve equation x^2 + 13x + 40 = 0.", "response": "Factoring gives roots x = -5 and x = -8."}
+{"instruction": "Solve equation x^2 - 2x + 1 = 0.", "response": "Factoring gives roots x = 1 and x = 1."}
+{"instruction": "Solve equation x^2 - 13x + 36 = 0.", "response": "Factoring gives roots x = 4 and x = 9."}
+{"instruction": "Find limit of sin(1x)/(1x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 - 4x - 96 = 0.", "response": "Factoring gives roots x = -8 and x = 12."}
+{"instruction": "Differentiate f(x) = 8 - 7x^2 + 2x^3 - 4x^3.", "response": "Using the power rule term-by-term, f'(x) = -14x + 6x^2 - 12x^2."}
+{"instruction": "Differentiate f(x) = -8x^5 - 5x^4 - 8x^5.", "response": "Using the power rule term-by-term, f'(x) = -40x^4 - 20x^3 - 40x^4."}
+{"instruction": "Given u=15 m/s, a=2.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=23.0 m/s and s=76.0 m."}
+{"instruction": "Solve equation x^2 - 19x + 90 = 0.", "response": "Factoring gives roots x = 9 and x = 10."}
+{"instruction": "A mass of 15 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 9.8 = 147.0 N."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=7.0 m/s and s=6.0 m."}
+{"instruction": "Find limit of sin(9x)/(9x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "A mass of 5 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 9.8 = 49.0 N."}
+{"instruction": "Solve equation x^2 - 10x + 16 = 0.", "response": "Factoring gives roots x = 2 and x = 8."}
+{"instruction": "Integrate f(x) = 6x^5 + 3x^5 + 4x + 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^6 + 3/6x^6 + 2x^2 + x + C."}
+{"instruction": "Differentiate f(x) = 2x^3 - 5x^4 + 9x^2 - 3.", "response": "Using the power rule term-by-term, f'(x) = 6x^2 - 20x^3 + 18x."}
+{"instruction": "A mass of 15 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 4.0 = 60.0 N."}
+{"instruction": "Find limit of sin(11x)/(11x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Integrate f(x) = -9x^4 - x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/5x^5 - 1/2x^2 + C."}
+{"instruction": "Solve equation x^2 + 5x - 36 = 0.", "response": "Factoring gives roots x = 4 and x = -9."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=9.0 m."}
+{"instruction": "Given u=15 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=16.0 m."}
+{"instruction": "Differentiate f(x) = -6x^3 + x^4 - 9x^3 + 2x.", "response": "Using the power rule term-by-term, f'(x) = -18x^2 + 4x^3 - 27x^2 + 2."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=93.4 m/s and s=433.6 m."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.6 m/s and s=49.6 m."}
+{"instruction": "Find limit of sin(5x)/(5x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=23.0 m/s and s=152.0 m."}
+{"instruction": "Solve equation x^2 - 15x + 44 = 0.", "response": "Factoring gives roots x = 4 and x = 11."}
+{"instruction": "Integrate f(x) = 2x^4 - 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/5x^5 - x^3 + C."}
+{"instruction": "Solve equation x^2 + 17x + 72 = 0.", "response": "Factoring gives roots x = -9 and x = -8."}
+{"instruction": "Differentiate f(x) = 5x + 7x.", "response": "Using the power rule term-by-term, f'(x) = 5 + 7."}
+{"instruction": "Solve equation x^2 + 11x + 10 = 0.", "response": "Factoring gives roots x = -10 and x = -1."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=30.0 m/s and s=112.5 m."}
+{"instruction": "A mass of 30 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 12.0 = 360.0 N."}
+{"instruction": "Find limit of sin(10x)/(10x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 - 9x + 8 = 0.", "response": "Factoring gives roots x = 8 and x = 1."}
+{"instruction": "Solve equation x^2 - 13x + 30 = 0.", "response": "Factoring gives roots x = 10 and x = 3."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=12.0 m/s and s=22.0 m."}
+{"instruction": "A mass of 5 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 3.5 = 17.5 N."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=18.0 m/s and s=112.0 m."}
+{"instruction": "A mass of 2 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 9.8 = 19.6 N."}
+{"instruction": "Integrate f(x) = 7 - 4x^4 + 3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7x - 4/5x^5 + 3x + C."}
+{"instruction": "A mass of 30 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 0.5 = 15.0 N."}
+{"instruction": "Differentiate f(x) = 1 + 8x - 6x^2.", "response": "Using the power rule term-by-term, f'(x) = 8 - 12x."}
+{"instruction": "Solve equation x^2 + 20x + 96 = 0.", "response": "Factoring gives roots x = -12 and x = -8."}
+{"instruction": "Integrate f(x) = 5 + x^2 - 3x + 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5x + 1/3x^3 - 3/2x^2 + 7x + C."}
+{"instruction": "Differentiate f(x) = 3 - 8x^3 + 7x^4 + x^4.", "response": "Using the power rule term-by-term, f'(x) = -24x^2 + 28x^3 + 4x^3."}
+{"instruction": "Solve equation x^2 + 2x + 0 = 0.", "response": "Factoring gives roots x = -2 and x = 0."}
+{"instruction": "Solve equation x^2 - 18x + 77 = 0.", "response": "Factoring gives roots x = 11 and x = 7."}
+{"instruction": "Integrate f(x) = 8x^5 + 6x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/6x^6 + 6/4x^4 + C."}
+{"instruction": "Find limit of sin(2x)/(2x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "A mass of 30 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 3.5 = 105.0 N."}
+{"instruction": "Integrate f(x) = 2x^4 - 8x^5 + 6x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/5x^5 - 8/6x^6 + x^6 + C."}
+{"instruction": "Differentiate f(x) = -9x^4 + x^4.", "response": "Using the power rule term-by-term, f'(x) = -36x^3 + 4x^3."}
+{"instruction": "Integrate f(x) = 9x^4 - 8x^4 + 8x + 7x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/5x^5 - 8/5x^5 + 4x^2 + 7/5x^5 + C."}
+{"instruction": "Differentiate f(x) = 9x - 9x^2.", "response": "Using the power rule term-by-term, f'(x) = 9 - 18x."}
+{"instruction": "Integrate f(x) = 6 + 9x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6x + 9/5x^5 + C."}
+{"instruction": "Find limit of sin(7x)/(7x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "A mass of 1 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 3.5 = 3.5 N."}
+{"instruction": "Differentiate f(x) = 5x + 5 + 8x^2.", "response": "Using the power rule term-by-term, f'(x) = 5 + 16x."}
+{"instruction": "Solve equation x^2 + 14x + 40 = 0.", "response": "Factoring gives roots x = -4 and x = -10."}
+{"instruction": "Differentiate f(x) = 9x + x.", "response": "Using the power rule term-by-term, f'(x) = 9 + 1."}
+{"instruction": "Integrate f(x) = -7x + x^3 - 4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/2x^2 + 1/4x^4 - 4x + C."}
+{"instruction": "A mass of 20 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 1.0 = 20.0 N."}
+{"instruction": "Differentiate f(x) = -8x^2 + 4 + 2x + 5x^2.", "response": "Using the power rule term-by-term, f'(x) = -16x + 2 + 10x."}
+{"instruction": "Differentiate f(x) = -3x - 2x^3.", "response": "Using the power rule term-by-term, f'(x) = -3 - 6x^2."}
+{"instruction": "Solve equation x^2 + 11x - 12 = 0.", "response": "Factoring gives roots x = -12 and x = 1."}
+{"instruction": "Given u=2 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=3.5 m/s and s=8.25 m."}
+{"instruction": "A mass of 2 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 1.0 = 2.0 N."}
+{"instruction": "A mass of 5 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 2.0 = 10.0 N."}
+{"instruction": "Differentiate f(x) = 8x - 5x^2 + 9x - 2x^4.", "response": "Using the power rule term-by-term, f'(x) = 8 - 10x + 9 - 8x^3."}
+{"instruction": "Solve equation x^2 - 7x + 10 = 0.", "response": "Factoring gives roots x = 5 and x = 2."}
+{"instruction": "Differentiate f(x) = 6x^4 + x^5.", "response": "Using the power rule term-by-term, f'(x) = 24x^3 + 5x^4."}
+{"instruction": "Integrate f(x) = -8x^3 - x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x^4 - 1/5x^5 + C."}
+{"instruction": "Integrate f(x) = 8x^2 - 8x + 9x^4 - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/3x^3 - 4x^2 + 9/5x^5 - 7/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -6x + 9x^2 + 5x.", "response": "Using the power rule term-by-term, f'(x) = -6 + 18x + 5."}
+{"instruction": "A mass of 20 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 9.8 = 196.0 N."}
+{"instruction": "Solve equation x^2 + 9x + 20 = 0.", "response": "Factoring gives roots x = -4 and x = -5."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=9.0 m/s and s=14.0 m."}
+{"instruction": "Solve equation x^2 - 5x - 14 = 0.", "response": "Factoring gives roots x = 7 and x = -2."}
+{"instruction": "Differentiate f(x) = -5x^5 - 9x^4 + 7 - 9x^5.", "response": "Using the power rule term-by-term, f'(x) = -25x^4 - 36x^3 - 45x^4."}
+{"instruction": "Integrate f(x) = 9x^5 + 7x^3 + 9 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/6x^6 + 7/4x^4 + 9x + C."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.5 m/s and s=32.25 m."}
+{"instruction": "Solve equation x^2 - 6x - 7 = 0.", "response": "Factoring gives roots x = 7 and x = -1."}
+{"instruction": "Solve equation x^2 - 5x - 84 = 0.", "response": "Factoring gives roots x = -7 and x = 12."}
+{"instruction": "Given u=0 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.0 m/s and s=4.0 m."}
+{"instruction": "Find limit of sin(4x)/(4x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 + 17x + 60 = 0.", "response": "Factoring gives roots x = -12 and x = -5."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=16.0 m/s and s=64.0 m."}
+{"instruction": "Given u=5 m/s, a=1.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=5.5 m."}
+{"instruction": "A mass of 15 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 12.0 = 180.0 N."}
+{"instruction": "Given u=2 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=16.0 m."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=16.0 m/s and s=15.5 m."}
+{"instruction": "Integrate f(x) = 4 - x^4 + 8x^3 - 4x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4x - 1/5x^5 + 2x^4 - 4/5x^5 + C."}
+{"instruction": "Integrate f(x) = -4 - 5x^5 - 7x - x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4x - 5/6x^6 - 7/2x^2 - 1/5x^5 + C."}
+{"instruction": "Integrate f(x) = -x - 9x^5 + 9x^4 - x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/2x^2 - 9/6x^6 + 9/5x^5 - 1/6x^6 + C."}
+{"instruction": "A mass of 50 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 0.5 = 25.0 N."}
+{"instruction": "Solve equation x^2 - 17x + 72 = 0.", "response": "Factoring gives roots x = 8 and x = 9."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=8.0 m/s and s=16.0 m."}
+{"instruction": "Solve equation x^2 + 13x + 36 = 0.", "response": "Factoring gives roots x = -4 and x = -9."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=27.0 m/s and s=84.0 m."}
+{"instruction": "Differentiate f(x) = -2 - x^3 + 9x^3 + 2.", "response": "Using the power rule term-by-term, f'(x) = -3x^2 + 27x^2."}
+{"instruction": "Solve equation x^2 + 8x + 12 = 0.", "response": "Factoring gives roots x = -6 and x = -2."}
+{"instruction": "Differentiate f(x) = -9x^5 - 2x^5 + 5 - 2x.", "response": "Using the power rule term-by-term, f'(x) = -45x^4 - 10x^4 - 2."}
+{"instruction": "Integrate f(x) = 1 - 6 + 7x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x - 6x + 7/4x^4 + C."}
+{"instruction": "Differentiate f(x) = 2x^2 - 2 + 7x + 2.", "response": "Using the power rule term-by-term, f'(x) = 4x + 7."}
+{"instruction": "Integrate f(x) = 6 + 6x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6x + 6/5x^5 + C."}
+{"instruction": "Differentiate f(x) = -8 + 4x^2.", "response": "Using the power rule term-by-term, f'(x) = 8x."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=1.0 m/s and s=0.5 m."}
+{"instruction": "Solve equation x^2 + 14x + 33 = 0.", "response": "Factoring gives roots x = -11 and x = -3."}
+{"instruction": "Differentiate f(x) = -8x^4 - 8x^2 + 4x^3 - 6x^4.", "response": "Using the power rule term-by-term, f'(x) = -32x^3 - 16x + 12x^2 - 24x^3."}
+{"instruction": "Solve equation x^2 - 2x - 35 = 0.", "response": "Factoring gives roots x = -5 and x = 7."}
+{"instruction": "Given u=15 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=64.0 m."}
+{"instruction": "Solve equation x^2 - 3x + 2 = 0.", "response": "Factoring gives roots x = 2 and x = 1."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=37.5 m."}
+{"instruction": "Integrate f(x) = -6 - 7x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -6x - 7/5x^5 + C."}
+{"instruction": "Integrate f(x) = -5x^5 + 8x^2 + 3x^3 + 7x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/6x^6 + 8/3x^3 + 3/4x^4 + 7/6x^6 + C."}
+{"instruction": "A mass of 50 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 1.0 = 50.0 N."}
+{"instruction": "Integrate f(x) = -8 - 5x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8x - 5/3x^3 + C."}
+{"instruction": "A mass of 30 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 4.0 = 120.0 N."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=50.0 m."}
+{"instruction": "A mass of 5 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 1.0 = 5.0 N."}
+{"instruction": "Solve equation x^2 - 4x - 21 = 0.", "response": "Factoring gives roots x = -3 and x = 7."}
+{"instruction": "A mass of 5 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 0.5 = 2.5 N."}
+{"instruction": "Integrate f(x) = 9 + 5x^2 - 3x - 3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x + 5/3x^3 - 3/2x^2 - 3x + C."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=25.0 m/s and s=87.5 m."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=54.0 m/s and s=147.5 m."}
+{"instruction": "Differentiate f(x) = -8x^3 - 2 - 2x^5.", "response": "Using the power rule term-by-term, f'(x) = -24x^2 - 10x^4."}
+{"instruction": "Integrate f(x) = -3x + 7x^5 + 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/2x^2 + 7/6x^6 + 2/6x^6 + C."}
+{"instruction": "Solve equation x^2 + 6x + 0 = 0.", "response": "Factoring gives roots x = -6 and x = 0."}
+{"instruction": "Integrate f(x) = 3 - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x - 7/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -6x + x^3 - 3x^5 + 3.", "response": "Using the power rule term-by-term, f'(x) = -6 + 3x^2 - 15x^4."}
+{"instruction": "Differentiate f(x) = -3x^2 - 4x.", "response": "Using the power rule term-by-term, f'(x) = -6x - 4."}
+{"instruction": "Integrate f(x) = 9x - 4x - 9x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 - 2x^2 - 9/2x^2 + C."}
+{"instruction": "Differentiate f(x) = -5x^3 - 6x^2 - 3x^2 + 6x.", "response": "Using the power rule term-by-term, f'(x) = -15x^2 - 12x - 6x + 6."}
+{"instruction": "Given u=2 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=51.0 m/s and s=132.5 m."}
+{"instruction": "Solve equation x^2 + 0x - 100 = 0.", "response": "Factoring gives roots x = 10 and x = -10."}
+{"instruction": "Differentiate f(x) = -5x - 3x^4.", "response": "Using the power rule term-by-term, f'(x) = -5 - 12x^3."}
+{"instruction": "Solve equation x^2 - 9x - 10 = 0.", "response": "Factoring gives roots x = 10 and x = -1."}
+{"instruction": "Solve equation x^2 - 3x - 40 = 0.", "response": "Factoring gives roots x = 8 and x = -5."}
+{"instruction": "Differentiate f(x) = -3x^4 + x + 2x - 8x^5.", "response": "Using the power rule term-by-term, f'(x) = -12x^3 + 1 + 2 - 40x^4."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=24.0 m/s and s=96.0 m."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=22.0 m/s and s=64.0 m."}
+{"instruction": "Solve equation x^2 - 14x + 48 = 0.", "response": "Factoring gives roots x = 8 and x = 6."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.0 m/s and s=2.0 m."}
+{"instruction": "Integrate f(x) = -2x^3 - 3x^2 + 5x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2/4x^4 - x^3 + 5/4x^4 + C."}
+{"instruction": "A mass of 5 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 12.0 = 60.0 N."}
+{"instruction": "Differentiate f(x) = 6x^4 + 3x - 8x^3.", "response": "Using the power rule term-by-term, f'(x) = 24x^3 + 3 - 24x^2."}
+{"instruction": "A mass of 20 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 3.5 = 70.0 N."}
+{"instruction": "Solve equation x^2 - 2x - 3 = 0.", "response": "Factoring gives roots x = -1 and x = 3."}
+{"instruction": "Solve equation x^2 + 19x + 84 = 0.", "response": "Factoring gives roots x = -12 and x = -7."}
+{"instruction": "Solve equation x^2 + 9x + 20 = 0.", "response": "Factoring gives roots x = -5 and x = -4."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.0 m/s and s=1.0 m."}
+{"instruction": "A mass of 2 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 12.0 = 24.0 N."}
+{"instruction": "Differentiate f(x) = -7x^2 - 8x^4.", "response": "Using the power rule term-by-term, f'(x) = -14x - 32x^3."}
+{"instruction": "Integrate f(x) = -3x^5 + 2x^2 + x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/6x^6 + 2/3x^3 + 1/6x^6 + C."}
+{"instruction": "Given u=5 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=72.0 m."}
+{"instruction": "Solve equation x^2 - 18x + 72 = 0.", "response": "Factoring gives roots x = 6 and x = 12."}
+{"instruction": "Solve equation x^2 + 10x + 25 = 0.", "response": "Factoring gives roots x = -5 and x = -5."}
+{"instruction": "Given u=2 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=8.0 m/s and s=10.0 m."}
+{"instruction": "A mass of 50 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 9.8 = 490.00000000000006 N."}
+{"instruction": "Solve equation x^2 + 12x + 20 = 0.", "response": "Factoring gives roots x = -2 and x = -10."}
+{"instruction": "Solve equation x^2 - 22x + 120 = 0.", "response": "Factoring gives roots x = 12 and x = 10."}
+{"instruction": "Solve equation x^2 + 4x - 12 = 0.", "response": "Factoring gives roots x = -6 and x = 2."}
+{"instruction": "Solve equation x^2 + 7x - 60 = 0.", "response": "Factoring gives roots x = 5 and x = -12."}
+{"instruction": "Integrate f(x) = 5x^5 + 4x^5 + 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/6x^6 + 4/6x^6 + 3x^3 + C."}
+{"instruction": "Differentiate f(x) = -8x - 5x^2 + 4x^3 - 3x^3.", "response": "Using the power rule term-by-term, f'(x) = -8 - 10x + 12x^2 - 9x^2."}
+{"instruction": "Differentiate f(x) = 4x + 7 + 2x^4 + 6x^5.", "response": "Using the power rule term-by-term, f'(x) = 4 + 8x^3 + 30x^4."}
+{"instruction": "Integrate f(x) = 9x - 8x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 - 8/6x^6 + C."}
+{"instruction": "Integrate f(x) = -7x^3 + x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/4x^4 + 1/2x^2 + C."}
+{"instruction": "Integrate f(x) = 8 + 6 + 3x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8x + 6x + 3/5x^5 + C."}
+{"instruction": "Differentiate f(x) = 2x^3 + 4x.", "response": "Using the power rule term-by-term, f'(x) = 6x^2 + 4."}
+{"instruction": "Differentiate f(x) = 9x^3 + 7x^5.", "response": "Using the power rule term-by-term, f'(x) = 27x^2 + 35x^4."}
+{"instruction": "Differentiate f(x) = -3x - 3x^2 + 5x^5.", "response": "Using the power rule term-by-term, f'(x) = -3 - 6x + 25x^4."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=62.5 m."}
+{"instruction": "Integrate f(x) = 6x^2 - 3 - 5x^3 - 7x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^3 - 3x - 5/4x^4 - 7/4x^4 + C."}
+{"instruction": "A mass of 10 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 4.0 = 40.0 N."}
+{"instruction": "Solve equation x^2 - 4x + 4 = 0.", "response": "Factoring gives roots x = 2 and x = 2."}
+{"instruction": "A mass of 1 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 9.8 = 9.8 N."}
+{"instruction": "Differentiate f(x) = 6x^2 + x^3 - 4x^3.", "response": "Using the power rule term-by-term, f'(x) = 12x + 3x^2 - 12x^2."}
+{"instruction": "Integrate f(x) = 5x^3 + 4x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/4x^4 + 4/6x^6 + C."}
+{"instruction": "Integrate f(x) = -6x^3 - 8x - 4x^2 + 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -6/4x^4 - 4x^2 - 4/3x^3 + 3x^3 + C."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=4.0 m/s and s=8.0 m."}
+{"instruction": "Solve equation x^2 - 17x + 60 = 0.", "response": "Factoring gives roots x = 12 and x = 5."}
+{"instruction": "Differentiate f(x) = -7 + 8x^2 + 5x^3.", "response": "Using the power rule term-by-term, f'(x) = 16x + 15x^2."}
+{"instruction": "Integrate f(x) = -3x^4 - 8x^3 - 9 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/5x^5 - 2x^4 - 9x + C."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=19.0 m/s and s=43.5 m."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=14.0 m/s and s=48.0 m."}
+{"instruction": "Differentiate f(x) = -1 - 5x^2.", "response": "Using the power rule term-by-term, f'(x) = -10x."}
+{"instruction": "Differentiate f(x) = 9x^5 - 2x^5.", "response": "Using the power rule term-by-term, f'(x) = 45x^4 - 10x^4."}
+{"instruction": "Solve equation x^2 + 5x - 24 = 0.", "response": "Factoring gives roots x = -8 and x = 3."}
+{"instruction": "Integrate f(x) = -6x + 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3x^2 + x + C."}
+{"instruction": "A mass of 30 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 1.0 = 30.0 N."}
+{"instruction": "Differentiate f(x) = -9x^5 - x + 6x^2 - 4x.", "response": "Using the power rule term-by-term, f'(x) = -45x^4 - 1 + 12x - 4."}
+{"instruction": "Given u=0 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=19.6 m/s and s=19.6 m."}
+{"instruction": "Solve equation x^2 + 1x - 110 = 0.", "response": "Factoring gives roots x = 10 and x = -11."}
+{"instruction": "Teach a beginner: What is volatility?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Volatility measures the magnitude of price fluctuations over time."}
+{"instruction": "In simple words, What is an index fund?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: An index fund tracks a market index and offers broad exposure at low cost."}
+{"instruction": "In simple words, What is cash flow?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Cash flow is net movement of cash into and out of a business over time."}
+{"instruction": "Teach a beginner: What is EPS?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: EPS is earnings per share, typically net income divided by weighted average shares."}
+{"instruction": "Give practical answer: What is market order vs limit order?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Market orders execute immediately at best available price; limit orders execute only at specified price or better."}
+{"instruction": "In simple words, What is valuation?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Valuation estimates the economic worth of a company or asset."}
+{"instruction": "Give practical answer: What is EPS?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: EPS is earnings per share, typically net income divided by weighted average shares."}
+{"instruction": "Explain clearly: What is dollar-cost averaging?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Dollar-cost averaging invests fixed amounts at regular intervals to reduce timing risk."}
+{"instruction": "Give practical answer: What is valuation?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Valuation estimates the economic worth of a company or asset."}
+{"instruction": "Explain clearly: What is stop-loss?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A stop-loss is an order to limit downside by selling when price reaches a threshold."}
+{"instruction": "Explain clearly: What is discounted cash flow (DCF)?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: DCF estimates value by discounting expected future cash flows to present value."}
+{"instruction": "Give practical answer: What is staking in crypto?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Staking locks tokens in proof-of-stake networks to help secure the chain and earn rewards."}
+{"instruction": "Give practical answer: How do interest rates affect stocks?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Higher rates can reduce valuation multiples and increase discount rates; effects vary by sector."}
+{"instruction": "In simple words, What is staking in crypto?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Staking locks tokens in proof-of-stake networks to help secure the chain and earn rewards."}
+{"instruction": "Give practical answer: What is revenue?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Revenue is total income from sales before expenses."}
+{"instruction": "Give practical answer: What is Bitcoin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Bitcoin is a decentralized digital asset secured by cryptography and consensus rules."}
+{"instruction": "In simple words, What is gross margin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Gross margin is gross profit divided by revenue."}
+{"instruction": "Give practical answer: What is discounted cash flow (DCF)?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: DCF estimates value by discounting expected future cash flows to present value."}
+{"instruction": "Explain clearly: What is staking in crypto?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Staking locks tokens in proof-of-stake networks to help secure the chain and earn rewards."}
+{"instruction": "Give practical answer: What is stablecoin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A stablecoin is a crypto token designed to track a stable reference asset such as USD."}
+{"instruction": "In simple words, What is working capital?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Working capital is current assets minus current liabilities."}
+{"instruction": "Give practical answer: What is P/E ratio?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: P/E ratio is price per share divided by earnings per share."}
+{"instruction": "Explain clearly: What is a bull market?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A bull market is a period of generally rising prices and positive sentiment."}
+{"instruction": "Explain clearly: What is Ethereum?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Ethereum is a blockchain platform supporting smart contracts and decentralized applications."}
+{"instruction": "Teach a beginner: How do interest rates affect stocks?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Higher rates can reduce valuation multiples and increase discount rates; effects vary by sector."}
+{"instruction": "Teach a beginner: What is beta in stocks?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Beta estimates how sensitive a stock is to market movements."}
+{"instruction": "Give practical answer: What is liquidity in markets?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Liquidity is how easily an asset can be bought or sold with low price impact."}
+{"instruction": "Teach a beginner: What is stablecoin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A stablecoin is a crypto token designed to track a stable reference asset such as USD."}
+{"instruction": "Teach a beginner: What is P/E ratio?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: P/E ratio is price per share divided by earnings per share."}
+{"instruction": "Explain clearly: What is market capitalization?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Market cap equals share price multiplied by total shares outstanding."}
+{"instruction": "In simple words, What is P/E ratio?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: P/E ratio is price per share divided by earnings per share."}
+{"instruction": "Explain clearly: What is beta in stocks?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Beta estimates how sensitive a stock is to market movements."}
+{"instruction": "In simple words, What is blockchain?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Blockchain is a distributed ledger where transactions are recorded in linked blocks."}
+{"instruction": "Explain clearly: Difference between gross profit and net profit?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Gross profit is revenue minus cost of goods sold; net profit subtracts all operating, interest, and tax expenses."}
+{"instruction": "Teach a beginner: What is EBITDA?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: EBITDA means earnings before interest, taxes, depreciation, and amortization."}
+{"instruction": "Explain clearly: What is liquidity in markets?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Liquidity is how easily an asset can be bought or sold with low price impact."}
+{"instruction": "In simple words, What is free cash flow?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Free cash flow is operating cash flow minus capital expenditures."}
+{"instruction": "In simple words, What is EPS?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: EPS is earnings per share, typically net income divided by weighted average shares."}
+{"instruction": "In simple words, What is volatility?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Volatility measures the magnitude of price fluctuations over time."}
+{"instruction": "Teach a beginner: What is working capital?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Working capital is current assets minus current liabilities."}
+{"instruction": "Teach a beginner: What is a bear market?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A bear market is a period of prolonged declines, often defined as a 20% drop from highs."}
+{"instruction": "Give practical answer: What is CAGR?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: CAGR is compound annual growth rate over multiple periods."}
+{"instruction": "Teach a beginner: What is risk-adjusted return?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Risk-adjusted return evaluates returns relative to risk taken, such as with Sharpe ratio."}
+{"instruction": "Give practical answer: What is balance sheet?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A balance sheet shows assets, liabilities, and equity at a point in time."}
+{"instruction": "Teach a beginner: What is compound interest?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Compound interest means interest is earned on principal plus accumulated interest."}
+{"instruction": "Explain clearly: What is P/E ratio?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: P/E ratio is price per share divided by earnings per share."}
+{"instruction": "Give practical answer: What is market capitalization?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Market cap equals share price multiplied by total shares outstanding."}
+{"instruction": "Teach a beginner: What is diversification in investing?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Diversification spreads investments across assets to reduce concentration risk."}
+{"instruction": "Give practical answer: What is compound interest?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Compound interest means interest is earned on principal plus accumulated interest."}
+{"instruction": "Teach a beginner: What is market order vs limit order?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Market orders execute immediately at best available price; limit orders execute only at specified price or better."}
+{"instruction": "In simple words, What is beta in stocks?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Beta estimates how sensitive a stock is to market movements."}
+{"instruction": "In simple words, What is dollar-cost averaging?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Dollar-cost averaging invests fixed amounts at regular intervals to reduce timing risk."}
+{"instruction": "In simple words, What is liquidity in markets?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Liquidity is how easily an asset can be bought or sold with low price impact."}
+{"instruction": "Give practical answer: What is inflation?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Inflation is a sustained increase in general price levels over time."}
+{"instruction": "In simple words, What is Ethereum?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Ethereum is a blockchain platform supporting smart contracts and decentralized applications."}
+{"instruction": "Give practical answer: What is EBITDA?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: EBITDA means earnings before interest, taxes, depreciation, and amortization."}
+{"instruction": "Explain clearly: What is stablecoin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A stablecoin is a crypto token designed to track a stable reference asset such as USD."}
+{"instruction": "Give practical answer: What is a bear market?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A bear market is a period of prolonged declines, often defined as a 20% drop from highs."}
+{"instruction": "Teach a beginner: What is ROI?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: ROI is return on investment: (gain - cost) / cost."}
+{"instruction": "Explain clearly: What is diversification in investing?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Diversification spreads investments across assets to reduce concentration risk."}
+{"instruction": "In simple words, What is income statement?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: An income statement shows revenues and expenses over a period to derive profit."}
+{"instruction": "Teach a beginner: What is inflation?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Inflation is a sustained increase in general price levels over time."}
+{"instruction": "Explain clearly: What is valuation?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Valuation estimates the economic worth of a company or asset."}
+{"instruction": "Teach a beginner: What is Ethereum?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Ethereum is a blockchain platform supporting smart contracts and decentralized applications."}
+{"instruction": "Give practical answer: What is income statement?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: An income statement shows revenues and expenses over a period to derive profit."}
+{"instruction": "Explain clearly: What is inflation?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Inflation is a sustained increase in general price levels over time."}
+{"instruction": "In simple words, What is CAGR?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: CAGR is compound annual growth rate over multiple periods."}
+{"instruction": "In simple words, What is compound interest?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Compound interest means interest is earned on principal plus accumulated interest."}
+{"instruction": "Teach a beginner: What is Bitcoin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Bitcoin is a decentralized digital asset secured by cryptography and consensus rules."}
+{"instruction": "Explain clearly: What is income statement?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: An income statement shows revenues and expenses over a period to derive profit."}
+{"instruction": "In simple words, Difference between gross profit and net profit?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Gross profit is revenue minus cost of goods sold; net profit subtracts all operating, interest, and tax expenses."}
+{"instruction": "In simple words, What is break-even point?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Break-even is where total revenue equals total costs and profit is zero."}
+{"instruction": "Give practical answer: What is private key in crypto?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A private key is a secret credential controlling ownership of crypto addresses."}
+{"instruction": "In simple words, What is discounted cash flow (DCF)?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: DCF estimates value by discounting expected future cash flows to present value."}
+{"instruction": "In simple words, What is balance sheet?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A balance sheet shows assets, liabilities, and equity at a point in time."}
+{"instruction": "Explain clearly: What is debt-to-equity ratio?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Debt-to-equity compares total debt to shareholder equity."}
+{"instruction": "Teach a beginner: What is debt-to-equity ratio?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Debt-to-equity compares total debt to shareholder equity."}
+{"instruction": "In simple words, What is ROI?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: ROI is return on investment: (gain - cost) / cost."}
+{"instruction": "Teach a beginner: What is market capitalization?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Market cap equals share price multiplied by total shares outstanding."}
+{"instruction": "In simple words, What is a bull market?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A bull market is a period of generally rising prices and positive sentiment."}
+{"instruction": "Teach a beginner: What is break-even point?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Break-even is where total revenue equals total costs and profit is zero."}
+{"instruction": "Teach a beginner: Difference between gross profit and net profit?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Gross profit is revenue minus cost of goods sold; net profit subtracts all operating, interest, and tax expenses."}
+{"instruction": "Give practical answer: What is gross margin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Gross margin is gross profit divided by revenue."}
+{"instruction": "Give practical answer: What is Ethereum?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Ethereum is a blockchain platform supporting smart contracts and decentralized applications."}
+{"instruction": "Teach a beginner: What is liquidity in markets?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Liquidity is how easily an asset can be bought or sold with low price impact."}
+{"instruction": "Teach a beginner: What is blockchain?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Blockchain is a distributed ledger where transactions are recorded in linked blocks."}
+{"instruction": "Explain clearly: What is revenue?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Revenue is total income from sales before expenses."}
+{"instruction": "Teach a beginner: What is income statement?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: An income statement shows revenues and expenses over a period to derive profit."}
+{"instruction": "Teach a beginner: What is cash flow?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Cash flow is net movement of cash into and out of a business over time."}
+{"instruction": "In simple words, What is diversification in investing?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Diversification spreads investments across assets to reduce concentration risk."}
+{"instruction": "In simple words, What is stablecoin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A stablecoin is a crypto token designed to track a stable reference asset such as USD."}
+{"instruction": "Explain clearly: What is volatility?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Volatility measures the magnitude of price fluctuations over time."}
+{"instruction": "Explain clearly: What is private key in crypto?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A private key is a secret credential controlling ownership of crypto addresses."}
+{"instruction": "Teach a beginner: What is gross margin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Gross margin is gross profit divided by revenue."}
+{"instruction": "Give practical answer: What is profit?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Profit is revenue minus total costs."}
+{"instruction": "In simple words, What is stop-loss?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A stop-loss is an order to limit downside by selling when price reaches a threshold."}
+{"instruction": "Teach a beginner: What is stop-loss?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A stop-loss is an order to limit downside by selling when price reaches a threshold."}
+{"instruction": "In simple words, What is opportunity cost?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Opportunity cost is the value of the best alternative forgone."}
+{"instruction": "Explain clearly: What is risk-adjusted return?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Risk-adjusted return evaluates returns relative to risk taken, such as with Sharpe ratio."}
+{"instruction": "In simple words, What is Bitcoin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Bitcoin is a decentralized digital asset secured by cryptography and consensus rules."}
+{"instruction": "Explain clearly: What is EBITDA?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: EBITDA means earnings before interest, taxes, depreciation, and amortization."}
+{"instruction": "Explain clearly: What is compound interest?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Compound interest means interest is earned on principal plus accumulated interest."}
+{"instruction": "In simple words, What is risk-adjusted return?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Risk-adjusted return evaluates returns relative to risk taken, such as with Sharpe ratio."}
+{"instruction": "Teach a beginner: What is profit?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Profit is revenue minus total costs."}
+{"instruction": "Teach a beginner: What is an index fund?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: An index fund tracks a market index and offers broad exposure at low cost."}
+{"instruction": "In simple words, What is market order vs limit order?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Market orders execute immediately at best available price; limit orders execute only at specified price or better."}
+{"instruction": "Give practical answer: Difference between gross profit and net profit?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Gross profit is revenue minus cost of goods sold; net profit subtracts all operating, interest, and tax expenses."}
+{"instruction": "Teach a beginner: What is balance sheet?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: A balance sheet shows assets, liabilities, and equity at a point in time."}
+{"instruction": "Explain clearly: How do interest rates affect stocks?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Higher rates can reduce valuation multiples and increase discount rates; effects vary by sector."}
+{"instruction": "Teach a beginner: What is discounted cash flow (DCF)?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: DCF estimates value by discounting expected future cash flows to present value."}
+{"instruction": "Give practical answer: What is break-even point?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Break-even is where total revenue equals total costs and profit is zero."}
+{"instruction": "Explain clearly: What is Bitcoin?", "response": "Reasoning: Use standard finance/business definitions and concise explanation. Final: Bitcoin is a decentralized digital asset secured by cryptography and consensus rules."}

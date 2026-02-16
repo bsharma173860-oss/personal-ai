@@ -1,0 +1,13 @@
+{"instruction": "Solve equation x^2 - 4x - 12 = 0.", "response": "Factoring gives roots x = 6 and x = -2."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=11.5 m."}
+{"instruction": "Solve equation x^2 - 15x + 56 = 0.", "response": "Factoring gives roots x = 7 and x = 8."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=21.0 m."}
+{"instruction": "Integrate f(x) = 3x^3 - 2x^4 - 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/4x^4 - 2/5x^5 - 2/5x^5 + C."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=83.4 m/s and s=353.6 m."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=34.5 m."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.0 m/s and s=176.0 m."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=16.0 m."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=6.0 m."}
+{"instruction": "Integrate f(x) = -4x^4 + 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/5x^5 + 7x + C."}
+{"instruction": "Integrate f(x) = 9 - 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x - 3x^3 + C."}
+{"instruction": "Given u=2 m/s, a=1.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=7.0 m/s and s=22.5 m."}

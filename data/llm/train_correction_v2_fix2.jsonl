@@ -1,0 +1,1199 @@
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=44.400000000000006 m/s and s=89.1 m."}
+{"instruction": "Integrate f(x) = 7x^5 + 3x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/6x^6 + 3/2x^2 + C."}
+{"instruction": "Solve equation x^2 + 1x - 42 = 0.", "response": "Factoring gives roots x = 6 and x = -7."}
+{"instruction": "Integrate f(x) = -5x^5 + x - 1 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/6x^6 + 1/2x^2 - x + x^3 + C."}
+{"instruction": "Solve equation x^2 - 13x + 30 = 0.", "response": "Factoring gives roots x = 10 and x = 3."}
+{"instruction": "Solve equation x^2 - 6x + 0 = 0.", "response": "Factoring gives roots x = 6 and x = 0."}
+{"instruction": "Solve equation x^2 + 9x + 0 = 0.", "response": "Factoring gives roots x = 0 and x = -9."}
+{"instruction": "Solve equation x^2 - 11x + 0 = 0.", "response": "Factoring gives roots x = 11 and x = 0."}
+{"instruction": "Solve equation x^2 - 14x + 48 = 0.", "response": "Factoring gives roots x = 8 and x = 6."}
+{"instruction": "Solve equation x^2 - 17x + 72 = 0.", "response": "Factoring gives roots x = 9 and x = 8."}
+{"instruction": "Solve equation x^2 - 6x + 9 = 0.", "response": "Factoring gives roots x = 3 and x = 3."}
+{"instruction": "Differentiate f(x) = -x^5 + 3 - 9x^2.", "response": "Using the power rule term-by-term, f'(x) = -5x^4 - 18x."}
+{"instruction": "Differentiate f(x) = x^3 + 9x^2 - 7x^5 + 2x^4.", "response": "Using the power rule term-by-term, f'(x) = 3x^2 + 18x - 35x^4 + 8x^3."}
+{"instruction": "Integrate f(x) = 9 - 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x - 3x^3 + C."}
+{"instruction": "Integrate f(x) = 4x^5 + 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/6x^6 + 2/5x^5 + C."}
+{"instruction": "Differentiate f(x) = 8x^3 - 2x + 3.", "response": "Using the power rule term-by-term, f'(x) = 24x^2 - 2."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.6 m/s and s=49.6 m."}
+{"instruction": "Solve equation x^2 + 10x + 24 = 0.", "response": "Factoring gives roots x = -6 and x = -4."}
+{"instruction": "Differentiate f(x) = 3x^5 - 5x^5.", "response": "Using the power rule term-by-term, f'(x) = 15x^4 - 25x^4."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=1.0 m/s and s=0.5 m."}
+{"instruction": "Integrate f(x) = -x^2 - 7 + 4x^4 + 4x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/3x^3 - 7x + 4/5x^5 + 4/5x^5 + C."}
+{"instruction": "Solve equation x^2 - 14x + 45 = 0.", "response": "Factoring gives roots x = 9 and x = 5."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=83.4 m/s and s=353.6 m."}
+{"instruction": "Solve equation x^2 - 9x - 10 = 0.", "response": "Factoring gives roots x = -1 and x = 10."}
+{"instruction": "Differentiate f(x) = -9x^3 + 5.", "response": "Using the power rule term-by-term, f'(x) = -27x^2."}
+{"instruction": "Solve equation x^2 + 8x - 20 = 0.", "response": "Factoring gives roots x = 2 and x = -10."}
+{"instruction": "Integrate f(x) = 5x^2 + 4x^2 - 9x^2 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/3x^3 + 4/3x^3 - 3x^3 + x^3 + C."}
+{"instruction": "Solve equation x^2 + 1x - 56 = 0.", "response": "Factoring gives roots x = -8 and x = 7."}
+{"instruction": "Integrate f(x) = -4x^4 - 8x^2 - 7x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/5x^5 - 8/3x^3 - 7/2x^2 + C."}
+{"instruction": "Given u=2 m/s, a=2.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=12.0 m/s and s=35.0 m."}
+{"instruction": "Solve equation x^2 + 13x + 40 = 0.", "response": "Factoring gives roots x = -5 and x = -8."}
+{"instruction": "Integrate f(x) = 9x + 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 + 7/3x^3 + C."}
+{"instruction": "Find limit of sin(7x)/(7x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Differentiate f(x) = 6x + 5x^5.", "response": "Using the power rule term-by-term, f'(x) = 6 + 25x^4."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=18.0 m/s and s=112.0 m."}
+{"instruction": "Differentiate f(x) = 4x - 7x^5 - 6x^4.", "response": "Using the power rule term-by-term, f'(x) = 4 - 35x^4 - 24x^3."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=83.4 m/s and s=353.6 m."}
+{"instruction": "Differentiate f(x) = 4x + 1.", "response": "Using the power rule term-by-term, f'(x) = 4."}
+{"instruction": "Find limit of sin(2x)/(2x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 + 4x + 4 = 0.", "response": "Factoring gives roots x = -2 and x = -2."}
+{"instruction": "Integrate f(x) = 7x^3 + 8x^2 + 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/4x^4 + 8/3x^3 + 3x^3 + C."}
+{"instruction": "Differentiate f(x) = 6x^3 + 2x^3.", "response": "Using the power rule term-by-term, f'(x) = 18x^2 + 6x^2."}
+{"instruction": "Integrate f(x) = 4x^5 - 5 + 4x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/6x^6 - 5x + 4/5x^5 + C."}
+{"instruction": "Integrate f(x) = 9 - 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x - 3x^3 + C."}
+{"instruction": "Solve equation x^2 - 13x + 36 = 0.", "response": "Factoring gives roots x = 4 and x = 9."}
+{"instruction": "A mass of 50 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 0.5 = 25.0 N."}
+{"instruction": "Integrate f(x) = 6 + 6x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6x + 6/5x^5 + C."}
+{"instruction": "Integrate f(x) = 7x + 8x^4 + 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/2x^2 + 8/5x^5 + 2/4x^4 + C."}
+{"instruction": "A mass of 15 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 12.0 = 180.0 N."}
+{"instruction": "Find limit of sin(4x)/(4x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Differentiate f(x) = -9x^2 - 3x.", "response": "Using the power rule term-by-term, f'(x) = -18x - 3."}
+{"instruction": "Solve equation x^2 + 8x + 0 = 0.", "response": "Factoring gives roots x = 0 and x = -8."}
+{"instruction": "Solve equation x^2 - 7x - 18 = 0.", "response": "Factoring gives roots x = -2 and x = 9."}
+{"instruction": "Integrate f(x) = 4 + 4x^2 - 2 + 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4x + 4/3x^3 - 2x + 7/3x^3 + C."}
+{"instruction": "Differentiate f(x) = x - 5x^2.", "response": "Using the power rule term-by-term, f'(x) = 1 - 10x."}
+{"instruction": "Integrate f(x) = 7x^3 - 4x + 5x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/4x^4 - 2x^2 + x^5 + C."}
+{"instruction": "Integrate f(x) = -9x + 8x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/2x^2 + 8/6x^6 + C."}
+{"instruction": "Solve equation x^2 + 2x + 1 = 0.", "response": "Factoring gives roots x = -1 and x = -1."}
+{"instruction": "Differentiate f(x) = -5x^5 - 4x^4 - 9x.", "response": "Using the power rule term-by-term, f'(x) = -25x^4 - 16x^3 - 9."}
+{"instruction": "Integrate f(x) = -8x^5 + 8x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/6x^6 + 8/5x^5 + C."}
+{"instruction": "Integrate f(x) = -7x^4 + 6x^4 + 3 - 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/5x^5 + 6/5x^5 + 3x - 6x + C."}
+{"instruction": "Differentiate f(x) = 4x^2 - 5x^2 - 8x^3 + 6x^4.", "response": "Using the power rule term-by-term, f'(x) = 8x - 10x - 24x^2 + 24x^3."}
+{"instruction": "Integrate f(x) = 2x - x^4 + 7x^2 - 8 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^2 - 1/5x^5 + 7/3x^3 - 8x + C."}
+{"instruction": "Differentiate f(x) = -4x^4 + 5x - 8.", "response": "Using the power rule term-by-term, f'(x) = -16x^3 + 5."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=8.0 m/s and s=6.5 m."}
+{"instruction": "Integrate f(x) = -3x^4 + 6x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/5x^5 + 2x^3 + C."}
+{"instruction": "Solve equation x^2 + 1x - 56 = 0.", "response": "Factoring gives roots x = 7 and x = -8."}
+{"instruction": "Differentiate f(x) = 6x^5 + 3 + 8x^5 + 4x^5.", "response": "Using the power rule term-by-term, f'(x) = 30x^4 + 40x^4 + 20x^4."}
+{"instruction": "Solve equation x^2 + 18x + 77 = 0.", "response": "Factoring gives roots x = -11 and x = -7."}
+{"instruction": "Differentiate f(x) = -5x + 7.", "response": "Using the power rule term-by-term, f'(x) = -5."}
+{"instruction": "Integrate f(x) = 2x + 7x^3 + 6x - x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^2 + 7/4x^4 + 3x^2 - 1/2x^2 + C."}
+{"instruction": "Differentiate f(x) = -2x^5 + x^3 + 5x^4 + 7.", "response": "Using the power rule term-by-term, f'(x) = -10x^4 + 3x^2 + 20x^3."}
+{"instruction": "Given u=2 m/s, a=3.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=19.5 m."}
+{"instruction": "Integrate f(x) = -7x^5 - 6 + 2x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/6x^6 - 6x + 2/3x^3 + C."}
+{"instruction": "Differentiate f(x) = x^3 + 7x^4.", "response": "Using the power rule term-by-term, f'(x) = 3x^2 + 28x^3."}
+{"instruction": "Integrate f(x) = -7x^2 - 6x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/3x^3 - 6/5x^5 + C."}
+{"instruction": "Solve equation x^2 - 23x + 132 = 0.", "response": "Factoring gives roots x = 11 and x = 12."}
+{"instruction": "Differentiate f(x) = -6x^2 - 6 + 7x - 3x^2.", "response": "Using the power rule term-by-term, f'(x) = -12x + 7 - 6x."}
+{"instruction": "Differentiate f(x) = -6x^2 - 3x^4 + 9x.", "response": "Using the power rule term-by-term, f'(x) = -12x - 12x^3 + 9."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=25.0 m/s and s=87.5 m."}
+{"instruction": "Differentiate f(x) = -9x^3 - 6x^5.", "response": "Using the power rule term-by-term, f'(x) = -27x^2 - 30x^4."}
+{"instruction": "Differentiate f(x) = -6x^3 - 6x^4 - 5x^3.", "response": "Using the power rule term-by-term, f'(x) = -18x^2 - 24x^3 - 15x^2."}
+{"instruction": "Differentiate f(x) = -4x - 9x^3 + 8 - 7x.", "response": "Using the power rule term-by-term, f'(x) = -4 - 27x^2 - 7."}
+{"instruction": "Differentiate f(x) = 7x^4 + 5.", "response": "Using the power rule term-by-term, f'(x) = 28x^3."}
+{"instruction": "Integrate f(x) = -7x + 7x^3 + 6x^5 + 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/2x^2 + 7/4x^4 + x^6 + 2/6x^6 + C."}
+{"instruction": "Solve equation x^2 - 10x + 0 = 0.", "response": "Factoring gives roots x = 10 and x = 0."}
+{"instruction": "Integrate f(x) = 3x - 7 - 8x - 5x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/2x^2 - 7x - 4x^2 - 5/3x^3 + C."}
+{"instruction": "A mass of 1 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 2.0 = 2.0 N."}
+{"instruction": "Solve equation x^2 - 2x - 35 = 0.", "response": "Factoring gives roots x = -5 and x = 7."}
+{"instruction": "Solve equation x^2 - 1x - 30 = 0.", "response": "Factoring gives roots x = 6 and x = -5."}
+{"instruction": "Differentiate f(x) = 6x^4 - 3x^3 - 6x^5 - 2x^2.", "response": "Using the power rule term-by-term, f'(x) = 24x^3 - 9x^2 - 30x^4 - 4x."}
+{"instruction": "Differentiate f(x) = -3x^4 + 6x^4.", "response": "Using the power rule term-by-term, f'(x) = -12x^3 + 24x^3."}
+{"instruction": "Integrate f(x) = -5x - 5x - 8x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/2x^2 - 5/2x^2 - 2x^4 + C."}
+{"instruction": "Differentiate f(x) = 4x^4 + x^3 - 8x - 5x.", "response": "Using the power rule term-by-term, f'(x) = 16x^3 + 3x^2 - 8 - 5."}
+{"instruction": "Solve equation x^2 - 5x - 50 = 0.", "response": "Factoring gives roots x = -5 and x = 10."}
+{"instruction": "Solve equation x^2 - 8x - 9 = 0.", "response": "Factoring gives roots x = -1 and x = 9."}
+{"instruction": "Differentiate f(x) = -8 + 2x + 7x^2 - 8.", "response": "Using the power rule term-by-term, f'(x) = 2 + 14x."}
+{"instruction": "Integrate f(x) = 4x^5 - 3x^5 + 4x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/6x^6 - 3/6x^6 + 4/6x^6 + C."}
+{"instruction": "Solve equation x^2 + 11x + 0 = 0.", "response": "Factoring gives roots x = -11 and x = 0."}
+{"instruction": "Differentiate f(x) = 9 - 9x^3 + 8.", "response": "Using the power rule term-by-term, f'(x) = -27x^2."}
+{"instruction": "Differentiate f(x) = 3x^2 + 9x^2 - 5x.", "response": "Using the power rule term-by-term, f'(x) = 6x + 18x - 5."}
+{"instruction": "Integrate f(x) = -x^4 - 7x^2 + 5x^4 + 9x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/5x^5 - 7/3x^3 + x^5 + 9/6x^6 + C."}
+{"instruction": "Integrate f(x) = 3x^4 + 7x^5 + 6 - 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/5x^5 + 7/6x^6 + 6x - x^3 + C."}
+{"instruction": "Integrate f(x) = 7x^2 + 8x^4 + 1 - 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/3x^3 + 8/5x^5 + x - x^3 + C."}
+{"instruction": "Solve equation x^2 - 1x - 72 = 0.", "response": "Factoring gives roots x = 9 and x = -8."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.0 m/s and s=176.0 m."}
+{"instruction": "Differentiate f(x) = 9 + 8x^4 - 2x^5.", "response": "Using the power rule term-by-term, f'(x) = 32x^3 - 10x^4."}
+{"instruction": "Integrate f(x) = 9x + 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 + 7/3x^3 + C."}
+{"instruction": "Solve equation x^2 + 4x - 32 = 0.", "response": "Factoring gives roots x = -8 and x = 4."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=16.0 m/s and s=15.5 m."}
+{"instruction": "Integrate f(x) = -x^2 + 6 - 6x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/3x^3 + 6x - x^6 + C."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=10.0 m/s and s=25.0 m."}
+{"instruction": "A mass of 15 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 0.5 = 7.5 N."}
+{"instruction": "Differentiate f(x) = -5x^3 - 4x - 7x^4 - x.", "response": "Using the power rule term-by-term, f'(x) = -15x^2 - 4 - 28x^3 - 1."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=50.0 m."}
+{"instruction": "Solve equation x^2 - 13x + 12 = 0.", "response": "Factoring gives roots x = 12 and x = 1."}
+{"instruction": "Solve equation x^2 + 11x + 30 = 0.", "response": "Factoring gives roots x = -5 and x = -6."}
+{"instruction": "Differentiate f(x) = 7x^2 - 3x^2 + 2x^3 - 8x^4.", "response": "Using the power rule term-by-term, f'(x) = 14x - 6x + 6x^2 - 32x^3."}
+{"instruction": "A mass of 15 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 9.8 = 147.0 N."}
+{"instruction": "Differentiate f(x) = -8x + 3x^2 - 9x^5 + 2x^3.", "response": "Using the power rule term-by-term, f'(x) = -8 + 6x - 45x^4 + 6x^2."}
+{"instruction": "A mass of 50 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 2.0 = 100.0 N."}
+{"instruction": "Solve equation x^2 - 7x - 30 = 0.", "response": "Factoring gives roots x = 10 and x = -3."}
+{"instruction": "Solve equation x^2 + 13x + 40 = 0.", "response": "Factoring gives roots x = -5 and x = -8."}
+{"instruction": "Differentiate f(x) = -2x^2 - 7x^4 - 8x^5.", "response": "Using the power rule term-by-term, f'(x) = -4x - 28x^3 - 40x^4."}
+{"instruction": "Given u=2 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=4.0 m/s and s=3.0 m."}
+{"instruction": "Solve equation x^2 + 12x + 20 = 0.", "response": "Factoring gives roots x = -10 and x = -2."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=37.5 m."}
+{"instruction": "Differentiate f(x) = 7x + 6x^2 - 5.", "response": "Using the power rule term-by-term, f'(x) = 7 + 12x."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=83.4 m/s and s=353.6 m."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.5 m/s and s=32.25 m."}
+{"instruction": "Differentiate f(x) = 9x^2 + x^3 - 2x^5.", "response": "Using the power rule term-by-term, f'(x) = 18x + 3x^2 - 10x^4."}
+{"instruction": "Solve equation x^2 - 15x + 44 = 0.", "response": "Factoring gives roots x = 4 and x = 11."}
+{"instruction": "Integrate f(x) = 8x^5 + 6x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/6x^6 + 6/4x^4 + C."}
+{"instruction": "Integrate f(x) = x + 6x^4 + x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/2x^2 + 6/5x^5 + 1/5x^5 + C."}
+{"instruction": "Solve equation x^2 - 3x - 40 = 0.", "response": "Factoring gives roots x = -5 and x = 8."}
+{"instruction": "A mass of 5 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 2.0 = 10.0 N."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=16.0 m/s and s=26.0 m."}
+{"instruction": "Differentiate f(x) = -8x - 8x^3 + 6x.", "response": "Using the power rule term-by-term, f'(x) = -8 - 24x^2 + 6."}
+{"instruction": "Integrate f(x) = x^2 + 6x + 8x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/3x^3 + 3x^2 + 2x^4 + C."}
+{"instruction": "Given u=0 m/s, a=9.8 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=9.8 m/s and s=4.9 m."}
+{"instruction": "Differentiate f(x) = x^2 + 5x^2 - 5x^2.", "response": "Using the power rule term-by-term, f'(x) = 2x + 10x - 10x."}
+{"instruction": "Given u=2 m/s, a=1.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=5.0 m/s and s=10.5 m."}
+{"instruction": "Integrate f(x) = 7x^4 - 5x^4 + x^2 + 5x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/5x^5 - x^5 + 1/3x^3 + 5/6x^6 + C."}
+{"instruction": "Given u=2 m/s, a=0.5 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=32.0 m."}
+{"instruction": "Differentiate f(x) = 7x - 7x^4.", "response": "Using the power rule term-by-term, f'(x) = 7 - 28x^3."}
+{"instruction": "Solve equation x^2 + 2x - 15 = 0.", "response": "Factoring gives roots x = 3 and x = -5."}
+{"instruction": "Solve equation x^2 - 3x - 54 = 0.", "response": "Factoring gives roots x = -6 and x = 9."}
+{"instruction": "Solve equation x^2 + 12x + 35 = 0.", "response": "Factoring gives roots x = -5 and x = -7."}
+{"instruction": "Integrate f(x) = 4x^3 + 9x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^4 + 9/6x^6 + C."}
+{"instruction": "Given u=15 m/s, a=0.5 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=19.0 m/s and s=136.0 m."}
+{"instruction": "Differentiate f(x) = -x^2 - 7x^3 - 6x.", "response": "Using the power rule term-by-term, f'(x) = -2x - 21x^2 - 6."}
+{"instruction": "Differentiate f(x) = 6x^2 - 7x^2 - 8x^5.", "response": "Using the power rule term-by-term, f'(x) = 12x - 14x - 40x^4."}
+{"instruction": "Integrate f(x) = 3x^3 + 6x^5 - 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/4x^4 + x^6 - 3x^3 + C."}
+{"instruction": "Differentiate f(x) = x^5 + 8x^4 - 3x + 3x.", "response": "Using the power rule term-by-term, f'(x) = 5x^4 + 32x^3 - 3 + 3."}
+{"instruction": "Integrate f(x) = -6x^5 + 9 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^6 + 9x + C."}
+{"instruction": "Differentiate f(x) = -8 + 4 - 7x^3.", "response": "Using the power rule term-by-term, f'(x) = -21x^2."}
+{"instruction": "Solve equation x^2 - 24x + 144 = 0.", "response": "Factoring gives roots x = 12 and x = 12."}
+{"instruction": "Integrate f(x) = -8x^4 + 5x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/5x^5 + 5/2x^2 + C."}
+{"instruction": "Integrate f(x) = 8x^5 - 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/6x^6 - 2/5x^5 + C."}
+{"instruction": "Solve equation x^2 - 13x + 42 = 0.", "response": "Factoring gives roots x = 6 and x = 7."}
+{"instruction": "Given u=0 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=1.5 m/s and s=2.25 m."}
+{"instruction": "Differentiate f(x) = -3x + 2x^5 - 4x^2.", "response": "Using the power rule term-by-term, f'(x) = -3 + 10x^4 - 8x."}
+{"instruction": "Differentiate f(x) = 7x + 7x^2 - 2 - 9x^5.", "response": "Using the power rule term-by-term, f'(x) = 7 + 14x - 45x^4."}
+{"instruction": "Differentiate f(x) = x^5 + 9x - 7x^3.", "response": "Using the power rule term-by-term, f'(x) = 5x^4 + 9 - 21x^2."}
+{"instruction": "A mass of 2 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 4.0 = 8.0 N."}
+{"instruction": "Integrate f(x) = -2x^5 + x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2/6x^6 + 1/5x^5 + C."}
+{"instruction": "Differentiate f(x) = -2 + 8x^3.", "response": "Using the power rule term-by-term, f'(x) = 24x^2."}
+{"instruction": "Differentiate f(x) = 9x^2 - 4x^5 + 6x^5.", "response": "Using the power rule term-by-term, f'(x) = 18x - 20x^4 + 30x^4."}
+{"instruction": "Integrate f(x) = -9x - 2x^5 - 5x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/2x^2 - 2/6x^6 - 5/2x^2 + C."}
+{"instruction": "Solve equation x^2 + 7x - 18 = 0.", "response": "Factoring gives roots x = -9 and x = 2."}
+{"instruction": "Integrate f(x) = x^5 + 2x^4 - 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/6x^6 + 2/5x^5 - 7x + C."}
+{"instruction": "Differentiate f(x) = 1 + x^5 - 3x^2 - 3x.", "response": "Using the power rule term-by-term, f'(x) = 5x^4 - 6x - 3."}
+{"instruction": "Differentiate f(x) = -2x^5 - 4x^2.", "response": "Using the power rule term-by-term, f'(x) = -10x^4 - 8x."}
+{"instruction": "Solve equation x^2 - 4x - 12 = 0.", "response": "Factoring gives roots x = -2 and x = 6."}
+{"instruction": "Integrate f(x) = 9x^4 - x^5 + 5x^4 + 4x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/5x^5 - 1/6x^6 + x^5 + 4/3x^3 + C."}
+{"instruction": "Differentiate f(x) = x + 8x^4 + 8x + 4x^2.", "response": "Using the power rule term-by-term, f'(x) = 1 + 32x^3 + 8 + 8x."}
+{"instruction": "Differentiate f(x) = -7 - 9x - 7x^5.", "response": "Using the power rule term-by-term, f'(x) = -9 - 35x^4."}
+{"instruction": "Integrate f(x) = 8x^5 + x^5 - 6x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/6x^6 + 1/6x^6 - x^6 + C."}
+{"instruction": "Solve equation x^2 - 13x + 30 = 0.", "response": "Factoring gives roots x = 10 and x = 3."}
+{"instruction": "Solve equation x^2 - 13x + 12 = 0.", "response": "Factoring gives roots x = 1 and x = 12."}
+{"instruction": "Differentiate f(x) = -8x^2 + x^4.", "response": "Using the power rule term-by-term, f'(x) = -16x + 4x^3."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.0 m/s and s=2.0 m."}
+{"instruction": "Integrate f(x) = 2 + 7x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x + 7/5x^5 + C."}
+{"instruction": "Differentiate f(x) = -5x^3 + 8x^4 + 2x^3.", "response": "Using the power rule term-by-term, f'(x) = -15x^2 + 32x^3 + 6x^2."}
+{"instruction": "Differentiate f(x) = 5 + 7x + 3x^3.", "response": "Using the power rule term-by-term, f'(x) = 7 + 9x^2."}
+{"instruction": "Differentiate f(x) = -9x^2 - 4x^4 + 6x^5.", "response": "Using the power rule term-by-term, f'(x) = -18x - 16x^3 + 30x^4."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=3.0 m/s and s=1.5 m."}
+{"instruction": "Solve equation x^2 - 6x + 8 = 0.", "response": "Factoring gives roots x = 4 and x = 2."}
+{"instruction": "Differentiate f(x) = 9x + 8x + 4x - 5x^2.", "response": "Using the power rule term-by-term, f'(x) = 9 + 8 + 4 - 10x."}
+{"instruction": "Integrate f(x) = -5x^3 - 6x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/4x^4 - 6/5x^5 + C."}
+{"instruction": "Integrate f(x) = x^5 + 3x^5 - 5x^5 - 4x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/6x^6 + 3/6x^6 - 5/6x^6 - 4/5x^5 + C."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=16.0 m."}
+{"instruction": "Integrate f(x) = 4x^4 + 8x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/5x^5 + 8/6x^6 + C."}
+{"instruction": "Integrate f(x) = -8x^4 + 4x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/5x^5 + 4/6x^6 + C."}
+{"instruction": "Integrate f(x) = 9x^3 + 5x + 4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/4x^4 + 5/2x^2 + 4x + C."}
+{"instruction": "Differentiate f(x) = -3x^5 + 9x^3 - 2x^3 - 1.", "response": "Using the power rule term-by-term, f'(x) = -15x^4 + 27x^2 - 6x^2."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=20.0 m/s and s=87.5 m."}
+{"instruction": "Solve equation x^2 - 12x + 27 = 0.", "response": "Factoring gives roots x = 9 and x = 3."}
+{"instruction": "Differentiate f(x) = -3x^5 + 9x^2 - 5x^5.", "response": "Using the power rule term-by-term, f'(x) = -15x^4 + 18x - 25x^4."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=32.0 m."}
+{"instruction": "Differentiate f(x) = -7 - 5x - 8x - 6x^3.", "response": "Using the power rule term-by-term, f'(x) = -5 - 8 - 18x^2."}
+{"instruction": "Integrate f(x) = 2x^4 - 8 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/5x^5 - 8x + C."}
+{"instruction": "Differentiate f(x) = 6x^5 - x^5 + 7x.", "response": "Using the power rule term-by-term, f'(x) = 30x^4 - 5x^4 + 7."}
+{"instruction": "Differentiate f(x) = -1 - 6x^5.", "response": "Using the power rule term-by-term, f'(x) = -30x^4."}
+{"instruction": "Integrate f(x) = 7 + 8x^3 - 8x^3 - 5x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7x + 2x^4 - 2x^4 - x^5 + C."}
+{"instruction": "Given u=15 m/s, a=2.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=31.0 m/s and s=184.0 m."}
+{"instruction": "Differentiate f(x) = 3x^3 + 5 - 2x^5.", "response": "Using the power rule term-by-term, f'(x) = 9x^2 - 10x^4."}
+{"instruction": "Differentiate f(x) = -2x^5 - 2x^2 + 5x^2.", "response": "Using the power rule term-by-term, f'(x) = -10x^4 - 4x + 10x."}
+{"instruction": "Differentiate f(x) = 5x^2 - 8x^5 + 3x.", "response": "Using the power rule term-by-term, f'(x) = 10x - 40x^4 + 3."}
+{"instruction": "Integrate f(x) = -4x^5 + 5 - 2 - 5x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/6x^6 + 5x - 2x - x^5 + C."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=50.0 m."}
+{"instruction": "Integrate f(x) = -x^4 - x - 6x^4 - 2x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/5x^5 - 1/2x^2 - 6/5x^5 - x^2 + C."}
+{"instruction": "Differentiate f(x) = 8x^2 - x + 2x.", "response": "Using the power rule term-by-term, f'(x) = 16x - 1 + 2."}
+{"instruction": "Solve equation x^2 - 7x - 8 = 0.", "response": "Factoring gives roots x = -1 and x = 8."}
+{"instruction": "Solve equation x^2 + 11x + 28 = 0.", "response": "Factoring gives roots x = -4 and x = -7."}
+{"instruction": "Solve equation x^2 + 1x - 20 = 0.", "response": "Factoring gives roots x = -5 and x = 4."}
+{"instruction": "Solve equation x^2 - 9x + 8 = 0.", "response": "Factoring gives roots x = 8 and x = 1."}
+{"instruction": "Integrate f(x) = 9x^5 - 4x^4 - 4x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/6x^6 - 4/5x^5 - x^4 + C."}
+{"instruction": "Differentiate f(x) = -3x^5 + 6x.", "response": "Using the power rule term-by-term, f'(x) = -15x^4 + 6."}
+{"instruction": "Solve equation x^2 + 14x + 40 = 0.", "response": "Factoring gives roots x = -4 and x = -10."}
+{"instruction": "Integrate f(x) = -3x - 7x + 6x^4 + 7x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/2x^2 - 7/2x^2 + 6/5x^5 + 7/6x^6 + C."}
+{"instruction": "Differentiate f(x) = -2x^5 - 9x^5.", "response": "Using the power rule term-by-term, f'(x) = -10x^4 - 45x^4."}
+{"instruction": "Differentiate f(x) = -3x^3 - 3x^5 + 2.", "response": "Using the power rule term-by-term, f'(x) = -9x^2 - 15x^4."}
+{"instruction": "Solve equation x^2 + 5x - 66 = 0.", "response": "Factoring gives roots x = 6 and x = -11."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.0 m/s and s=176.0 m."}
+{"instruction": "Integrate f(x) = 6x^2 + 2x^4 + 2x^2 + 5x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^3 + 2/5x^5 + 2/3x^3 + 5/6x^6 + C."}
+{"instruction": "Given u=10 m/s, a=2.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=20.0 m/s and s=75.0 m."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=4.0 m/s and s=8.0 m."}
+{"instruction": "Integrate f(x) = -4x^2 - 9x^5 + 9x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/3x^3 - 9/6x^6 + 9/2x^2 + C."}
+{"instruction": "Integrate f(x) = 4x^4 - 5x^5 - 2 - 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/5x^5 - 5/6x^6 - 2x - 3x^3 + C."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=9.0 m/s and s=14.0 m."}
+{"instruction": "Solve equation x^2 - 10x + 16 = 0.", "response": "Factoring gives roots x = 8 and x = 2."}
+{"instruction": "Integrate f(x) = -5 + 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5x + 5x + C."}
+{"instruction": "Differentiate f(x) = -6 + 6 - 4x^4.", "response": "Using the power rule term-by-term, f'(x) = -16x^3."}
+{"instruction": "Solve equation x^2 - 18x + 77 = 0.", "response": "Factoring gives roots x = 11 and x = 7."}
+{"instruction": "Solve equation x^2 - 17x + 72 = 0.", "response": "Factoring gives roots x = 8 and x = 9."}
+{"instruction": "Integrate f(x) = 6x^4 - 8x^2 - 9x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6/5x^5 - 8/3x^3 - 9/4x^4 + C."}
+{"instruction": "Integrate f(x) = 7x - 2x^2 - 5x^3 - 8x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/2x^2 - 2/3x^3 - 5/4x^4 - 8/5x^5 + C."}
+{"instruction": "Solve equation x^2 + 3x - 4 = 0.", "response": "Factoring gives roots x = 1 and x = -4."}
+{"instruction": "Differentiate f(x) = -6 - 3x^3 - 7x - 2x^4.", "response": "Using the power rule term-by-term, f'(x) = -9x^2 - 7 - 8x^3."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=24.6 m/s and s=29.6 m."}
+{"instruction": "Differentiate f(x) = -6x^5 + 4x.", "response": "Using the power rule term-by-term, f'(x) = -30x^4 + 4."}
+{"instruction": "Integrate f(x) = -9x^5 - 3x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/6x^6 - 3/4x^4 + C."}
+{"instruction": "A mass of 10 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 3.5 = 35.0 N."}
+{"instruction": "Solve equation x^2 - 3x + 2 = 0.", "response": "Factoring gives roots x = 2 and x = 1."}
+{"instruction": "Given u=2 m/s, a=9.8 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.8 m/s and s=6.9 m."}
+{"instruction": "Solve equation x^2 - 11x + 0 = 0.", "response": "Factoring gives roots x = 0 and x = 11."}
+{"instruction": "Solve equation x^2 + 14x + 45 = 0.", "response": "Factoring gives roots x = -9 and x = -5."}
+{"instruction": "Integrate f(x) = 5x^3 - 7x^3 + 7x^4 + 4x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/4x^4 - 7/4x^4 + 7/5x^5 + 4/5x^5 + C."}
+{"instruction": "Solve equation x^2 - 2x - 8 = 0.", "response": "Factoring gives roots x = 4 and x = -2."}
+{"instruction": "Solve equation x^2 + 2x - 3 = 0.", "response": "Factoring gives roots x = -3 and x = 1."}
+{"instruction": "Differentiate f(x) = 3x^4 - 7x^4.", "response": "Using the power rule term-by-term, f'(x) = 12x^3 - 28x^3."}
+{"instruction": "Integrate f(x) = 2x^2 + 7x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/3x^3 + 7/4x^4 + C."}
+{"instruction": "Integrate f(x) = 4x^5 + 2x^5 + 4x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/6x^6 + 2/6x^6 + x^4 + C."}
+{"instruction": "Solve equation x^2 + 5x - 36 = 0.", "response": "Factoring gives roots x = 4 and x = -9."}
+{"instruction": "Integrate f(x) = -8x^5 + 5 + 8x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/6x^6 + 5x + 8/5x^5 + C."}
+{"instruction": "Solve equation x^2 - 15x + 44 = 0.", "response": "Factoring gives roots x = 4 and x = 11."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=93.4 m/s and s=433.6 m."}
+{"instruction": "Integrate f(x) = 8x^3 + 9x^5 - 9 + 3x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^4 + 9/6x^6 - 9x + 3/4x^4 + C."}
+{"instruction": "Solve equation x^2 - 6x - 72 = 0.", "response": "Factoring gives roots x = 12 and x = -6."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=22.0 m/s and s=64.0 m."}
+{"instruction": "Solve equation x^2 - 2x - 35 = 0.", "response": "Factoring gives roots x = -5 and x = 7."}
+{"instruction": "Differentiate f(x) = 7x^5 + 9x^5 + 9x^4 + 7x^3.", "response": "Using the power rule term-by-term, f'(x) = 35x^4 + 45x^4 + 36x^3 + 21x^2."}
+{"instruction": "Integrate f(x) = -3x^2 - 7x^3 + 3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^3 - 7/4x^4 + 3x + C."}
+{"instruction": "Differentiate f(x) = -7x^2 - x^5 + 2x^2.", "response": "Using the power rule term-by-term, f'(x) = -14x - 5x^4 + 4x."}
+{"instruction": "Differentiate f(x) = 3x^5 - x^4 + 4x^5.", "response": "Using the power rule term-by-term, f'(x) = 15x^4 - 4x^3 + 20x^4."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.0 m/s and s=1.0 m."}
+{"instruction": "Integrate f(x) = 5x^2 + 4x^3 + 4x^3 - 7x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/3x^3 + x^4 + x^4 - 7/6x^6 + C."}
+{"instruction": "Integrate f(x) = -3x^3 - x^2 + x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/4x^4 - 1/3x^3 + 1/3x^3 + C."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=29.0 m/s and s=136.0 m."}
+{"instruction": "Given u=5 m/s, a=0.5 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=9.0 m/s and s=56.0 m."}
+{"instruction": "Integrate f(x) = 4x^2 - 4x - 2x^4 + 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/3x^3 - 2x^2 - 2/5x^5 + 2/6x^6 + C."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=12.0 m/s and s=24.0 m."}
+{"instruction": "Differentiate f(x) = 9x^5 - 3x^3 + 6x + 5x^2.", "response": "Using the power rule term-by-term, f'(x) = 45x^4 - 9x^2 + 6 + 10x."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=54.0 m/s and s=147.5 m."}
+{"instruction": "Integrate f(x) = 4x + x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^2 + 1/3x^3 + C."}
+{"instruction": "Integrate f(x) = 8 + 5x^4 + 3 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8x + x^5 + 3x + x^3 + C."}
+{"instruction": "Given u=0 m/s, a=9.8 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=29.400000000000002 m/s and s=44.1 m."}
+{"instruction": "Given u=15 m/s, a=0.5 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.5 m/s and s=81.25 m."}
+{"instruction": "Integrate f(x) = 7x^4 - 7x^5 + x^2 + 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/5x^5 - 7/6x^6 + 1/3x^3 + 5x + C."}
+{"instruction": "Differentiate f(x) = x + 4x^5.", "response": "Using the power rule term-by-term, f'(x) = 1 + 20x^4."}
+{"instruction": "Given u=10 m/s, a=2.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=18.0 m/s and s=56.0 m."}
+{"instruction": "Differentiate f(x) = -3 - 2x^5 + 5x^3 + 9x.", "response": "Using the power rule term-by-term, f'(x) = -10x^4 + 15x^2 + 9."}
+{"instruction": "Differentiate f(x) = 2x^2 - 6x^2 + 5x^3 + 6x^3.", "response": "Using the power rule term-by-term, f'(x) = 4x - 12x + 15x^2 + 18x^2."}
+{"instruction": "Given u=2 m/s, a=3.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=5.0 m/s and s=3.5 m."}
+{"instruction": "Differentiate f(x) = 6x^4 - 3x^3.", "response": "Using the power rule term-by-term, f'(x) = 24x^3 - 9x^2."}
+{"instruction": "Differentiate f(x) = 5x^3 + 7x^5 + 9x^2 - 8x^3.", "response": "Using the power rule term-by-term, f'(x) = 15x^2 + 35x^4 + 18x - 24x^2."}
+{"instruction": "Integrate f(x) = x^2 - 8x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/3x^3 - 8/3x^3 + C."}
+{"instruction": "Differentiate f(x) = 7x^5 - 6x^3 + 6x^4 - 7.", "response": "Using the power rule term-by-term, f'(x) = 35x^4 - 18x^2 + 24x^3."}
+{"instruction": "Differentiate f(x) = x^4 + 9x + 6x^2 + 3.", "response": "Using the power rule term-by-term, f'(x) = 4x^3 + 9 + 12x."}
+{"instruction": "Solve equation x^2 - 9x + 14 = 0.", "response": "Factoring gives roots x = 2 and x = 7."}
+{"instruction": "Solve equation x^2 - 17x + 66 = 0.", "response": "Factoring gives roots x = 6 and x = 11."}
+{"instruction": "Differentiate f(x) = -6x^4 - 3x^4.", "response": "Using the power rule term-by-term, f'(x) = -24x^3 - 12x^3."}
+{"instruction": "Integrate f(x) = 9x^3 + 4x - 4x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/4x^4 + 2x^2 - 4/6x^6 + C."}
+{"instruction": "Solve equation x^2 - 12x + 20 = 0.", "response": "Factoring gives roots x = 10 and x = 2."}
+{"instruction": "Solve equation x^2 + 1x - 2 = 0.", "response": "Factoring gives roots x = 1 and x = -2."}
+{"instruction": "Differentiate f(x) = -3x^4 + 8x^5.", "response": "Using the power rule term-by-term, f'(x) = -12x^3 + 40x^4."}
+{"instruction": "Integrate f(x) = -7x^2 - 9x^3 - 8x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/3x^3 - 9/4x^4 - 4x^2 + C."}
+{"instruction": "Differentiate f(x) = 4x^4 + 6x^4 - x^4.", "response": "Using the power rule term-by-term, f'(x) = 16x^3 + 24x^3 - 4x^3."}
+{"instruction": "Given u=2 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=47.5 m."}
+{"instruction": "Solve equation x^2 - 9x - 22 = 0.", "response": "Factoring gives roots x = 11 and x = -2."}
+{"instruction": "Solve equation x^2 - 13x + 42 = 0.", "response": "Factoring gives roots x = 7 and x = 6."}
+{"instruction": "Solve equation x^2 + 6x - 55 = 0.", "response": "Factoring gives roots x = 5 and x = -11."}
+{"instruction": "Solve equation x^2 + 4x + 0 = 0.", "response": "Factoring gives roots x = 0 and x = -4."}
+{"instruction": "Differentiate f(x) = 9 - 9x^3 - 6.", "response": "Using the power rule term-by-term, f'(x) = -27x^2."}
+{"instruction": "Differentiate f(x) = -7x^5 + 6x^5 + 3 + 9x^3.", "response": "Using the power rule term-by-term, f'(x) = -35x^4 + 30x^4 + 27x^2."}
+{"instruction": "Differentiate f(x) = -6x^4 + 8x + 3x^2 - 5x.", "response": "Using the power rule term-by-term, f'(x) = -24x^3 + 8 + 6x - 5."}
+{"instruction": "A mass of 20 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 1.0 = 20.0 N."}
+{"instruction": "Integrate f(x) = -8x^2 + 9 - 9x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/3x^3 + 9x - 9/6x^6 + C."}
+{"instruction": "Integrate f(x) = -4x^4 + 9x - 7x^3 + 8x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/5x^5 + 9/2x^2 - 7/4x^4 + 2x^4 + C."}
+{"instruction": "Solve equation x^2 - 5x - 6 = 0.", "response": "Factoring gives roots x = -1 and x = 6."}
+{"instruction": "Solve equation x^2 + 3x - 10 = 0.", "response": "Factoring gives roots x = 2 and x = -5."}
+{"instruction": "Integrate f(x) = x - 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/2x^2 - x + C."}
+{"instruction": "Solve equation x^2 - 1x - 20 = 0.", "response": "Factoring gives roots x = 5 and x = -4."}
+{"instruction": "Integrate f(x) = -8 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8x + x^3 + C."}
+{"instruction": "Differentiate f(x) = 3x^5 - 7x^4 - 8.", "response": "Using the power rule term-by-term, f'(x) = 15x^4 - 28x^3."}
+{"instruction": "Differentiate f(x) = -9 - 9x^3 - 6x^4 - 6x^5.", "response": "Using the power rule term-by-term, f'(x) = -27x^2 - 24x^3 - 30x^4."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=54.0 m/s and s=147.5 m."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=54.2 m/s and s=138.4 m."}
+{"instruction": "Solve equation x^2 - 1x - 30 = 0.", "response": "Factoring gives roots x = -5 and x = 6."}
+{"instruction": "Solve equation x^2 - 6x - 27 = 0.", "response": "Factoring gives roots x = -3 and x = 9."}
+{"instruction": "Solve equation x^2 + 2x - 35 = 0.", "response": "Factoring gives roots x = 5 and x = -7."}
+{"instruction": "Integrate f(x) = -8x^2 - 2x^5 - 9x - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/3x^3 - 2/6x^6 - 9/2x^2 - 7/3x^3 + C."}
+{"instruction": "Integrate f(x) = 7x^4 + 2 + 4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/5x^5 + 2x + 4x + C."}
+{"instruction": "Differentiate f(x) = -6x^2 - 2x^4.", "response": "Using the power rule term-by-term, f'(x) = -12x - 8x^3."}
+{"instruction": "Differentiate f(x) = -6x^2 + 6x^3 - 9x^2.", "response": "Using the power rule term-by-term, f'(x) = -12x + 18x^2 - 18x."}
+{"instruction": "Solve equation x^2 - 18x + 77 = 0.", "response": "Factoring gives roots x = 7 and x = 11."}
+{"instruction": "Solve equation x^2 + 7x - 30 = 0.", "response": "Factoring gives roots x = -10 and x = 3."}
+{"instruction": "Solve equation x^2 - 6x - 16 = 0.", "response": "Factoring gives roots x = 8 and x = -2."}
+{"instruction": "Differentiate f(x) = 9 - 7x - 4x^3 + 7x^3.", "response": "Using the power rule term-by-term, f'(x) = -7 - 12x^2 + 21x^2."}
+{"instruction": "Integrate f(x) = 3 - 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x - x + C."}
+{"instruction": "Integrate f(x) = -x^3 - 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/4x^4 - 2/4x^4 + C."}
+{"instruction": "Solve equation x^2 - 8x - 48 = 0.", "response": "Factoring gives roots x = -4 and x = 12."}
+{"instruction": "Integrate f(x) = 9x^5 + 2x^3 + 8x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/6x^6 + 2/4x^4 + 8/3x^3 + C."}
+{"instruction": "Solve equation x^2 + 4x - 96 = 0.", "response": "Factoring gives roots x = 8 and x = -12."}
+{"instruction": "Solve equation x^2 + 3x - 88 = 0.", "response": "Factoring gives roots x = -11 and x = 8."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=18.0 m/s and s=16.5 m."}
+{"instruction": "Differentiate f(x) = -3x^2 - 6x^5 + 9x^5 - 4x.", "response": "Using the power rule term-by-term, f'(x) = -6x - 30x^4 + 45x^4 - 4."}
+{"instruction": "Given u=5 m/s, a=1.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=8.0 m/s and s=19.5 m."}
+{"instruction": "Integrate f(x) = 2x^2 + x^3 + 3 - 9x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/3x^3 + 1/4x^4 + 3x - 9/5x^5 + C."}
+{"instruction": "Solve equation x^2 + 3x - 18 = 0.", "response": "Factoring gives roots x = -6 and x = 3."}
+{"instruction": "Differentiate f(x) = 9x + 7x.", "response": "Using the power rule term-by-term, f'(x) = 9 + 7."}
+{"instruction": "Differentiate f(x) = -7x^2 - 5x^4.", "response": "Using the power rule term-by-term, f'(x) = -14x - 20x^3."}
+{"instruction": "Integrate f(x) = 8x^3 + 7x^2 + 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^4 + 7/3x^3 + 7x + C."}
+{"instruction": "Solve equation x^2 - 2x - 80 = 0.", "response": "Factoring gives roots x = 10 and x = -8."}
+{"instruction": "Differentiate f(x) = -7x^3 - 6x^3.", "response": "Using the power rule term-by-term, f'(x) = -21x^2 - 18x^2."}
+{"instruction": "Given u=5 m/s, a=0.5 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=5.5 m/s and s=5.25 m."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=12.0 m/s and s=22.0 m."}
+{"instruction": "Integrate f(x) = -9x^2 - 7x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3x^3 - 7/6x^6 + C."}
+{"instruction": "Solve equation x^2 - 15x + 36 = 0.", "response": "Factoring gives roots x = 3 and x = 12."}
+{"instruction": "Differentiate f(x) = 4x^4 - 3 + 9x^2 + 9x^4.", "response": "Using the power rule term-by-term, f'(x) = 16x^3 + 18x + 36x^3."}
+{"instruction": "Differentiate f(x) = -2x^2 + 5x^3 + 6x^5 + 4x^3.", "response": "Using the power rule term-by-term, f'(x) = -4x + 15x^2 + 30x^4 + 12x^2."}
+{"instruction": "Solve equation x^2 + 10x + 24 = 0.", "response": "Factoring gives roots x = -4 and x = -6."}
+{"instruction": "Integrate f(x) = 4x - 4x - 4x^5 + 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^2 - 2x^2 - 4/6x^6 + 6x + C."}
+{"instruction": "Solve equation x^2 - 7x - 8 = 0.", "response": "Factoring gives roots x = -1 and x = 8."}
+{"instruction": "Differentiate f(x) = -x^3 - 4x^4 + 6x^5.", "response": "Using the power rule term-by-term, f'(x) = -3x^2 - 16x^3 + 30x^4."}
+{"instruction": "Integrate f(x) = -5x^5 + x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/6x^6 + 1/4x^4 + C."}
+{"instruction": "Solve equation x^2 - 4x - 96 = 0.", "response": "Factoring gives roots x = 12 and x = -8."}
+{"instruction": "Differentiate f(x) = -4x^5 + 6x^5 - x^5.", "response": "Using the power rule term-by-term, f'(x) = -20x^4 + 30x^4 - 5x^4."}
+{"instruction": "Solve equation x^2 + 0x - 25 = 0.", "response": "Factoring gives roots x = 5 and x = -5."}
+{"instruction": "Solve equation x^2 + 17x + 60 = 0.", "response": "Factoring gives roots x = -12 and x = -5."}
+{"instruction": "Solve equation x^2 - 14x + 48 = 0.", "response": "Factoring gives roots x = 6 and x = 8."}
+{"instruction": "Integrate f(x) = 3x^3 + 9x^4 + 3x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/4x^4 + 9/5x^5 + 3/4x^4 + C."}
+{"instruction": "Integrate f(x) = -7x^5 - 7 + 8x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/6x^6 - 7x + 8/6x^6 + C."}
+{"instruction": "Integrate f(x) = 4 + 2x + 5x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4x + x^2 + 5/4x^4 + C."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=36.0 m."}
+{"instruction": "Given u=2 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=3.5 m/s and s=8.25 m."}
+{"instruction": "Integrate f(x) = -2x + 4x^4 + x^5 - 5x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^2 + 4/5x^5 + 1/6x^6 - 5/3x^3 + C."}
+{"instruction": "A mass of 5 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 12.0 = 60.0 N."}
+{"instruction": "Integrate f(x) = 2x^2 - 3x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/3x^3 - 3/2x^2 + C."}
+{"instruction": "Differentiate f(x) = 3x^5 + 8x^3 + 9x^2.", "response": "Using the power rule term-by-term, f'(x) = 15x^4 + 24x^2 + 18x."}
+{"instruction": "Differentiate f(x) = -7x^3 + 8x^5 - x^5 + 3x^3.", "response": "Using the power rule term-by-term, f'(x) = -21x^2 + 40x^4 - 5x^4 + 9x^2."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=21.0 m."}
+{"instruction": "Integrate f(x) = 1 + 4x^5 - 8x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x + 4/6x^6 - 8/5x^5 + C."}
+{"instruction": "Solve equation x^2 - 6x + 5 = 0.", "response": "Factoring gives roots x = 1 and x = 5."}
+{"instruction": "Solve equation x^2 - 1x - 90 = 0.", "response": "Factoring gives roots x = -9 and x = 10."}
+{"instruction": "Solve equation x^2 + 1x - 132 = 0.", "response": "Factoring gives roots x = -12 and x = 11."}
+{"instruction": "Given u=15 m/s, a=2.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=19.0 m/s and s=34.0 m."}
+{"instruction": "A mass of 50 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 3.5 = 175.0 N."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=21.0 m/s and s=36.0 m."}
+{"instruction": "Integrate f(x) = -4x^3 + 6x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^4 + 6/5x^5 + C."}
+{"instruction": "Solve equation x^2 - 2x - 99 = 0.", "response": "Factoring gives roots x = 11 and x = -9."}
+{"instruction": "Differentiate f(x) = x^3 + 5x^4 + 9x^4.", "response": "Using the power rule term-by-term, f'(x) = 3x^2 + 20x^3 + 36x^3."}
+{"instruction": "Integrate f(x) = 8x^2 + 3x^2 + 4 + 3x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/3x^3 + x^3 + 4x + 3/4x^4 + C."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=12.0 m/s and s=44.0 m."}
+{"instruction": "Integrate f(x) = -7 - 3x + 4x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7x - 3/2x^2 + x^4 + C."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.5 m/s and s=32.25 m."}
+{"instruction": "Solve equation x^2 - 12x + 11 = 0.", "response": "Factoring gives roots x = 11 and x = 1."}
+{"instruction": "Differentiate f(x) = -7x - 8x^2 + 4.", "response": "Using the power rule term-by-term, f'(x) = -7 - 16x."}
+{"instruction": "Given u=2 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=21.6 m/s and s=23.6 m."}
+{"instruction": "Integrate f(x) = 7 + 6x^5 - 8x^2 + 9x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7x + x^6 - 8/3x^3 + 9/6x^6 + C."}
+{"instruction": "Differentiate f(x) = -8x^3 + 3x^4 + 2x^3 - x^3.", "response": "Using the power rule term-by-term, f'(x) = -24x^2 + 12x^3 + 6x^2 - 3x^2."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=12.0 m/s and s=22.0 m."}
+{"instruction": "Solve equation x^2 - 3x - 18 = 0.", "response": "Factoring gives roots x = -3 and x = 6."}
+{"instruction": "Integrate f(x) = -9x - 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/2x^2 - 6x + C."}
+{"instruction": "Differentiate f(x) = 5x^5 + 6.", "response": "Using the power rule term-by-term, f'(x) = 25x^4."}
+{"instruction": "Differentiate f(x) = -6x^2 - 8 + x^5.", "response": "Using the power rule term-by-term, f'(x) = -12x + 5x^4."}
+{"instruction": "Integrate f(x) = 2x^5 - 6x^3 + 7x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/6x^6 - 6/4x^4 + 7/4x^4 + C."}
+{"instruction": "Solve equation x^2 + 3x - 10 = 0.", "response": "Factoring gives roots x = -5 and x = 2."}
+{"instruction": "Integrate f(x) = 8x^5 - 9x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/6x^6 - 3x^3 + C."}
+{"instruction": "Differentiate f(x) = -3x^5 + 5.", "response": "Using the power rule term-by-term, f'(x) = -15x^4."}
+{"instruction": "Differentiate f(x) = 4x^2 - x^5 - 5x^2 - 7x^4.", "response": "Using the power rule term-by-term, f'(x) = 8x - 5x^4 - 10x - 28x^3."}
+{"instruction": "Differentiate f(x) = 7x^4 - 8x^4.", "response": "Using the power rule term-by-term, f'(x) = 28x^3 - 32x^3."}
+{"instruction": "A mass of 5 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 4.0 = 20.0 N."}
+{"instruction": "Differentiate f(x) = -6x^2 - 2x^3 + x^2 + 6.", "response": "Using the power rule term-by-term, f'(x) = -12x - 6x^2 + 2x."}
+{"instruction": "Differentiate f(x) = -7x^2 - 6x + 7x^2.", "response": "Using the power rule term-by-term, f'(x) = -14x - 6 + 14x."}
+{"instruction": "Integrate f(x) = 3x^2 - 5 - 3x^3 + 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^3 - 5x - 3/4x^4 + 5x + C."}
+{"instruction": "Differentiate f(x) = -8x - 7x^3 + 8.", "response": "Using the power rule term-by-term, f'(x) = -8 - 21x^2."}
+{"instruction": "Differentiate f(x) = -4x^3 - 5x^5.", "response": "Using the power rule term-by-term, f'(x) = -12x^2 - 25x^4."}
+{"instruction": "Solve equation x^2 + 0x - 81 = 0.", "response": "Factoring gives roots x = 9 and x = -9."}
+{"instruction": "Differentiate f(x) = -7x^5 - 3x^5 - 9.", "response": "Using the power rule term-by-term, f'(x) = -35x^4 - 15x^4."}
+{"instruction": "Differentiate f(x) = 8x - 2 - 6x^3 + 2x^5.", "response": "Using the power rule term-by-term, f'(x) = 8 - 18x^2 + 10x^4."}
+{"instruction": "Differentiate f(x) = -x^4 - 8x^5 - 7x^2 - 7x.", "response": "Using the power rule term-by-term, f'(x) = -4x^3 - 40x^4 - 14x - 7."}
+{"instruction": "Integrate f(x) = 9x^5 + 9x^2 + x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/6x^6 + 3x^3 + 1/3x^3 + C."}
+{"instruction": "Differentiate f(x) = 8 - 4x^4 + 9x + 4x^3.", "response": "Using the power rule term-by-term, f'(x) = -16x^3 + 9 + 12x^2."}
+{"instruction": "Integrate f(x) = 8x^4 + 9x^5 - 6x^3 + 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/5x^5 + 9/6x^6 - 6/4x^4 + 6x + C."}
+{"instruction": "Solve equation x^2 + 8x + 7 = 0.", "response": "Factoring gives roots x = -1 and x = -7."}
+{"instruction": "Differentiate f(x) = -8x - 5x.", "response": "Using the power rule term-by-term, f'(x) = -8 - 5."}
+{"instruction": "Integrate f(x) = -8x^2 + 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/3x^3 + 7x + C."}
+{"instruction": "Integrate f(x) = 7x^4 + 8 - 6x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/5x^5 + 8x - 2x^3 + C."}
+{"instruction": "Solve equation x^2 + 14x + 40 = 0.", "response": "Factoring gives roots x = -4 and x = -10."}
+{"instruction": "Integrate f(x) = 5x^5 + 7 + 7x^2 + 5x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/6x^6 + 7x + 7/3x^3 + 5/3x^3 + C."}
+{"instruction": "Integrate f(x) = 5x^5 + 7x^5 + 2x + 9x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/6x^6 + 7/6x^6 + x^2 + 9/6x^6 + C."}
+{"instruction": "Solve equation x^2 - 7x - 8 = 0.", "response": "Factoring gives roots x = -1 and x = 8."}
+{"instruction": "Integrate f(x) = -6x^4 + 1 + 4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -6/5x^5 + x + 4x + C."}
+{"instruction": "Differentiate f(x) = 3x^2 + 6x.", "response": "Using the power rule term-by-term, f'(x) = 6x + 6."}
+{"instruction": "Differentiate f(x) = 7x + x - x^5.", "response": "Using the power rule term-by-term, f'(x) = 7 + 1 - 5x^4."}
+{"instruction": "Solve equation x^2 - 10x + 16 = 0.", "response": "Factoring gives roots x = 2 and x = 8."}
+{"instruction": "Differentiate f(x) = 8x^3 + 3x^3.", "response": "Using the power rule term-by-term, f'(x) = 24x^2 + 9x^2."}
+{"instruction": "Given u=2 m/s, a=2.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=10.0 m/s and s=24.0 m."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=54.0 m/s and s=147.5 m."}
+{"instruction": "Solve equation x^2 + 0x - 36 = 0.", "response": "Factoring gives roots x = 6 and x = -6."}
+{"instruction": "Solve equation x^2 - 6x - 55 = 0.", "response": "Factoring gives roots x = 11 and x = -5."}
+{"instruction": "Differentiate f(x) = 8x^3 - 6x^3 - 5x - 6.", "response": "Using the power rule term-by-term, f'(x) = 24x^2 - 18x^2 - 5."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=23.0 m/s and s=152.0 m."}
+{"instruction": "Given u=2 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=4.0 m/s and s=12.0 m."}
+{"instruction": "Solve equation x^2 - 18x + 77 = 0.", "response": "Factoring gives roots x = 11 and x = 7."}
+{"instruction": "Given u=5 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=72.0 m."}
+{"instruction": "Solve equation x^2 - 4x - 96 = 0.", "response": "Factoring gives roots x = -8 and x = 12."}
+{"instruction": "Integrate f(x) = 5 - 6x - 5x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5x - 3x^2 - 5/6x^6 + C."}
+{"instruction": "Solve equation x^2 + 7x - 60 = 0.", "response": "Factoring gives roots x = 5 and x = -12."}
+{"instruction": "Differentiate f(x) = -x - 1.", "response": "Using the power rule term-by-term, f'(x) = -1."}
+{"instruction": "Solve equation x^2 + 17x + 72 = 0.", "response": "Factoring gives roots x = -9 and x = -8."}
+{"instruction": "Integrate f(x) = -8x^4 - 4x^2 - 4x^4 + 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/5x^5 - 4/3x^3 - 4/5x^5 + 7/3x^3 + C."}
+{"instruction": "Differentiate f(x) = 9x^4 - 7 - 2x^5.", "response": "Using the power rule term-by-term, f'(x) = 36x^3 - 10x^4."}
+{"instruction": "Differentiate f(x) = 6x^5 + x^5 - 9x^3 - 1.", "response": "Using the power rule term-by-term, f'(x) = 30x^4 + 5x^4 - 27x^2."}
+{"instruction": "A mass of 1 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 3.5 = 3.5 N."}
+{"instruction": "Integrate f(x) = 6x^5 - x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^6 - 1/4x^4 + C."}
+{"instruction": "A mass of 20 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 9.8 = 196.0 N."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=44.2 m/s and s=98.4 m."}
+{"instruction": "Solve equation x^2 + 12x + 20 = 0.", "response": "Factoring gives roots x = -2 and x = -10."}
+{"instruction": "Differentiate f(x) = x^4 + 9x^2 - 9.", "response": "Using the power rule term-by-term, f'(x) = 4x^3 + 18x."}
+{"instruction": "Differentiate f(x) = -5x^5 - x + 6x^4.", "response": "Using the power rule term-by-term, f'(x) = -25x^4 - 1 + 24x^3."}
+{"instruction": "Differentiate f(x) = 9x^3 + 7x^5 - 2x^2.", "response": "Using the power rule term-by-term, f'(x) = 27x^2 + 35x^4 - 4x."}
+{"instruction": "Differentiate f(x) = x^5 - 5x^5 + 7 - 9x^4.", "response": "Using the power rule term-by-term, f'(x) = 5x^4 - 25x^4 - 36x^3."}
+{"instruction": "Differentiate f(x) = -9 + 6x - 4x^3 - 8.", "response": "Using the power rule term-by-term, f'(x) = 6 - 12x^2."}
+{"instruction": "Differentiate f(x) = -2 + 4x^5 + 7 + 9x^2.", "response": "Using the power rule term-by-term, f'(x) = 20x^4 + 18x."}
+{"instruction": "Integrate f(x) = -9 + 4x^2 - 5x^5 + 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9x + 4/3x^3 - 5/6x^6 + 2/4x^4 + C."}
+{"instruction": "A mass of 50 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 9.8 = 490.00000000000006 N."}
+{"instruction": "A mass of 50 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 1.0 = 50.0 N."}
+{"instruction": "Differentiate f(x) = 6x^2 + 8x^4 - 6x^3.", "response": "Using the power rule term-by-term, f'(x) = 12x + 32x^3 - 18x^2."}
+{"instruction": "Integrate f(x) = 4 + 4x^5 + 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4x + 4/6x^6 + 2/4x^4 + C."}
+{"instruction": "Differentiate f(x) = -2x^4 + 4x^3 - 2 + 6x^3.", "response": "Using the power rule term-by-term, f'(x) = -8x^3 + 12x^2 + 18x^2."}
+{"instruction": "Differentiate f(x) = -2 - 1 + 7x^4.", "response": "Using the power rule term-by-term, f'(x) = 28x^3."}
+{"instruction": "Integrate f(x) = 2x^4 + 7x^5 + 3x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/5x^5 + 7/6x^6 + 3/6x^6 + C."}
+{"instruction": "Integrate f(x) = 4x^4 - 9x^4 + 4x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/5x^5 - 9/5x^5 + x^4 + C."}
+{"instruction": "Differentiate f(x) = -5x^4 - 5.", "response": "Using the power rule term-by-term, f'(x) = -20x^3."}
+{"instruction": "Integrate f(x) = 9 - 4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x - 4x + C."}
+{"instruction": "Integrate f(x) = -6x^3 - 2 - 8x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -6/4x^4 - 2x - 8/5x^5 + C."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=39.0 m/s and s=216.0 m."}
+{"instruction": "Integrate f(x) = -4x^2 - 4x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/3x^3 - 4/5x^5 + C."}
+{"instruction": "Integrate f(x) = 9 + 4x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x + 4/6x^6 + C."}
+{"instruction": "Solve equation x^2 + 5x - 36 = 0.", "response": "Factoring gives roots x = -9 and x = 4."}
+{"instruction": "Integrate f(x) = x^3 + 2 - 9x^3 - 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/4x^4 + 2x - 9/4x^4 - 6x + C."}
+{"instruction": "Find limit of sin(12x)/(12x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Integrate f(x) = -x^3 + x^3 - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/4x^4 + 1/4x^4 - 7/3x^3 + C."}
+{"instruction": "Differentiate f(x) = 6 - 7x^2 + 2.", "response": "Using the power rule term-by-term, f'(x) = -14x."}
+{"instruction": "Differentiate f(x) = 3x - 5x^2 + 3x^4.", "response": "Using the power rule term-by-term, f'(x) = 3 - 10x + 12x^3."}
+{"instruction": "Differentiate f(x) = 9x^3 - 7x^4.", "response": "Using the power rule term-by-term, f'(x) = 27x^2 - 28x^3."}
+{"instruction": "Integrate f(x) = -9x - 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/2x^2 - 2/6x^6 + C."}
+{"instruction": "Integrate f(x) = -x^3 - 2x^4 - 5 + 8x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/4x^4 - 2/5x^5 - 5x + 2x^4 + C."}
+{"instruction": "Differentiate f(x) = -1 - 5x^3.", "response": "Using the power rule term-by-term, f'(x) = -15x^2."}
+{"instruction": "Solve equation x^2 - 7x + 0 = 0.", "response": "Factoring gives roots x = 0 and x = 7."}
+{"instruction": "Integrate f(x) = -9x^5 - 7 + 9x^2 + 9x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/6x^6 - 7x + 3x^3 + 9/5x^5 + C."}
+{"instruction": "Solve equation x^2 + 0x - 81 = 0.", "response": "Factoring gives roots x = -9 and x = 9."}
+{"instruction": "Integrate f(x) = -5x^2 - 8x^5 + 7x^2 + 9 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/3x^3 - 8/6x^6 + 7/3x^3 + 9x + C."}
+{"instruction": "Solve equation x^2 - 5x - 66 = 0.", "response": "Factoring gives roots x = 11 and x = -6."}
+{"instruction": "A mass of 10 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 4.0 = 40.0 N."}
+{"instruction": "Solve equation x^2 + 6x + 5 = 0.", "response": "Factoring gives roots x = -1 and x = -5."}
+{"instruction": "Integrate f(x) = -2 + 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x + 5x + C."}
+{"instruction": "Find limit of sin(5x)/(5x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 - 5x - 84 = 0.", "response": "Factoring gives roots x = -7 and x = 12."}
+{"instruction": "A mass of 1 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 9.8 = 9.8 N."}
+{"instruction": "Integrate f(x) = 8x^3 - 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^4 - 7x + C."}
+{"instruction": "Differentiate f(x) = 3x^3 + 3 + x^2.", "response": "Using the power rule term-by-term, f'(x) = 9x^2 + 2x."}
+{"instruction": "Differentiate f(x) = 8x - 5x^5 + 7x - 6x^2.", "response": "Using the power rule term-by-term, f'(x) = 8 - 25x^4 + 7 - 12x."}
+{"instruction": "Integrate f(x) = -x^3 - 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/4x^4 - 6x + C."}
+{"instruction": "Integrate f(x) = -3 - 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3x - 2/4x^4 + C."}
+{"instruction": "Differentiate f(x) = x + 9 + 3x^3 - 6x^4.", "response": "Using the power rule term-by-term, f'(x) = 1 + 9x^2 - 24x^3."}
+{"instruction": "Find limit of sin(1x)/(1x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Integrate f(x) = 2x^3 - 3x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/4x^4 - 3/2x^2 + C."}
+{"instruction": "Differentiate f(x) = 2x^5 + x^2.", "response": "Using the power rule term-by-term, f'(x) = 10x^4 + 2x."}
+{"instruction": "Integrate f(x) = 4 + 3x^3 - 7x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4x + 3/4x^4 - 7/6x^6 + C."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=19.0 m/s and s=68.0 m."}
+{"instruction": "Differentiate f(x) = 2x^4 - 5.", "response": "Using the power rule term-by-term, f'(x) = 8x^3."}
+{"instruction": "A mass of 10 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 2.0 = 20.0 N."}
+{"instruction": "Solve equation x^2 - 4x - 77 = 0.", "response": "Factoring gives roots x = -7 and x = 11."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=24.8 m/s and s=19.9 m."}
+{"instruction": "Solve equation x^2 - 3x - 40 = 0.", "response": "Factoring gives roots x = 8 and x = -5."}
+{"instruction": "Integrate f(x) = 6x^3 - x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6/4x^4 - 1/6x^6 + C."}
+{"instruction": "Solve equation x^2 - 9x + 8 = 0.", "response": "Factoring gives roots x = 8 and x = 1."}
+{"instruction": "Integrate f(x) = -6 + 9x^4 - 6x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -6x + 9/5x^5 - 3x^2 + C."}
+{"instruction": "Differentiate f(x) = 9 + 7x^3 + 8x^3.", "response": "Using the power rule term-by-term, f'(x) = 21x^2 + 24x^2."}
+{"instruction": "Differentiate f(x) = -9x^5 + 5x - 5x^2 + x.", "response": "Using the power rule term-by-term, f'(x) = -45x^4 + 5 - 10x + 1."}
+{"instruction": "Integrate f(x) = -3x^4 - 8 + 8 + 7x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/5x^5 - 8x + 8x + 7/6x^6 + C."}
+{"instruction": "Integrate f(x) = -3x^2 - 4x^4 - 9x^5 - 6x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^3 - 4/5x^5 - 9/6x^6 - 3x^2 + C."}
+{"instruction": "Integrate f(x) = 3x^4 + x^5 + 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/5x^5 + 1/6x^6 + x + C."}
+{"instruction": "A mass of 20 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 12.0 = 240.0 N."}
+{"instruction": "Differentiate f(x) = 9x + 3.", "response": "Using the power rule term-by-term, f'(x) = 9."}
+{"instruction": "Differentiate f(x) = -8x^5 + 6x^2 - 5x.", "response": "Using the power rule term-by-term, f'(x) = -40x^4 + 12x - 5."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=8.0 m/s and s=32.0 m."}
+{"instruction": "Differentiate f(x) = -6x^5 + 9x^2 + 2 + x^3.", "response": "Using the power rule term-by-term, f'(x) = -30x^4 + 18x + 3x^2."}
+{"instruction": "Differentiate f(x) = 7x^5 + 3 + 7x^5 - 7x.", "response": "Using the power rule term-by-term, f'(x) = 35x^4 + 35x^4 - 7."}
+{"instruction": "Integrate f(x) = -6x^4 + 8 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -6/5x^5 + 8x + C."}
+{"instruction": "Differentiate f(x) = -3x^2 + 3x^3 + 8x^3.", "response": "Using the power rule term-by-term, f'(x) = -6x + 9x^2 + 24x^2."}
+{"instruction": "Integrate f(x) = -5x^3 + x^4 + 2x^3 + 9x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/4x^4 + 1/5x^5 + 2/4x^4 + 9/2x^2 + C."}
+{"instruction": "Integrate f(x) = -2 + 2x^3 - 6x^3 - x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x + 2/4x^4 - 6/4x^4 - 1/5x^5 + C."}
+{"instruction": "Differentiate f(x) = -8x^5 - 7x^3 - 3x^4.", "response": "Using the power rule term-by-term, f'(x) = -40x^4 - 21x^2 - 12x^3."}
+{"instruction": "Given u=10 m/s, a=2.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=14.0 m/s and s=24.0 m."}
+{"instruction": "Integrate f(x) = 3x^4 - 2x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/5x^5 - 2/3x^3 + C."}
+{"instruction": "Given u=0 m/s, a=0.5 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=0.5 m/s and s=0.25 m."}
+{"instruction": "Integrate f(x) = -4x + 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x^2 + x + C."}
+{"instruction": "Solve equation x^2 + 0x - 4 = 0.", "response": "Factoring gives roots x = 2 and x = -2."}
+{"instruction": "Integrate f(x) = -4 - 4x^4 + 2x^2 + x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4x - 4/5x^5 + 2/3x^3 + 1/3x^3 + C."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.6 m/s and s=49.6 m."}
+{"instruction": "Integrate f(x) = -6x^5 - 8 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^6 - 8x + C."}
+{"instruction": "Integrate f(x) = 3x^5 + 5x - 5x - 3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/6x^6 + 5/2x^2 - 5/2x^2 - 3x + C."}
+{"instruction": "Given u=0 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=78.4 m/s and s=313.6 m."}
+{"instruction": "Differentiate f(x) = -6x^3 + 6x^2 + 4x^3.", "response": "Using the power rule term-by-term, f'(x) = -18x^2 + 12x + 12x^2."}
+{"instruction": "Solve equation x^2 + 22x + 121 = 0.", "response": "Factoring gives roots x = -11 and x = -11."}
+{"instruction": "Differentiate f(x) = x^5 - 1 + 7x^4 - 4x^4.", "response": "Using the power rule term-by-term, f'(x) = 5x^4 + 28x^3 - 16x^3."}
+{"instruction": "A mass of 30 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 12.0 = 360.0 N."}
+{"instruction": "Integrate f(x) = 2x^3 + 6x^3 + 3x^2 + 7x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/4x^4 + 6/4x^4 + x^3 + 7/5x^5 + C."}
+{"instruction": "Integrate f(x) = 3 + 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x + 5x + C."}
+{"instruction": "Solve equation x^2 - 3x + 0 = 0.", "response": "Factoring gives roots x = 3 and x = 0."}
+{"instruction": "Integrate f(x) = 7x + 7x^3 - 3 - 6x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/2x^2 + 7/4x^4 - 3x - x^6 + C."}
+{"instruction": "Differentiate f(x) = 2x^2 + 4 + 5x^4.", "response": "Using the power rule term-by-term, f'(x) = 4x + 20x^3."}
+{"instruction": "Differentiate f(x) = -6x^3 + 3x^4 - 6x^2.", "response": "Using the power rule term-by-term, f'(x) = -18x^2 + 12x^3 - 12x."}
+{"instruction": "Solve equation x^2 - 19x + 90 = 0.", "response": "Factoring gives roots x = 10 and x = 9."}
+{"instruction": "A mass of 2 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 1.0 = 2.0 N."}
+{"instruction": "Given u=2 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=51.0 m/s and s=132.5 m."}
+{"instruction": "A mass of 15 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 2.0 = 30.0 N."}
+{"instruction": "Integrate f(x) = -3 + 9 + 2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3x + 9x + 2x + C."}
+{"instruction": "A mass of 5 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 3.5 = 17.5 N."}
+{"instruction": "Solve equation x^2 - 8x + 12 = 0.", "response": "Factoring gives roots x = 2 and x = 6."}
+{"instruction": "Differentiate f(x) = 4x^3 + 8 - 2x^3 + x^3.", "response": "Using the power rule term-by-term, f'(x) = 12x^2 - 6x^2 + 3x^2."}
+{"instruction": "Integrate f(x) = 6 + x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6x + 1/2x^2 + C."}
+{"instruction": "Differentiate f(x) = -6x^5 + 6.", "response": "Using the power rule term-by-term, f'(x) = -30x^4."}
+{"instruction": "Solve equation x^2 - 12x + 32 = 0.", "response": "Factoring gives roots x = 4 and x = 8."}
+{"instruction": "Integrate f(x) = 8x^5 - 5 - x^3 + 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/6x^6 - 5x - 1/4x^4 + 2/5x^5 + C."}
+{"instruction": "Differentiate f(x) = -x^4 - x - 4x^4.", "response": "Using the power rule term-by-term, f'(x) = -4x^3 - 1 - 16x^3."}
+{"instruction": "Integrate f(x) = 9x^3 + 3x^2 + 9x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/4x^4 + x^3 + 9/5x^5 + C."}
+{"instruction": "Differentiate f(x) = 2 + 8x^5.", "response": "Using the power rule term-by-term, f'(x) = 40x^4."}
+{"instruction": "Integrate f(x) = 2x^4 + 2x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/5x^5 + x^2 + C."}
+{"instruction": "Integrate f(x) = -5x^4 - 2 - x + 9x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^5 - 2x - 1/2x^2 + 9/4x^4 + C."}
+{"instruction": "Differentiate f(x) = 7x - 6x^5 - x^2.", "response": "Using the power rule term-by-term, f'(x) = 7 - 30x^4 - 2x."}
+{"instruction": "Integrate f(x) = -3x^3 + 9x^2 - 4x^3 - 8 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/4x^4 + 3x^3 - x^4 - 8x + C."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=62.5 m."}
+{"instruction": "Differentiate f(x) = -8x^5 - 7x^2 + 6.", "response": "Using the power rule term-by-term, f'(x) = -40x^4 - 14x."}
+{"instruction": "Integrate f(x) = -4x^2 - 7x^4 + 9x^5 - 6x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/3x^3 - 7/5x^5 + 9/6x^6 - 3x^2 + C."}
+{"instruction": "Solve equation x^2 - 4x + 0 = 0.", "response": "Factoring gives roots x = 4 and x = 0."}
+{"instruction": "Integrate f(x) = -5x - 5 + 5x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/2x^2 - 5x + 5/6x^6 + C."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.0 m/s and s=50.0 m."}
+{"instruction": "Integrate f(x) = 5 - 8x^4 + 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5x - 8/5x^5 + 2/4x^4 + C."}
+{"instruction": "Integrate f(x) = -x^2 + 4x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/3x^3 + 2x^2 + C."}
+{"instruction": "Differentiate f(x) = -4x^5 + 5x^4.", "response": "Using the power rule term-by-term, f'(x) = -20x^4 + 20x^3."}
+{"instruction": "Differentiate f(x) = -3x - x^5 - 7x^4 - 6x^4.", "response": "Using the power rule term-by-term, f'(x) = -3 - 5x^4 - 28x^3 - 24x^3."}
+{"instruction": "Integrate f(x) = -6x^5 + 7x^5 - 3x^5 - 2x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^6 + 7/6x^6 - 3/6x^6 - 2/3x^3 + C."}
+{"instruction": "Solve equation x^2 - 4x - 45 = 0.", "response": "Factoring gives roots x = -5 and x = 9."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=23.0 m/s and s=152.0 m."}
+{"instruction": "Solve equation x^2 - 10x + 25 = 0.", "response": "Factoring gives roots x = 5 and x = 5."}
+{"instruction": "Integrate f(x) = -3x + 8x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/2x^2 + 4x^2 + C."}
+{"instruction": "Differentiate f(x) = -4x^2 - 2x^2.", "response": "Using the power rule term-by-term, f'(x) = -8x - 4x."}
+{"instruction": "Solve equation x^2 - 11x + 28 = 0.", "response": "Factoring gives roots x = 4 and x = 7."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=64.0 m/s and s=197.5 m."}
+{"instruction": "Differentiate f(x) = 7 - 8 + 2x^4 + 1.", "response": "Using the power rule term-by-term, f'(x) = 8x^3."}
+{"instruction": "Integrate f(x) = 9x + 1 + 7x - x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 + x + 7/2x^2 - 1/6x^6 + C."}
+{"instruction": "Integrate f(x) = -3x + 7x^5 + 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/2x^2 + 7/6x^6 + 2/6x^6 + C."}
+{"instruction": "Differentiate f(x) = -3 - 6x^4.", "response": "Using the power rule term-by-term, f'(x) = -24x^3."}
+{"instruction": "Integrate f(x) = -x^2 - 4x^4 - 6x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/3x^3 - 4/5x^5 - 3x^2 + C."}
+{"instruction": "Differentiate f(x) = 3x^2 + 6x^3.", "response": "Using the power rule term-by-term, f'(x) = 6x + 18x^2."}
+{"instruction": "Differentiate f(x) = -9x + 1 - x + 9x^2.", "response": "Using the power rule term-by-term, f'(x) = -9 - 1 + 18x."}
+{"instruction": "Integrate f(x) = 2 - x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x - 1/5x^5 + C."}
+{"instruction": "Integrate f(x) = -6x^2 + 3x^4 - x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x^3 + 3/5x^5 - 1/2x^2 + C."}
+{"instruction": "Differentiate f(x) = -x^3 + 8x.", "response": "Using the power rule term-by-term, f'(x) = -3x^2 + 8."}
+{"instruction": "Differentiate f(x) = -6x^2 + 9x^5 - 7x^2.", "response": "Using the power rule term-by-term, f'(x) = -12x + 45x^4 - 14x."}
+{"instruction": "Solve equation x^2 - 10x + 16 = 0.", "response": "Factoring gives roots x = 2 and x = 8."}
+{"instruction": "Given u=15 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=64.0 m."}
+{"instruction": "Solve equation x^2 + 9x - 22 = 0.", "response": "Factoring gives roots x = -11 and x = 2."}
+{"instruction": "Integrate f(x) = -4x^4 + 8x^2 - 4x^5 + 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/5x^5 + 8/3x^3 - 4/6x^6 + 2/4x^4 + C."}
+{"instruction": "Differentiate f(x) = 2x^4 + 2x^5 - 6x^5 + x^4.", "response": "Using the power rule term-by-term, f'(x) = 8x^3 + 10x^4 - 30x^4 + 4x^3."}
+{"instruction": "Integrate f(x) = 6 - 5 - 2x^5 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6x - 5x - 2/6x^6 + x^3 + C."}
+{"instruction": "Given u=2 m/s, a=2.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=8.0 m/s and s=15.0 m."}
+{"instruction": "Find limit of sin(6x)/(6x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 - 4x - 96 = 0.", "response": "Factoring gives roots x = -8 and x = 12."}
+{"instruction": "Solve equation x^2 - 6x - 7 = 0.", "response": "Factoring gives roots x = 7 and x = -1."}
+{"instruction": "Integrate f(x) = -4x^3 - 5x + 9x^3 + 3x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^4 - 5/2x^2 + 9/4x^4 + 3/4x^4 + C."}
+{"instruction": "Integrate f(x) = 7x^2 - 4x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/3x^3 - 4/3x^3 + C."}
+{"instruction": "Solve equation x^2 + 1x - 90 = 0.", "response": "Factoring gives roots x = 9 and x = -10."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=18.0 m/s and s=112.0 m."}
+{"instruction": "Integrate f(x) = 2 + 2x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x + x^2 + C."}
+{"instruction": "Integrate f(x) = -x^4 + 7x^5 - 2x^2 + 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/5x^5 + 7/6x^6 - 2/3x^3 + 6x + C."}
+{"instruction": "Given u=0 m/s, a=9.8 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=39.2 m/s and s=78.4 m."}
+{"instruction": "Given u=2 m/s, a=3.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=14.0 m/s and s=32.0 m."}
+{"instruction": "Solve equation x^2 + 5x + 0 = 0.", "response": "Factoring gives roots x = -5 and x = 0."}
+{"instruction": "Integrate f(x) = x^2 - 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/3x^3 - 7x + C."}
+{"instruction": "Differentiate f(x) = 8 + x^3 + 6.", "response": "Using the power rule term-by-term, f'(x) = 3x^2."}
+{"instruction": "Solve equation x^2 - 10x + 21 = 0.", "response": "Factoring gives roots x = 3 and x = 7."}
+{"instruction": "Differentiate f(x) = -7x^3 + 6x^4 + 3.", "response": "Using the power rule term-by-term, f'(x) = -21x^2 + 24x^3."}
+{"instruction": "Integrate f(x) = -8x^5 + 3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/6x^6 + 3x + C."}
+{"instruction": "Given u=0 m/s, a=0.5 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=1.0 m/s and s=1.0 m."}
+{"instruction": "Solve equation x^2 - 5x - 84 = 0.", "response": "Factoring gives roots x = -7 and x = 12."}
+{"instruction": "Differentiate f(x) = 5x^4 + 8x^3 - 1.", "response": "Using the power rule term-by-term, f'(x) = 20x^3 + 24x^2."}
+{"instruction": "Solve equation x^2 + 15x + 50 = 0.", "response": "Factoring gives roots x = -10 and x = -5."}
+{"instruction": "Differentiate f(x) = 3x^5 + 6x^5 + 5 - 4x.", "response": "Using the power rule term-by-term, f'(x) = 15x^4 + 30x^4 - 4."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=19.0 m/s and s=43.5 m."}
+{"instruction": "Integrate f(x) = -7x - 2x + 9 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/2x^2 - x^2 + 9x + C."}
+{"instruction": "Integrate f(x) = -3x + 3x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/2x^2 + 3/2x^2 + C."}
+{"instruction": "Differentiate f(x) = -8x + 6x^3 + 7x^3 - 3x^2.", "response": "Using the power rule term-by-term, f'(x) = -8 + 18x^2 + 21x^2 - 6x."}
+{"instruction": "Solve equation x^2 + 4x - 77 = 0.", "response": "Factoring gives roots x = 7 and x = -11."}
+{"instruction": "Integrate f(x) = 2x + 6 - x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^2 + 6x - 1/6x^6 + C."}
+{"instruction": "Integrate f(x) = 2 + 9x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x + 9/2x^2 + C."}
+{"instruction": "Integrate f(x) = -5x^4 + 9x^5 - 3x + x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^5 + 9/6x^6 - 3/2x^2 + 1/6x^6 + C."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=14.0 m/s and s=48.0 m."}
+{"instruction": "Solve equation x^2 - 3x - 70 = 0.", "response": "Factoring gives roots x = -7 and x = 10."}
+{"instruction": "Given u=10 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=59.0 m/s and s=172.5 m."}
+{"instruction": "A mass of 30 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 9.8 = 294.0 N."}
+{"instruction": "Integrate f(x) = 5x^3 - 8x^2 + 3x^4 - 3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/4x^4 - 8/3x^3 + 3/5x^5 - 3x + C."}
+{"instruction": "Solve equation x^2 + 17x + 60 = 0.", "response": "Factoring gives roots x = -12 and x = -5."}
+{"instruction": "Solve equation x^2 + 9x + 18 = 0.", "response": "Factoring gives roots x = -3 and x = -6."}
+{"instruction": "Differentiate f(x) = -x^3 + 4x^4 + 3x^2.", "response": "Using the power rule term-by-term, f'(x) = -3x^2 + 16x^3 + 6x."}
+{"instruction": "A mass of 10 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 1.0 = 10.0 N."}
+{"instruction": "Differentiate f(x) = -5x^4 - 6x.", "response": "Using the power rule term-by-term, f'(x) = -20x^3 - 6."}
+{"instruction": "Integrate f(x) = -x^2 + 6x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/3x^3 + 3x^2 + C."}
+{"instruction": "Integrate f(x) = -8x^3 + 8x^3 + 9x^5 + 7x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x^4 + 2x^4 + 9/6x^6 + 7/5x^5 + C."}
+{"instruction": "Differentiate f(x) = -8x - x^4.", "response": "Using the power rule term-by-term, f'(x) = -8 - 4x^3."}
+{"instruction": "Integrate f(x) = -5 - 8x + x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5x - 4x^2 + 1/5x^5 + C."}
+{"instruction": "A mass of 2 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 12.0 = 24.0 N."}
+{"instruction": "Differentiate f(x) = x^5 + x^5.", "response": "Using the power rule term-by-term, f'(x) = 5x^4 + 5x^4."}
+{"instruction": "Integrate f(x) = 3 - 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x - x^3 + C."}
+{"instruction": "Differentiate f(x) = -4x^4 - 6 + 8x^3.", "response": "Using the power rule term-by-term, f'(x) = -16x^3 + 24x^2."}
+{"instruction": "Given u=0 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=19.6 m/s and s=19.6 m."}
+{"instruction": "Solve equation x^2 - 12x + 0 = 0.", "response": "Factoring gives roots x = 0 and x = 12."}
+{"instruction": "Find limit of sin(11x)/(11x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Given u=2 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=26.0 m/s and s=112.0 m."}
+{"instruction": "Given u=0 m/s, a=9.8 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=49.0 m/s and s=122.5 m."}
+{"instruction": "Solve equation x^2 + 16x + 55 = 0.", "response": "Factoring gives roots x = -11 and x = -5."}
+{"instruction": "Differentiate f(x) = -4x^2 - 5.", "response": "Using the power rule term-by-term, f'(x) = -8x."}
+{"instruction": "Integrate f(x) = -6x + 1 + 4x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3x^2 + x + 4/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -7 - 3x^4.", "response": "Using the power rule term-by-term, f'(x) = -12x^3."}
+{"instruction": "Integrate f(x) = 2x - 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^2 - 2/6x^6 + C."}
+{"instruction": "Differentiate f(x) = 1 + 2x^2.", "response": "Using the power rule term-by-term, f'(x) = 4x."}
+{"instruction": "Differentiate f(x) = -9x^3 + 3x^2.", "response": "Using the power rule term-by-term, f'(x) = -27x^2 + 6x."}
+{"instruction": "Solve equation x^2 - 7x + 6 = 0.", "response": "Factoring gives roots x = 6 and x = 1."}
+{"instruction": "Solve equation x^2 - 8x + 15 = 0.", "response": "Factoring gives roots x = 5 and x = 3."}
+{"instruction": "Differentiate f(x) = 8x + 3x^2.", "response": "Using the power rule term-by-term, f'(x) = 8 + 6x."}
+{"instruction": "A mass of 50 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 12.0 = 600.0 N."}
+{"instruction": "Integrate f(x) = 4 - 6x^5 - 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4x - x^6 - 2/4x^4 + C."}
+{"instruction": "Given u=2 m/s, a=9.8 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=31.400000000000002 m/s and s=50.1 m."}
+{"instruction": "Integrate f(x) = 2x^2 + 7x^4 - 2x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/3x^3 + 7/5x^5 - 2/3x^3 + C."}
+{"instruction": "Solve equation x^2 - 17x + 72 = 0.", "response": "Factoring gives roots x = 8 and x = 9."}
+{"instruction": "Differentiate f(x) = 3x + 6x^2 + 6x^2 - 6.", "response": "Using the power rule term-by-term, f'(x) = 3 + 12x + 12x."}
+{"instruction": "Solve equation x^2 - 12x + 11 = 0.", "response": "Factoring gives roots x = 1 and x = 11."}
+{"instruction": "Integrate f(x) = 7x^3 - 1 + 5x^5 - 2x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/4x^4 - x + 5/6x^6 - x^2 + C."}
+{"instruction": "Integrate f(x) = 3 - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x - 7/3x^3 + C."}
+{"instruction": "Solve equation x^2 + 16x + 64 = 0.", "response": "Factoring gives roots x = -8 and x = -8."}
+{"instruction": "Integrate f(x) = -8x - 4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4x^2 - 4x + C."}
+{"instruction": "Find limit of sin(10x)/(10x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 + 4x + 3 = 0.", "response": "Factoring gives roots x = -1 and x = -3."}
+{"instruction": "Differentiate f(x) = -4 - 3x^2 + 7x^5 - 6x^3.", "response": "Using the power rule term-by-term, f'(x) = -6x + 35x^4 - 18x^2."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=10.5 m/s and s=10.25 m."}
+{"instruction": "Solve equation x^2 - 15x + 56 = 0.", "response": "Factoring gives roots x = 8 and x = 7."}
+{"instruction": "Solve equation x^2 + 5x - 50 = 0.", "response": "Factoring gives roots x = -10 and x = 5."}
+{"instruction": "Integrate f(x) = -6x^2 + 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x^3 + 7x + C."}
+{"instruction": "Integrate f(x) = 5 + x^3 + 4x^5 + 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5x + 1/4x^4 + 4/6x^6 + 2/5x^5 + C."}
+{"instruction": "Differentiate f(x) = 6x^5 + 8x^2 - 5x^4.", "response": "Using the power rule term-by-term, f'(x) = 30x^4 + 16x - 20x^3."}
+{"instruction": "Differentiate f(x) = -5x^2 + 6x^2.", "response": "Using the power rule term-by-term, f'(x) = -10x + 12x."}
+{"instruction": "Differentiate f(x) = -8x^2 + 3x^5.", "response": "Using the power rule term-by-term, f'(x) = -16x + 15x^4."}
+{"instruction": "Differentiate f(x) = 6x^3 - 9x^3.", "response": "Using the power rule term-by-term, f'(x) = 18x^2 - 27x^2."}
+{"instruction": "A mass of 50 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 50 * 4.0 = 200.0 N."}
+{"instruction": "Integrate f(x) = 9x + 5x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 + 5/6x^6 + C."}
+{"instruction": "Integrate f(x) = 5 - 4x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5x - 4/6x^6 + C."}
+{"instruction": "Differentiate f(x) = -4x^3 - 7x + 7x^5 - 6x^2.", "response": "Using the power rule term-by-term, f'(x) = -12x^2 - 7 + 35x^4 - 12x."}
+{"instruction": "Solve equation x^2 + 12x + 0 = 0.", "response": "Factoring gives roots x = -12 and x = 0."}
+{"instruction": "Integrate f(x) = 4 + 4x^2 + 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4x + 4/3x^3 + x + C."}
+{"instruction": "Given u=10 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=29.6 m/s and s=39.6 m."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=20.0 m/s and s=62.5 m."}
+{"instruction": "Solve equation x^2 - 13x + 36 = 0.", "response": "Factoring gives roots x = 4 and x = 9."}
+{"instruction": "Solve equation x^2 + 0x - 64 = 0.", "response": "Factoring gives roots x = 8 and x = -8."}
+{"instruction": "Integrate f(x) = 6x^4 - 4x^4 + 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6/5x^5 - 4/5x^5 + x + C."}
+{"instruction": "A mass of 20 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 2.0 = 40.0 N."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=34.5 m."}
+{"instruction": "Given u=2 m/s, a=9.8 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=41.2 m/s and s=86.4 m."}
+{"instruction": "Integrate f(x) = -8x - 6 + 3x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4x^2 - 6x + 3/5x^5 + C."}
+{"instruction": "Integrate f(x) = -7x^5 + 6x^5 + x^5 + 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/6x^6 + x^6 + 1/6x^6 + 5x + C."}
+{"instruction": "Differentiate f(x) = x^5 + 4x^2 + 8x^4.", "response": "Using the power rule term-by-term, f'(x) = 5x^4 + 8x + 32x^3."}
+{"instruction": "Differentiate f(x) = -5x^3 - 5x^5 + 6x^4 + 2x^3.", "response": "Using the power rule term-by-term, f'(x) = -15x^2 - 25x^4 + 24x^3 + 6x^2."}
+{"instruction": "Integrate f(x) = -2x^5 - 3x^2 + 5x^4 - 9x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2/6x^6 - x^3 + x^5 - 9/6x^6 + C."}
+{"instruction": "Differentiate f(x) = -8 + 4x^3 + 4x^4 + 7.", "response": "Using the power rule term-by-term, f'(x) = 12x^2 + 16x^3."}
+{"instruction": "Integrate f(x) = 6x^3 + 7x^2 + 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6/4x^4 + 7/3x^3 + 5x + C."}
+{"instruction": "Given u=0 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.0 m/s and s=4.0 m."}
+{"instruction": "Differentiate f(x) = 1 - 7x^4 + 8x^3.", "response": "Using the power rule term-by-term, f'(x) = -28x^3 + 24x^2."}
+{"instruction": "Differentiate f(x) = 6x - 5 - 8x^2.", "response": "Using the power rule term-by-term, f'(x) = 6 - 16x."}
+{"instruction": "Differentiate f(x) = 2x + 7x + 3x^2.", "response": "Using the power rule term-by-term, f'(x) = 2 + 7 + 6x."}
+{"instruction": "Differentiate f(x) = 7x^4 + 6x^2.", "response": "Using the power rule term-by-term, f'(x) = 28x^3 + 12x."}
+{"instruction": "Solve equation x^2 - 6x - 7 = 0.", "response": "Factoring gives roots x = -1 and x = 7."}
+{"instruction": "Solve equation x^2 + 4x - 32 = 0.", "response": "Factoring gives roots x = 4 and x = -8."}
+{"instruction": "Integrate f(x) = x + 8x^3 + x^4 - 8x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/2x^2 + 2x^4 + 1/5x^5 - 8/5x^5 + C."}
+{"instruction": "Differentiate f(x) = 6x^3 + 4x^5 - 9x^3.", "response": "Using the power rule term-by-term, f'(x) = 18x^2 + 20x^4 - 27x^2."}
+{"instruction": "Differentiate f(x) = 8x^3 + 5x + 3 + x^4.", "response": "Using the power rule term-by-term, f'(x) = 24x^2 + 5 + 4x^3."}
+{"instruction": "Integrate f(x) = -9x^3 - 8 + 7x^5 + 8 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/4x^4 - 8x + 7/6x^6 + 8x + C."}
+{"instruction": "Integrate f(x) = 7x + 3x^5 + 6x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/2x^2 + 3/6x^6 + 6/4x^4 + C."}
+{"instruction": "Solve equation x^2 + 5x - 24 = 0.", "response": "Factoring gives roots x = 3 and x = -8."}
+{"instruction": "Differentiate f(x) = 9x^2 + x - 4x^2 + 8x.", "response": "Using the power rule term-by-term, f'(x) = 18x + 1 - 8x + 8."}
+{"instruction": "Differentiate f(x) = -9x^4 + 8 + 8 + 4x^5.", "response": "Using the power rule term-by-term, f'(x) = -36x^3 + 20x^4."}
+{"instruction": "Solve equation x^2 - 3x + 2 = 0.", "response": "Factoring gives roots x = 2 and x = 1."}
+{"instruction": "Integrate f(x) = -5 + 8x^4 - 9x^4 - 4x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5x + 8/5x^5 - 9/5x^5 - x^4 + C."}
+{"instruction": "Solve equation x^2 - 3x - 108 = 0.", "response": "Factoring gives roots x = 12 and x = -9."}
+{"instruction": "Integrate f(x) = 8x^3 + 9x^3 + 4x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^4 + 9/4x^4 + 4/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -5x^2 - 6x + 1 - 4x^2.", "response": "Using the power rule term-by-term, f'(x) = -10x - 6 - 8x."}
+{"instruction": "Differentiate f(x) = 2x^5 - 6x^3 + x^5.", "response": "Using the power rule term-by-term, f'(x) = 10x^4 - 18x^2 + 5x^4."}
+{"instruction": "Differentiate f(x) = -2x + x^4 + 4.", "response": "Using the power rule term-by-term, f'(x) = -2 + 4x^3."}
+{"instruction": "Integrate f(x) = -3x + 7x^5 + 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/2x^2 + 7/6x^6 + 2/6x^6 + C."}
+{"instruction": "Solve equation x^2 - 2x - 99 = 0.", "response": "Factoring gives roots x = -9 and x = 11."}
+{"instruction": "Integrate f(x) = -9x^5 - 2x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/6x^6 - x^2 + C."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=18.0 m/s and s=112.0 m."}
+{"instruction": "Differentiate f(x) = -4x^5 + 5x^4 + 7 + 3x^5.", "response": "Using the power rule term-by-term, f'(x) = -20x^4 + 20x^3 + 15x^4."}
+{"instruction": "Solve equation x^2 + 1x - 30 = 0.", "response": "Factoring gives roots x = -6 and x = 5."}
+{"instruction": "Solve equation x^2 - 13x + 40 = 0.", "response": "Factoring gives roots x = 5 and x = 8."}
+{"instruction": "A mass of 2 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 3.5 = 7.0 N."}
+{"instruction": "Integrate f(x) = x^2 + 3 - 4x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/3x^3 + 3x - 2x^2 + C."}
+{"instruction": "Integrate f(x) = 4x^4 - 8x^5 + x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/5x^5 - 8/6x^6 + 1/3x^3 + C."}
+{"instruction": "Integrate f(x) = 2x - 6x^2 - 2 - 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^2 - 2x^3 - 2x - 2/6x^6 + C."}
+{"instruction": "Differentiate f(x) = -5x^3 - 9x^3 - 8x - 5.", "response": "Using the power rule term-by-term, f'(x) = -15x^2 - 27x^2 - 8."}
+{"instruction": "Differentiate f(x) = 9x^4 + 2x^5 - 6x^3 + 3x^5.", "response": "Using the power rule term-by-term, f'(x) = 36x^3 + 10x^4 - 18x^2 + 15x^4."}
+{"instruction": "Given u=2 m/s, a=2.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=8.0 m."}
+{"instruction": "Solve equation x^2 - 10x + 9 = 0.", "response": "Factoring gives roots x = 1 and x = 9."}
+{"instruction": "Given u=5 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=7.0 m/s and s=24.0 m."}
+{"instruction": "Differentiate f(x) = -5x^5 - 5x - 5x^5.", "response": "Using the power rule term-by-term, f'(x) = -25x^4 - 5 - 25x^4."}
+{"instruction": "Solve equation x^2 - 18x + 77 = 0.", "response": "Factoring gives roots x = 11 and x = 7."}
+{"instruction": "Given u=10 m/s, a=2.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=26.0 m/s and s=144.0 m."}
+{"instruction": "Solve equation x^2 + 15x + 50 = 0.", "response": "Factoring gives roots x = -5 and x = -10."}
+{"instruction": "Given u=5 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.5 m/s and s=17.25 m."}
+{"instruction": "Integrate f(x) = -4x^2 - 6x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/3x^3 - x^6 + C."}
+{"instruction": "Solve equation x^2 + 13x + 36 = 0.", "response": "Factoring gives roots x = -9 and x = -4."}
+{"instruction": "Solve equation x^2 - 3x - 108 = 0.", "response": "Factoring gives roots x = 12 and x = -9."}
+{"instruction": "Solve equation x^2 - 9x + 8 = 0.", "response": "Factoring gives roots x = 1 and x = 8."}
+{"instruction": "Differentiate f(x) = -5 + 4x^2 - 2x.", "response": "Using the power rule term-by-term, f'(x) = 8x - 2."}
+{"instruction": "Differentiate f(x) = 7x^5 + 5x.", "response": "Using the power rule term-by-term, f'(x) = 35x^4 + 5."}
+{"instruction": "Solve equation x^2 - 7x - 30 = 0.", "response": "Factoring gives roots x = -3 and x = 10."}
+{"instruction": "Differentiate f(x) = 7x^5 + 7 - 9x^4 + 9x^3.", "response": "Using the power rule term-by-term, f'(x) = 35x^4 - 36x^3 + 27x^2."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.0 m/s and s=176.0 m."}
+{"instruction": "Integrate f(x) = 6 + 9x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6x + 9/5x^5 + C."}
+{"instruction": "Differentiate f(x) = 8 + x^5 + x^4.", "response": "Using the power rule term-by-term, f'(x) = 5x^4 + 4x^3."}
+{"instruction": "Integrate f(x) = -x^2 - 7x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/3x^3 - 7/5x^5 + C."}
+{"instruction": "A mass of 30 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 3.5 = 105.0 N."}
+{"instruction": "Integrate f(x) = -9 + 8x + 4x^3 + 6x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9x + 4x^2 + x^4 + 2x^3 + C."}
+{"instruction": "Integrate f(x) = 9x^5 - 8x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/6x^6 - 8/6x^6 + C."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=27.0 m/s and s=84.0 m."}
+{"instruction": "Solve equation x^2 + 4x + 0 = 0.", "response": "Factoring gives roots x = -4 and x = 0."}
+{"instruction": "Differentiate f(x) = -8x - 3x^5 + 7x^2 - 8.", "response": "Using the power rule term-by-term, f'(x) = -8 - 15x^4 + 14x."}
+{"instruction": "Integrate f(x) = 5x^2 - 4x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/3x^3 - x^4 + C."}
+{"instruction": "Differentiate f(x) = -x - x^2 - 1.", "response": "Using the power rule term-by-term, f'(x) = -1 - 2x."}
+{"instruction": "Given u=15 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=64.0 m."}
+{"instruction": "Integrate f(x) = -5x^3 + 6x - 7 - 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/4x^4 + 3x^2 - 7x - 5x + C."}
+{"instruction": "Given u=10 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=12.0 m/s and s=11.0 m."}
+{"instruction": "Integrate f(x) = -x - 3x^3 - 3x - 2x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/2x^2 - 3/4x^4 - 3/2x^2 - 2/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -x^5 - 3x^4.", "response": "Using the power rule term-by-term, f'(x) = -5x^4 - 12x^3."}
+{"instruction": "Differentiate f(x) = 5x^2 + 2x^3 + 8 + 4x^4.", "response": "Using the power rule term-by-term, f'(x) = 10x + 6x^2 + 16x^3."}
+{"instruction": "Solve equation x^2 + 2x - 8 = 0.", "response": "Factoring gives roots x = 2 and x = -4."}
+{"instruction": "Solve equation x^2 - 4x - 5 = 0.", "response": "Factoring gives roots x = -1 and x = 5."}
+{"instruction": "Differentiate f(x) = -8x^5 - 6x^5 - 9 - 6x^3.", "response": "Using the power rule term-by-term, f'(x) = -40x^4 - 30x^4 - 18x^2."}
+{"instruction": "Solve equation x^2 - 6x + 0 = 0.", "response": "Factoring gives roots x = 0 and x = 6."}
+{"instruction": "Integrate f(x) = x^3 - 5x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/4x^4 - 5/6x^6 + C."}
+{"instruction": "Integrate f(x) = 3x^2 + 6x^2 + 9x - 7x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^3 + 2x^3 + 9/2x^2 - 7/5x^5 + C."}
+{"instruction": "Solve equation x^2 - 3x - 54 = 0.", "response": "Factoring gives roots x = 9 and x = -6."}
+{"instruction": "Solve equation x^2 + 22x + 120 = 0.", "response": "Factoring gives roots x = -12 and x = -10."}
+{"instruction": "Integrate f(x) = -7x + 9x^4 + x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/2x^2 + 9/5x^5 + 1/6x^6 + C."}
+{"instruction": "Solve equation x^2 + 9x + 0 = 0.", "response": "Factoring gives roots x = -9 and x = 0."}
+{"instruction": "A mass of 5 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 0.5 = 2.5 N."}
+{"instruction": "Integrate f(x) = 4x^5 - 4x^4 + x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/6x^6 - 4/5x^5 + 1/4x^4 + C."}
+{"instruction": "Solve equation x^2 + 2x - 8 = 0.", "response": "Factoring gives roots x = -4 and x = 2."}
+{"instruction": "Solve equation x^2 + 11x + 10 = 0.", "response": "Factoring gives roots x = -10 and x = -1."}
+{"instruction": "Integrate f(x) = -5x^5 + 7x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/6x^6 + 7/4x^4 + C."}
+{"instruction": "Given u=2 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=80.4 m/s and s=329.6 m."}
+{"instruction": "Solve equation x^2 - 2x - 99 = 0.", "response": "Factoring gives roots x = 11 and x = -9."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=16.0 m/s and s=64.0 m."}
+{"instruction": "Solve equation x^2 + 19x + 88 = 0.", "response": "Factoring gives roots x = -11 and x = -8."}
+{"instruction": "Differentiate f(x) = -4x^2 + 3x^3.", "response": "Using the power rule term-by-term, f'(x) = -8x + 9x^2."}
+{"instruction": "Integrate f(x) = 7x^3 - 9x + 8x^2 - 3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/4x^4 - 9/2x^2 + 8/3x^3 - 3x + C."}
+{"instruction": "Integrate f(x) = 2x^2 + 4x^3 + 9x^5 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/3x^3 + x^4 + 9/6x^6 + x^3 + C."}
+{"instruction": "Solve equation x^2 + 9x - 10 = 0.", "response": "Factoring gives roots x = 1 and x = -10."}
+{"instruction": "Solve equation x^2 - 8x + 7 = 0.", "response": "Factoring gives roots x = 1 and x = 7."}
+{"instruction": "Differentiate f(x) = -8x^3 + 3x^3.", "response": "Using the power rule term-by-term, f'(x) = -24x^2 + 9x^2."}
+{"instruction": "Integrate f(x) = 2x^3 + 3 - 5x^3 - x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/4x^4 + 3x - 5/4x^4 - 1/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -6x^5 + 4x^2 + 7x^5 - 8.", "response": "Using the power rule term-by-term, f'(x) = -30x^4 + 8x + 35x^4."}
+{"instruction": "Solve equation x^2 + 15x + 44 = 0.", "response": "Factoring gives roots x = -11 and x = -4."}
+{"instruction": "Integrate f(x) = 7x^3 + 4x^5 + 7x^2 + 3x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/4x^4 + 4/6x^6 + 7/3x^3 + 3/6x^6 + C."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=93.4 m/s and s=433.6 m."}
+{"instruction": "Integrate f(x) = 7x^2 - x^5 + 4x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/3x^3 - 1/6x^6 + 4/3x^3 + C."}
+{"instruction": "Solve equation x^2 - 20x + 99 = 0.", "response": "Factoring gives roots x = 9 and x = 11."}
+{"instruction": "Integrate f(x) = -4x^2 - 2x^3 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4/3x^3 - 2/4x^4 + x^3 + C."}
+{"instruction": "A mass of 10 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 9.8 = 98.0 N."}
+{"instruction": "Differentiate f(x) = 4x + 5x + 8x.", "response": "Using the power rule term-by-term, f'(x) = 4 + 5 + 8."}
+{"instruction": "Differentiate f(x) = 4x + 6x^2 + 2x^2.", "response": "Using the power rule term-by-term, f'(x) = 4 + 12x + 4x."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=20.0 m/s and s=62.5 m."}
+{"instruction": "Integrate f(x) = 4x + 7 - 5x^4 + 5x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^2 + 7x - x^5 + 5/2x^2 + C."}
+{"instruction": "Integrate f(x) = 3 - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x - 7/3x^3 + C."}
+{"instruction": "Solve equation x^2 + 7x - 44 = 0.", "response": "Factoring gives roots x = 4 and x = -11."}
+{"instruction": "Integrate f(x) = 5x + 5x^5 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/2x^2 + 5/6x^6 + x^3 + C."}
+{"instruction": "Integrate f(x) = x^2 + 9x^2 + 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/3x^3 + 3x^3 + 6x + C."}
+{"instruction": "Differentiate f(x) = -5x^2 - 4x + 2x^5 - 2x^2.", "response": "Using the power rule term-by-term, f'(x) = -10x - 4 + 10x^4 - 4x."}
+{"instruction": "Differentiate f(x) = -3x^5 - 6x^5.", "response": "Using the power rule term-by-term, f'(x) = -15x^4 - 30x^4."}
+{"instruction": "Solve equation x^2 - 2x + 0 = 0.", "response": "Factoring gives roots x = 0 and x = 2."}
+{"instruction": "Integrate f(x) = -7x^4 + 2x^5 - 8x^4 + 3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/5x^5 + 2/6x^6 - 8/5x^5 + 3x + C."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=14.0 m/s and s=96.0 m."}
+{"instruction": "A mass of 1 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 0.5 = 0.5 N."}
+{"instruction": "Solve equation x^2 + 7x - 30 = 0.", "response": "Factoring gives roots x = 3 and x = -10."}
+{"instruction": "Integrate f(x) = -2x^4 - 4x^4 - 4x^2 + 9x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2/5x^5 - 4/5x^5 - 4/3x^3 + 9/4x^4 + C."}
+{"instruction": "Differentiate f(x) = -x^3 - 9x^3.", "response": "Using the power rule term-by-term, f'(x) = -3x^2 - 27x^2."}
+{"instruction": "Integrate f(x) = 6x^3 + 8x^4 - 4x^2 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6/4x^4 + 8/5x^5 - 4/3x^3 + x^3 + C."}
+{"instruction": "Integrate f(x) = -x^4 + 6x^3 - 2x - 8x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/5x^5 + 6/4x^4 - x^2 - 8/5x^5 + C."}
+{"instruction": "Integrate f(x) = -8x^5 - 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/6x^6 - 7/3x^3 + C."}
+{"instruction": "Solve equation x^2 + 14x + 40 = 0.", "response": "Factoring gives roots x = -4 and x = -10."}
+{"instruction": "Differentiate f(x) = -x - 4x^4.", "response": "Using the power rule term-by-term, f'(x) = -1 - 16x^3."}
+{"instruction": "Integrate f(x) = 5x^2 - x - 3x^2 - 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/3x^3 - 1/2x^2 - x^3 - 6x + C."}
+{"instruction": "Differentiate f(x) = -5x^5 - 5x^5.", "response": "Using the power rule term-by-term, f'(x) = -25x^4 - 25x^4."}
+{"instruction": "Integrate f(x) = 4x^3 - 4x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^4 - 4/6x^6 + C."}
+{"instruction": "Differentiate f(x) = 2x^5 - 4x^5 - 6.", "response": "Using the power rule term-by-term, f'(x) = 10x^4 - 20x^4."}
+{"instruction": "A mass of 10 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 12.0 = 120.0 N."}
+{"instruction": "Integrate f(x) = -4x^3 - 7x + 5x^5 + 5x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^4 - 7/2x^2 + 5/6x^6 + 5/4x^4 + C."}
+{"instruction": "Integrate f(x) = 7 - 7 - 7x^3 - 6x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7x - 7x - 7/4x^4 - x^6 + C."}
+{"instruction": "Integrate f(x) = 1 - 2 + 9x^3 - 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x - 2x + 9/4x^4 - 2/5x^5 + C."}
+{"instruction": "Integrate f(x) = 5 + 3x + 5x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5x + 3/2x^2 + 5/2x^2 + C."}
+{"instruction": "Differentiate f(x) = 9x + 4x^3.", "response": "Using the power rule term-by-term, f'(x) = 9 + 12x^2."}
+{"instruction": "Differentiate f(x) = -2x^4 - 4x^4 - 5x^3 - 4x.", "response": "Using the power rule term-by-term, f'(x) = -8x^3 - 16x^3 - 15x^2 - 4."}
+{"instruction": "Differentiate f(x) = -5x^2 + 3x^3 + 3.", "response": "Using the power rule term-by-term, f'(x) = -10x + 9x^2."}
+{"instruction": "Differentiate f(x) = 7x^4 + 7x^2 + 9.", "response": "Using the power rule term-by-term, f'(x) = 28x^3 + 14x."}
+{"instruction": "Solve equation x^2 - 15x + 56 = 0.", "response": "Factoring gives roots x = 7 and x = 8."}
+{"instruction": "Integrate f(x) = -7x + 3x^2 - 4x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/2x^2 + x^3 - 4/6x^6 + C."}
+{"instruction": "Differentiate f(x) = 4x^4 + 9.", "response": "Using the power rule term-by-term, f'(x) = 16x^3."}
+{"instruction": "Given u=5 m/s, a=1.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=10.0 m/s and s=37.5 m."}
+{"instruction": "Differentiate f(x) = -5x^4 - 8x^2.", "response": "Using the power rule term-by-term, f'(x) = -20x^3 - 16x."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=7.0 m/s and s=6.0 m."}
+{"instruction": "Solve equation x^2 - 11x + 24 = 0.", "response": "Factoring gives roots x = 3 and x = 8."}
+{"instruction": "Differentiate f(x) = -7x^2 + 9x^2 - 7x^3 + x^5.", "response": "Using the power rule term-by-term, f'(x) = -14x + 18x - 21x^2 + 5x^4."}
+{"instruction": "Solve equation x^2 + 9x + 8 = 0.", "response": "Factoring gives roots x = -1 and x = -8."}
+{"instruction": "Solve equation x^2 + 4x - 45 = 0.", "response": "Factoring gives roots x = 5 and x = -9."}
+{"instruction": "Solve equation x^2 - 12x + 35 = 0.", "response": "Factoring gives roots x = 7 and x = 5."}
+{"instruction": "Integrate f(x) = 7x^4 + 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/5x^5 + 7x + C."}
+{"instruction": "Solve equation x^2 + 5x - 14 = 0.", "response": "Factoring gives roots x = 2 and x = -7."}
+{"instruction": "Solve equation x^2 + 1x - 90 = 0.", "response": "Factoring gives roots x = -10 and x = 9."}
+{"instruction": "Given u=15 m/s, a=2.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=16.0 m."}
+{"instruction": "Solve equation x^2 - 13x + 40 = 0.", "response": "Factoring gives roots x = 8 and x = 5."}
+{"instruction": "Solve equation x^2 + 10x - 24 = 0.", "response": "Factoring gives roots x = -12 and x = 2."}
+{"instruction": "Solve equation x^2 - 13x + 30 = 0.", "response": "Factoring gives roots x = 10 and x = 3."}
+{"instruction": "Solve equation x^2 - 21x + 108 = 0.", "response": "Factoring gives roots x = 12 and x = 9."}
+{"instruction": "Solve equation x^2 - 9x + 14 = 0.", "response": "Factoring gives roots x = 7 and x = 2."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=44.0 m."}
+{"instruction": "Given u=15 m/s, a=0.5 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=17.0 m/s and s=64.0 m."}
+{"instruction": "Solve equation x^2 - 1x - 2 = 0.", "response": "Factoring gives roots x = -1 and x = 2."}
+{"instruction": "Differentiate f(x) = -9x^2 + 2x + 4x^4 + 5x^2.", "response": "Using the power rule term-by-term, f'(x) = -18x + 2 + 16x^3 + 10x."}
+{"instruction": "Given u=10 m/s, a=9.8 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=39.400000000000006 m/s and s=74.1 m."}
+{"instruction": "Integrate f(x) = 3 - 7x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x - 7/2x^2 + C."}
+{"instruction": "Integrate f(x) = 7x^5 + 3x^2 - 9x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/6x^6 + x^3 - 9/6x^6 + C."}
+{"instruction": "Integrate f(x) = 2x^3 - 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/4x^4 - x + C."}
+{"instruction": "Integrate f(x) = -7x^3 + 7x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/4x^4 + 7/4x^4 + C."}
+{"instruction": "Differentiate f(x) = -3x - x^2.", "response": "Using the power rule term-by-term, f'(x) = -3 - 2x."}
+{"instruction": "Differentiate f(x) = -3x + 1.", "response": "Using the power rule term-by-term, f'(x) = -3."}
+{"instruction": "Solve equation x^2 + 3x + 2 = 0.", "response": "Factoring gives roots x = -2 and x = -1."}
+{"instruction": "Integrate f(x) = 8x - 9 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4x^2 - 9x + C."}
+{"instruction": "A mass of 15 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 1.0 = 15.0 N."}
+{"instruction": "Solve equation x^2 - 19x + 84 = 0.", "response": "Factoring gives roots x = 7 and x = 12."}
+{"instruction": "Solve equation x^2 + 9x + 20 = 0.", "response": "Factoring gives roots x = -4 and x = -5."}
+{"instruction": "Solve equation x^2 + 10x + 16 = 0.", "response": "Factoring gives roots x = -2 and x = -8."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=34.5 m."}
+{"instruction": "Solve equation x^2 - 18x + 72 = 0.", "response": "Factoring gives roots x = 12 and x = 6."}
+{"instruction": "Integrate f(x) = 6x + 5x - x^3 - 2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x^2 + 5/2x^2 - 1/4x^4 - 2x + C."}
+{"instruction": "Integrate f(x) = 3x^5 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/6x^6 + x^3 + C."}
+{"instruction": "Integrate f(x) = -8x + 4 + 4x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4x^2 + 4x + 4/3x^3 + C."}
+{"instruction": "Differentiate f(x) = -6x - 5x^3 + 2x.", "response": "Using the power rule term-by-term, f'(x) = -6 - 15x^2 + 2."}
+{"instruction": "Differentiate f(x) = 2x^4 - 8x^2 + 5x^2.", "response": "Using the power rule term-by-term, f'(x) = 8x^3 - 16x + 10x."}
+{"instruction": "Integrate f(x) = 4x + x + 6x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2x^2 + 1/2x^2 + 6/5x^5 + C."}
+{"instruction": "Integrate f(x) = 8x^2 - 3x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/3x^3 - 3/5x^5 + C."}
+{"instruction": "Differentiate f(x) = 8x^4 + x - 7.", "response": "Using the power rule term-by-term, f'(x) = 32x^3 + 1."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=9.0 m/s and s=13.5 m."}
+{"instruction": "Solve equation x^2 - 2x + 0 = 0.", "response": "Factoring gives roots x = 2 and x = 0."}
+{"instruction": "Integrate f(x) = -7 - x + 4x^5 - 5x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7x - 1/2x^2 + 4/6x^6 - 5/6x^6 + C."}
+{"instruction": "Differentiate f(x) = 8x^2 + 6x^5 - 9 + 7x^3.", "response": "Using the power rule term-by-term, f'(x) = 16x + 30x^4 + 21x^2."}
+{"instruction": "Differentiate f(x) = 9x^3 + 5x^5 + 9x^2.", "response": "Using the power rule term-by-term, f'(x) = 27x^2 + 25x^4 + 18x."}
+{"instruction": "Differentiate f(x) = 6x^3 + 7x^2.", "response": "Using the power rule term-by-term, f'(x) = 18x^2 + 14x."}
+{"instruction": "Solve equation x^2 - 7x + 0 = 0.", "response": "Factoring gives roots x = 7 and x = 0."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=30.0 m/s and s=112.5 m."}
+{"instruction": "Differentiate f(x) = -8 + 5x.", "response": "Using the power rule term-by-term, f'(x) = 5."}
+{"instruction": "Integrate f(x) = 8 + 8x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8x + 4x^2 + C."}
+{"instruction": "A mass of 1 kg accelerates at 12.0 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 12.0 = 12.0 N."}
+{"instruction": "Differentiate f(x) = -6x^2 - 7x^4 - 4.", "response": "Using the power rule term-by-term, f'(x) = -12x - 28x^3."}
+{"instruction": "Differentiate f(x) = -8x^2 - 9x^4 - 5x^2 - 9x^2.", "response": "Using the power rule term-by-term, f'(x) = -16x - 36x^3 - 10x - 18x."}
+{"instruction": "Solve equation x^2 + 4x - 21 = 0.", "response": "Factoring gives roots x = 3 and x = -7."}
+{"instruction": "Integrate f(x) = 3x^2 - 5 - 3x^3 + 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^3 - 5x - 3/4x^4 + 5x + C."}
+{"instruction": "Differentiate f(x) = -7x^5 + 7x^4.", "response": "Using the power rule term-by-term, f'(x) = -35x^4 + 28x^3."}
+{"instruction": "Integrate f(x) = 4x^5 - 5x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/6x^6 - 5/6x^6 + C."}
+{"instruction": "Differentiate f(x) = -6x^2 + 5 - 6x^5.", "response": "Using the power rule term-by-term, f'(x) = -12x - 30x^4."}
+{"instruction": "Integrate f(x) = -5x - 9 - 9x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/2x^2 - 9x - 9/2x^2 + C."}
+{"instruction": "Solve equation x^2 + 3x - 108 = 0.", "response": "Factoring gives roots x = 9 and x = -12."}
+{"instruction": "Integrate f(x) = -2x^5 - 6x^2 + 9x^3 - 5x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2/6x^6 - 2x^3 + 9/4x^4 - 5/2x^2 + C."}
+{"instruction": "Solve equation x^2 - 3x - 88 = 0.", "response": "Factoring gives roots x = 11 and x = -8."}
+{"instruction": "Solve equation x^2 - 1x - 90 = 0.", "response": "Factoring gives roots x = 10 and x = -9."}
+{"instruction": "Solve equation x^2 + 10x - 11 = 0.", "response": "Factoring gives roots x = 1 and x = -11."}
+{"instruction": "Integrate f(x) = 6x^5 + 3x^5 + 4x + 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^6 + 3/6x^6 + 2x^2 + x + C."}
+{"instruction": "Integrate f(x) = 2x^5 + 7x^4 + 4x^2 - 4x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/6x^6 + 7/5x^5 + 4/3x^3 - x^4 + C."}
+{"instruction": "Solve equation x^2 + 20x + 96 = 0.", "response": "Factoring gives roots x = -12 and x = -8."}
+{"instruction": "Solve equation x^2 + 23x + 132 = 0.", "response": "Factoring gives roots x = -12 and x = -11."}
+{"instruction": "Differentiate f(x) = x^5 - 9x^2 + 7 - 5x^4.", "response": "Using the power rule term-by-term, f'(x) = 5x^4 - 18x - 20x^3."}
+{"instruction": "Given u=2 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=10.0 m/s and s=48.0 m."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=14.0 m/s and s=28.5 m."}
+{"instruction": "Integrate f(x) = 9x - 5 + 5 - 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 - 5x + 5x - 2/5x^5 + C."}
+{"instruction": "Differentiate f(x) = -x + x^5.", "response": "Using the power rule term-by-term, f'(x) = -1 + 5x^4."}
+{"instruction": "Given u=10 m/s, a=3.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=11.5 m."}
+{"instruction": "Integrate f(x) = 7x^5 + 8x^2 + 2x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/6x^6 + 8/3x^3 + x^2 + C."}
+{"instruction": "Solve equation x^2 - 11x + 10 = 0.", "response": "Factoring gives roots x = 1 and x = 10."}
+{"instruction": "Solve equation x^2 - 5x + 4 = 0.", "response": "Factoring gives roots x = 4 and x = 1."}
+{"instruction": "A mass of 1 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 4.0 = 4.0 N."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=13.0 m/s and s=34.5 m."}
+{"instruction": "A mass of 15 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 4.0 = 60.0 N."}
+{"instruction": "Differentiate f(x) = 6 - 2x^4 + 9x^3.", "response": "Using the power rule term-by-term, f'(x) = -8x^3 + 27x^2."}
+{"instruction": "Integrate f(x) = -3x^3 - 4x^3 - 5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/4x^4 - x^4 - 5x + C."}
+{"instruction": "Integrate f(x) = -3 + 9x - 3x + 2x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3x + 9/2x^2 - 3/2x^2 + x^2 + C."}
+{"instruction": "Integrate f(x) = 9 + 4x^4 - 9 + 5x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x + 4/5x^5 - 9x + 5/2x^2 + C."}
+{"instruction": "A mass of 2 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 0.5 = 1.0 N."}
+{"instruction": "Solve equation x^2 - 12x + 0 = 0.", "response": "Factoring gives roots x = 12 and x = 0."}
+{"instruction": "Differentiate f(x) = 7x^5 + x + 3.", "response": "Using the power rule term-by-term, f'(x) = 35x^4 + 1."}
+{"instruction": "Solve equation x^2 + 14x + 48 = 0.", "response": "Factoring gives roots x = -8 and x = -6."}
+{"instruction": "Differentiate f(x) = -4x^2 - 7 - x + 5x.", "response": "Using the power rule term-by-term, f'(x) = -8x - 1 + 5."}
+{"instruction": "Differentiate f(x) = -5x^5 + 4.", "response": "Using the power rule term-by-term, f'(x) = -25x^4."}
+{"instruction": "Differentiate f(x) = 9x^4 + 8x^4 - 9x^3 + 7.", "response": "Using the power rule term-by-term, f'(x) = 36x^3 + 32x^3 - 27x^2."}
+{"instruction": "Differentiate f(x) = -3x^2 + 8 - 6x.", "response": "Using the power rule term-by-term, f'(x) = -6x - 6."}
+{"instruction": "Integrate f(x) = 4x^5 - 6x^5 - 4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/6x^6 - x^6 - 4x + C."}
+{"instruction": "Integrate f(x) = 8x^5 - 5x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/6x^6 - x^5 + C."}
+{"instruction": "Solve equation x^2 + 20x + 96 = 0.", "response": "Factoring gives roots x = -12 and x = -8."}
+{"instruction": "Differentiate f(x) = 5x^4 + 4x^5 + 5x^2.", "response": "Using the power rule term-by-term, f'(x) = 20x^3 + 20x^4 + 10x."}
+{"instruction": "A mass of 10 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 10 * 0.5 = 5.0 N."}
+{"instruction": "Solve equation x^2 - 19x + 88 = 0.", "response": "Factoring gives roots x = 8 and x = 11."}
+{"instruction": "Given u=5 m/s, a=1.0 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=5.5 m."}
+{"instruction": "Integrate f(x) = -2x^4 + 4x + 5 + 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2/5x^5 + 2x^2 + 5x + 2/6x^6 + C."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=21.0 m/s and s=104.0 m."}
+{"instruction": "Solve equation x^2 - 21x + 110 = 0.", "response": "Factoring gives roots x = 10 and x = 11."}
+{"instruction": "Given u=0 m/s, a=0.5 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=4.0 m/s and s=16.0 m."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=30.0 m/s and s=112.5 m."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=18.0 m/s and s=49.5 m."}
+{"instruction": "Solve equation x^2 + 13x + 12 = 0.", "response": "Factoring gives roots x = -1 and x = -12."}
+{"instruction": "Integrate f(x) = x^5 - 8x + 2x - 7x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/6x^6 - 4x^2 + x^2 - 7/6x^6 + C."}
+{"instruction": "A mass of 5 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 1.0 = 5.0 N."}
+{"instruction": "Differentiate f(x) = 2x^3 - 5x^3 - 3x^3.", "response": "Using the power rule term-by-term, f'(x) = 6x^2 - 15x^2 - 9x^2."}
+{"instruction": "Integrate f(x) = -8x - 8x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4x^2 - 2x^4 + C."}
+{"instruction": "A mass of 20 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 3.5 = 70.0 N."}
+{"instruction": "Integrate f(x) = -8x^3 - 7x^3 + x^2 + 2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x^4 - 7/4x^4 + 1/3x^3 + 2x + C."}
+{"instruction": "Differentiate f(x) = 9x^5 - 2.", "response": "Using the power rule term-by-term, f'(x) = 45x^4."}
+{"instruction": "Integrate f(x) = 3x^5 - 8x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3/6x^6 - 2x^4 + C."}
+{"instruction": "Find limit of sin(9x)/(9x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Solve equation x^2 - 8x - 9 = 0.", "response": "Factoring gives roots x = 9 and x = -1."}
+{"instruction": "Integrate f(x) = 5x^3 + 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/4x^4 + 2/5x^5 + C."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.6 m/s and s=49.6 m."}
+{"instruction": "Given u=0 m/s, a=3.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=24.0 m/s and s=96.0 m."}
+{"instruction": "Integrate f(x) = -4 - x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4x - 1/6x^6 + C."}
+{"instruction": "Differentiate f(x) = -8x^2 + 3x^2 + 5x.", "response": "Using the power rule term-by-term, f'(x) = -16x + 6x + 5."}
+{"instruction": "Solve equation x^2 + 18x + 80 = 0.", "response": "Factoring gives roots x = -8 and x = -10."}
+{"instruction": "Solve equation x^2 - 18x + 80 = 0.", "response": "Factoring gives roots x = 10 and x = 8."}
+{"instruction": "Integrate f(x) = -9x^5 - x^4 - 4x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/6x^6 - 1/5x^5 - 4/5x^5 + C."}
+{"instruction": "Differentiate f(x) = -6x^4 + 3x^4 + 8x + 6x^5.", "response": "Using the power rule term-by-term, f'(x) = -24x^3 + 12x^3 + 8 + 30x^4."}
+{"instruction": "Solve equation x^2 + 12x + 27 = 0.", "response": "Factoring gives roots x = -9 and x = -3."}
+{"instruction": "Differentiate f(x) = 2x + 4x.", "response": "Using the power rule term-by-term, f'(x) = 2 + 4."}
+{"instruction": "Integrate f(x) = -2x^2 + 5x^3 - 9x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2/3x^3 + 5/4x^4 - 9/4x^4 + C."}
+{"instruction": "Integrate f(x) = 9x^2 - 4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x^3 - 4x + C."}
+{"instruction": "A mass of 15 kg accelerates at 3.5 m/s^2. Find force.", "response": "Use F = ma. F = 15 * 3.5 = 52.5 N."}
+{"instruction": "Integrate f(x) = -2 - x^2 - 2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x - 1/3x^3 - 2x + C."}
+{"instruction": "Solve equation x^2 + 18x + 77 = 0.", "response": "Factoring gives roots x = -7 and x = -11."}
+{"instruction": "Integrate f(x) = -3x + 6x^5 + 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/2x^2 + x^6 + 2/6x^6 + C."}
+{"instruction": "Integrate f(x) = 9x^2 + 8x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x^3 + 8/5x^5 + C."}
+{"instruction": "Solve equation x^2 - 5x - 84 = 0.", "response": "Factoring gives roots x = -7 and x = 12."}
+{"instruction": "Differentiate f(x) = -4 - x^4.", "response": "Using the power rule term-by-term, f'(x) = -4x^3."}
+{"instruction": "Integrate f(x) = x^4 - 2x - 7x^2 + 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/5x^5 - x^2 - 7/3x^3 + 2/5x^5 + C."}
+{"instruction": "Integrate f(x) = 5x^3 + 7x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/4x^4 + 7/3x^3 + C."}
+{"instruction": "Solve equation x^2 - 2x - 120 = 0.", "response": "Factoring gives roots x = 12 and x = -10."}
+{"instruction": "Solve equation x^2 - 19x + 88 = 0.", "response": "Factoring gives roots x = 11 and x = 8."}
+{"instruction": "Given u=0 m/s, a=0.5 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.5 m/s and s=6.25 m."}
+{"instruction": "Solve equation x^2 + 10x + 25 = 0.", "response": "Factoring gives roots x = -5 and x = -5."}
+{"instruction": "Solve equation x^2 - 13x + 22 = 0.", "response": "Factoring gives roots x = 2 and x = 11."}
+{"instruction": "Solve equation x^2 - 17x + 70 = 0.", "response": "Factoring gives roots x = 7 and x = 10."}
+{"instruction": "Differentiate f(x) = 2x^3 + 7x^2.", "response": "Using the power rule term-by-term, f'(x) = 6x^2 + 14x."}
+{"instruction": "Find limit of sin(8x)/(8x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Differentiate f(x) = -8x^2 - 5 + 6x^3 + 5x.", "response": "Using the power rule term-by-term, f'(x) = -16x + 18x^2 + 5."}
+{"instruction": "Integrate f(x) = 5x^5 - 7x^5 - 5 + 6x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/6x^6 - 7/6x^6 - 5x + x^6 + C."}
+{"instruction": "Given u=2 m/s, a=0.5 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=4.5 m/s and s=16.25 m."}
+{"instruction": "Solve equation x^2 + 15x + 36 = 0.", "response": "Factoring gives roots x = -12 and x = -3."}
+{"instruction": "Differentiate f(x) = 2x^3 - 9x^2 - 3x - 7x^2.", "response": "Using the power rule term-by-term, f'(x) = 6x^2 - 18x - 3 - 14x."}
+{"instruction": "Given u=10 m/s, a=9.8 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=19.8 m/s and s=14.9 m."}
+{"instruction": "A mass of 20 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 4.0 = 80.0 N."}
+{"instruction": "Integrate f(x) = 5x^4 - 4x - 4 + 4x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^5 - 2x^2 - 4x + 4/5x^5 + C."}
+{"instruction": "Integrate f(x) = 5x^2 + 7x^2 + 6x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 5/3x^3 + 7/3x^3 + x^6 + C."}
+{"instruction": "Solve equation x^2 + 10x + 9 = 0.", "response": "Factoring gives roots x = -9 and x = -1."}
+{"instruction": "Differentiate f(x) = x^4 - 2 + 9x^2.", "response": "Using the power rule term-by-term, f'(x) = 4x^3 + 18x."}
+{"instruction": "Integrate f(x) = x - 3x - 9 - 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/2x^2 - 3/2x^2 - 9x - 2/4x^4 + C."}
+{"instruction": "Given u=5 m/s, a=2.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=24.0 m."}
+{"instruction": "Solve equation x^2 - 1x + 0 = 0.", "response": "Factoring gives roots x = 0 and x = 1."}
+{"instruction": "Solve equation x^2 - 4x + 4 = 0.", "response": "Factoring gives roots x = 2 and x = 2."}
+{"instruction": "Integrate f(x) = 5x^4 - 9x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^5 - 9/5x^5 + C."}
+{"instruction": "Given u=15 m/s, a=2.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=21.0 m/s and s=54.0 m."}
+{"instruction": "Differentiate f(x) = 7x^5 + 5x^2 + 5.", "response": "Using the power rule term-by-term, f'(x) = 35x^4 + 10x."}
+{"instruction": "Differentiate f(x) = 8x^5 + 3x^4.", "response": "Using the power rule term-by-term, f'(x) = 40x^4 + 12x^3."}
+{"instruction": "Differentiate f(x) = -6x^5 - 6x^3 - 4x^5.", "response": "Using the power rule term-by-term, f'(x) = -30x^4 - 18x^2 - 20x^4."}
+{"instruction": "Integrate f(x) = -5x - 2 - 8x^2 - 5x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/2x^2 - 2x - 8/3x^3 - 5/4x^4 + C."}
+{"instruction": "Differentiate f(x) = -6x + 8x^3 + 9x.", "response": "Using the power rule term-by-term, f'(x) = -6 + 24x^2 + 9."}
+{"instruction": "Solve equation x^2 - 16x + 48 = 0.", "response": "Factoring gives roots x = 12 and x = 4."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.5 m/s and s=32.25 m."}
+{"instruction": "Differentiate f(x) = 2x - 6x^3 + 4x^3.", "response": "Using the power rule term-by-term, f'(x) = 2 - 18x^2 + 12x^2."}
+{"instruction": "Solve equation x^2 + 5x - 36 = 0.", "response": "Factoring gives roots x = 4 and x = -9."}
+{"instruction": "Solve equation x^2 - 5x - 14 = 0.", "response": "Factoring gives roots x = -2 and x = 7."}
+{"instruction": "Differentiate f(x) = -4x + x^4 + 9x.", "response": "Using the power rule term-by-term, f'(x) = -4 + 4x^3 + 9."}
+{"instruction": "Differentiate f(x) = 2x^2 - 7x.", "response": "Using the power rule term-by-term, f'(x) = 4x - 7."}
+{"instruction": "Solve equation x^2 - 10x + 9 = 0.", "response": "Factoring gives roots x = 9 and x = 1."}
+{"instruction": "Integrate f(x) = -2x^3 - 2 - 5x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2/4x^4 - 2x - 5/2x^2 + C."}
+{"instruction": "Differentiate f(x) = -x^4 - x^5 + 6x^3 + 7x.", "response": "Using the power rule term-by-term, f'(x) = -4x^3 - 5x^4 + 18x^2 + 7."}
+{"instruction": "Solve equation x^2 + 6x + 0 = 0.", "response": "Factoring gives roots x = -6 and x = 0."}
+{"instruction": "Given u=5 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=20.0 m/s and s=62.5 m."}
+{"instruction": "Integrate f(x) = -7 + 7 + 9x - 5x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7x + 7x + 9/2x^2 - 5/6x^6 + C."}
+{"instruction": "Integrate f(x) = x^4 - 8x^5 + 8x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/5x^5 - 8/6x^6 + 4x^2 + C."}
+{"instruction": "Integrate f(x) = 7x + 9x^5 + 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/2x^2 + 9/6x^6 + 6x + C."}
+{"instruction": "Integrate f(x) = -8x^2 - 6x^3 - 4x^4 - 7 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -8/3x^3 - 6/4x^4 - 4/5x^5 - 7x + C."}
+{"instruction": "Differentiate f(x) = -4x^3 + 8x^3.", "response": "Using the power rule term-by-term, f'(x) = -12x^2 + 24x^2."}
+{"instruction": "Integrate f(x) = -x^4 + x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/5x^5 + 1/2x^2 + C."}
+{"instruction": "Integrate f(x) = -8x^3 + 9x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2x^4 + 9/4x^4 + C."}
+{"instruction": "Integrate f(x) = 4x^3 + 4x - 5x^5 - 9 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^4 + 2x^2 - 5/6x^6 - 9x + C."}
+{"instruction": "Differentiate f(x) = -2 - 3x^3 + 2x^5.", "response": "Using the power rule term-by-term, f'(x) = -9x^2 + 10x^4."}
+{"instruction": "Integrate f(x) = 2x^2 + 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/3x^3 + x^3 + C."}
+{"instruction": "Integrate f(x) = 8x^5 + 6x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/6x^6 + 6/4x^4 + C."}
+{"instruction": "Given u=15 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=16.5 m/s and s=47.25 m."}
+{"instruction": "Differentiate f(x) = 7x^4 + 6x + 4x^2.", "response": "Using the power rule term-by-term, f'(x) = 28x^3 + 6 + 8x."}
+{"instruction": "A mass of 30 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 0.5 = 15.0 N."}
+{"instruction": "Integrate f(x) = -5x - 9x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/2x^2 - 9/5x^5 + C."}
+{"instruction": "Solve equation x^2 + 14x + 49 = 0.", "response": "Factoring gives roots x = -7 and x = -7."}
+{"instruction": "Given u=2 m/s, a=0.5 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=3.0 m/s and s=5.0 m."}
+{"instruction": "Differentiate f(x) = -7x^4 - 3x + 9x^2.", "response": "Using the power rule term-by-term, f'(x) = -28x^3 - 3 + 18x."}
+{"instruction": "Solve equation x^2 - 7x - 18 = 0.", "response": "Factoring gives roots x = 9 and x = -2."}
+{"instruction": "Integrate f(x) = 4x^4 + 3 + 4 - x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4/5x^5 + 3x + 4x - 1/5x^5 + C."}
+{"instruction": "Integrate f(x) = 7x - 7x^2 + 9x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/2x^2 - 7/3x^3 + 9/4x^4 + C."}
+{"instruction": "Solve equation x^2 + 1x - 6 = 0.", "response": "Factoring gives roots x = -3 and x = 2."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=3.0 m/s and s=4.5 m."}
+{"instruction": "Integrate f(x) = -7 - 2x^2 - 7x - 6x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7x - 2/3x^3 - 7/2x^2 - 6/4x^4 + C."}
+{"instruction": "Differentiate f(x) = -6x^2 + 2x^4.", "response": "Using the power rule term-by-term, f'(x) = -12x + 8x^3."}
+{"instruction": "Solve equation x^2 - 16x + 63 = 0.", "response": "Factoring gives roots x = 9 and x = 7."}
+{"instruction": "Integrate f(x) = -9x - 5x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/2x^2 - 5/4x^4 + C."}
+{"instruction": "Differentiate f(x) = -8x - 7 + 2 + 8x.", "response": "Using the power rule term-by-term, f'(x) = -8 + 8."}
+{"instruction": "Differentiate f(x) = 2x^5 - 6x^5.", "response": "Using the power rule term-by-term, f'(x) = 10x^4 - 30x^4."}
+{"instruction": "Solve equation x^2 - 17x + 66 = 0.", "response": "Factoring gives roots x = 11 and x = 6."}
+{"instruction": "Differentiate f(x) = 8 + 9x^3 + 5.", "response": "Using the power rule term-by-term, f'(x) = 27x^2."}
+{"instruction": "Given u=5 m/s, a=0.5 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=11.0 m."}
+{"instruction": "Differentiate f(x) = 8x^2 - 2x^5.", "response": "Using the power rule term-by-term, f'(x) = 16x - 10x^4."}
+{"instruction": "Differentiate f(x) = -7x^2 - 6x^2 - 4 + 9x^2.", "response": "Using the power rule term-by-term, f'(x) = -14x - 12x + 18x."}
+{"instruction": "Solve equation x^2 - 15x + 44 = 0.", "response": "Factoring gives roots x = 11 and x = 4."}
+{"instruction": "Solve equation x^2 - 1x - 42 = 0.", "response": "Factoring gives roots x = -6 and x = 7."}
+{"instruction": "Given u=0 m/s, a=1.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=5.0 m/s and s=12.5 m."}
+{"instruction": "Given u=10 m/s, a=1.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=12.0 m/s and s=22.0 m."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=34.400000000000006 m/s and s=59.1 m."}
+{"instruction": "Differentiate f(x) = -6 + 4x^5 + 2 - 2x.", "response": "Using the power rule term-by-term, f'(x) = 20x^4 - 2."}
+{"instruction": "Integrate f(x) = 6 + 6x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6x + 6/5x^5 + C."}
+{"instruction": "Integrate f(x) = 7 + 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7x + 2/6x^6 + C."}
+{"instruction": "A mass of 1 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 1 * 1.0 = 1.0 N."}
+{"instruction": "Differentiate f(x) = x^2 - 8x^5 - 7x^4 + 4.", "response": "Using the power rule term-by-term, f'(x) = 2x - 40x^4 - 28x^3."}
+{"instruction": "Given u=2 m/s, a=2.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=18.0 m/s and s=80.0 m."}
+{"instruction": "A mass of 30 kg accelerates at 4.0 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 4.0 = 120.0 N."}
+{"instruction": "Integrate f(x) = -8x + 5x^4 - 6x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4x^2 + x^5 - x^6 + C."}
+{"instruction": "Differentiate f(x) = 6x^5 - 6x^4.", "response": "Using the power rule term-by-term, f'(x) = 30x^4 - 24x^3."}
+{"instruction": "Differentiate f(x) = -8x + 2x^3.", "response": "Using the power rule term-by-term, f'(x) = -8 + 6x^2."}
+{"instruction": "Solve equation x^2 + 2x + 0 = 0.", "response": "Factoring gives roots x = -2 and x = 0."}
+{"instruction": "Solve equation x^2 + 7x + 10 = 0.", "response": "Factoring gives roots x = -5 and x = -2."}
+{"instruction": "Solve equation x^2 + 5x - 36 = 0.", "response": "Factoring gives roots x = 4 and x = -9."}
+{"instruction": "Differentiate f(x) = 3x^2 - 2.", "response": "Using the power rule term-by-term, f'(x) = 6x."}
+{"instruction": "A mass of 2 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 2 * 2.0 = 4.0 N."}
+{"instruction": "Given u=10 m/s, a=0.5 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=11.0 m/s and s=21.0 m."}
+{"instruction": "Differentiate f(x) = -9x^2 + 6x^2.", "response": "Using the power rule term-by-term, f'(x) = -18x + 12x."}
+{"instruction": "Given u=5 m/s, a=1.0 m/s^2, t=2 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=7.0 m/s and s=12.0 m."}
+{"instruction": "Given u=15 m/s, a=2.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=23.0 m/s and s=76.0 m."}
+{"instruction": "Integrate f(x) = -x - 6x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/2x^2 - 3x^2 + C."}
+{"instruction": "Solve equation x^2 + 6x - 72 = 0.", "response": "Factoring gives roots x = 6 and x = -12."}
+{"instruction": "Solve equation x^2 - 6x - 55 = 0.", "response": "Factoring gives roots x = -5 and x = 11."}
+{"instruction": "Integrate f(x) = 6x - 7x - 4x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x^2 - 7/2x^2 - 4/6x^6 + C."}
+{"instruction": "Solve equation x^2 + 0x - 25 = 0.", "response": "Factoring gives roots x = -5 and x = 5."}
+{"instruction": "Given u=15 m/s, a=9.8 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=93.4 m/s and s=433.6 m."}
+{"instruction": "Integrate f(x) = x^5 - 4x^3 + 5x + x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/6x^6 - x^4 + 5/2x^2 + 1/6x^6 + C."}
+{"instruction": "Given u=5 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=9.0 m/s and s=28.0 m."}
+{"instruction": "Given u=2 m/s, a=1.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=6.0 m/s and s=16.0 m."}
+{"instruction": "Differentiate f(x) = 3x^2 + 5x^2 - 8x^5.", "response": "Using the power rule term-by-term, f'(x) = 6x + 10x - 40x^4."}
+{"instruction": "Integrate f(x) = -7x^5 - 8 - 2x - 9x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -7/6x^6 - 8x - x^2 - 9/5x^5 + C."}
+{"instruction": "Solve equation x^2 + 5x - 66 = 0.", "response": "Factoring gives roots x = -11 and x = 6."}
+{"instruction": "Solve equation x^2 + 14x + 48 = 0.", "response": "Factoring gives roots x = -6 and x = -8."}
+{"instruction": "Solve equation x^2 - 20x + 96 = 0.", "response": "Factoring gives roots x = 8 and x = 12."}
+{"instruction": "Integrate f(x) = -6x - 3x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3x^2 - x^3 + C."}
+{"instruction": "A mass of 30 kg accelerates at 2.0 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 2.0 = 60.0 N."}
+{"instruction": "Integrate f(x) = 7x^3 + 3x^4 + 4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 7/4x^4 + 3/5x^5 + 4x + C."}
+{"instruction": "Given u=15 m/s, a=1.0 m/s^2, t=8 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=23.0 m/s and s=152.0 m."}
+{"instruction": "Integrate f(x) = 9x - 3x^4 + 8x^2 + 9x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/2x^2 - 3/5x^5 + 8/3x^3 + 9/4x^4 + C."}
+{"instruction": "Integrate f(x) = -6x^4 - 5x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -6/5x^5 - 5/2x^2 + C."}
+{"instruction": "Given u=0 m/s, a=2.0 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=8.0 m/s and s=16.0 m."}
+{"instruction": "A mass of 20 kg accelerates at 0.5 m/s^2. Find force.", "response": "Use F = ma. F = 20 * 0.5 = 10.0 N."}
+{"instruction": "Integrate f(x) = 2x^2 - 8 - 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 2/3x^3 - 8x - 2/5x^5 + C."}
+{"instruction": "Given u=10 m/s, a=2.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=16.0 m/s and s=39.0 m."}
+{"instruction": "Given u=5 m/s, a=9.8 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=14.8 m/s and s=9.9 m."}
+{"instruction": "Differentiate f(x) = -6x^2 + x^3 + 9x^4.", "response": "Using the power rule term-by-term, f'(x) = -12x + 3x^2 + 36x^3."}
+{"instruction": "Differentiate f(x) = 3x^5 - 5 + x^2 + 5x.", "response": "Using the power rule term-by-term, f'(x) = 15x^4 + 2x + 5."}
+{"instruction": "Integrate f(x) = -3x^3 - 6x^4 - 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3/4x^4 - 6/5x^5 - 2/6x^6 + C."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=30.0 m/s and s=112.5 m."}
+{"instruction": "Solve equation x^2 - 5x + 6 = 0.", "response": "Factoring gives roots x = 3 and x = 2."}
+{"instruction": "Given u=15 m/s, a=0.5 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=15.5 m/s and s=15.25 m."}
+{"instruction": "Differentiate f(x) = -8x^4 + 5x^4 + 7x^4 - 4x^5.", "response": "Using the power rule term-by-term, f'(x) = -32x^3 + 20x^3 + 28x^3 - 20x^4."}
+{"instruction": "Integrate f(x) = -5x^4 + x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -x^5 + 1/3x^3 + C."}
+{"instruction": "Differentiate f(x) = 4x - 8x^5.", "response": "Using the power rule term-by-term, f'(x) = 4 - 40x^4."}
+{"instruction": "Solve equation x^2 + 18x + 80 = 0.", "response": "Factoring gives roots x = -10 and x = -8."}
+{"instruction": "Integrate f(x) = -x^5 + 3x^3 + x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -1/6x^6 + 3/4x^4 + 1/3x^3 + C."}
+{"instruction": "Solve equation x^2 - 11x + 30 = 0.", "response": "Factoring gives roots x = 6 and x = 5."}
+{"instruction": "Differentiate f(x) = -6x^5 - 5x^3 + x^4.", "response": "Using the power rule term-by-term, f'(x) = -30x^4 - 15x^2 + 4x^3."}
+{"instruction": "Solve equation x^2 - 5x - 24 = 0.", "response": "Factoring gives roots x = 8 and x = -3."}
+{"instruction": "Integrate f(x) = -5x^3 + 3x^3 + 9x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/4x^4 + 3/4x^4 + 9/4x^4 + C."}
+{"instruction": "Solve equation x^2 + 7x + 10 = 0.", "response": "Factoring gives roots x = -2 and x = -5."}
+{"instruction": "Solve equation x^2 + 4x - 60 = 0.", "response": "Factoring gives roots x = -10 and x = 6."}
+{"instruction": "Integrate f(x) = 6x^5 + 3x^5 + 4x + 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^6 + 3/6x^6 + 2x^2 + x + C."}
+{"instruction": "Integrate f(x) = -5x^5 - 8x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5/6x^6 - 4x^2 + C."}
+{"instruction": "Differentiate f(x) = 8 + 8x^3.", "response": "Using the power rule term-by-term, f'(x) = 24x^2."}
+{"instruction": "Solve equation x^2 + 18x + 81 = 0.", "response": "Factoring gives roots x = -9 and x = -9."}
+{"instruction": "Integrate f(x) = -8x + 8x^4 + 2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -4x^2 + 8/5x^5 + 2x + C."}
+{"instruction": "Integrate f(x) = 9x^5 - 2x^4 + 9x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/6x^6 - 2/5x^5 + 9/6x^6 + C."}
+{"instruction": "Integrate f(x) = 2x + x^4 - 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^2 + 1/5x^5 - 6x + C."}
+{"instruction": "Differentiate f(x) = -7x^5 - 2x^3 - 6x^4 - 2x^4.", "response": "Using the power rule term-by-term, f'(x) = -35x^4 - 6x^2 - 24x^3 - 8x^3."}
+{"instruction": "Differentiate f(x) = -7 - x - 8 + 4x^4.", "response": "Using the power rule term-by-term, f'(x) = -1 + 16x^3."}
+{"instruction": "Differentiate f(x) = -5x - 8x^3 + 4x^5 + 8.", "response": "Using the power rule term-by-term, f'(x) = -5 - 24x^2 + 20x^4."}
+{"instruction": "Solve equation x^2 - 15x + 54 = 0.", "response": "Factoring gives roots x = 9 and x = 6."}
+{"instruction": "Given u=5 m/s, a=0.5 m/s^2, t=5 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=7.5 m/s and s=31.25 m."}
+{"instruction": "Integrate f(x) = 6 + 9x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 6x + 9/5x^5 + C."}
+{"instruction": "Solve equation x^2 + 14x + 33 = 0.", "response": "Factoring gives roots x = -11 and x = -3."}
+{"instruction": "Integrate f(x) = -5 - x^4 + 5x^2 - 5x with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5x - 1/5x^5 + 5/3x^3 - 5/2x^2 + C."}
+{"instruction": "Integrate f(x) = 6x^5 - 9x - 7x - 9x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = x^6 - 9/2x^2 - 7/2x^2 - 9/4x^4 + C."}
+{"instruction": "Differentiate f(x) = -5x^2 + x^5.", "response": "Using the power rule term-by-term, f'(x) = -10x + 5x^4."}
+{"instruction": "Solve equation x^2 + 11x + 24 = 0.", "response": "Factoring gives roots x = -3 and x = -8."}
+{"instruction": "Differentiate f(x) = 3x^3 - 8x^2 + 3x.", "response": "Using the power rule term-by-term, f'(x) = 9x^2 - 16x + 3."}
+{"instruction": "Differentiate f(x) = -3x + 8x^4.", "response": "Using the power rule term-by-term, f'(x) = -3 + 32x^3."}
+{"instruction": "Solve equation x^2 + 8x + 7 = 0.", "response": "Factoring gives roots x = -7 and x = -1."}
+{"instruction": "Solve equation x^2 - 8x + 7 = 0.", "response": "Factoring gives roots x = 7 and x = 1."}
+{"instruction": "Solve equation x^2 - 4x - 60 = 0.", "response": "Factoring gives roots x = 10 and x = -6."}
+{"instruction": "Integrate f(x) = 9x^4 + 9 - 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9/5x^5 + 9x - x + C."}
+{"instruction": "Solve equation x^2 + 0x - 121 = 0.", "response": "Factoring gives roots x = 11 and x = -11."}
+{"instruction": "Solve equation x^2 + 15x + 54 = 0.", "response": "Factoring gives roots x = -6 and x = -9."}
+{"instruction": "A mass of 5 kg accelerates at 9.8 m/s^2. Find force.", "response": "Use F = ma. F = 5 * 9.8 = 49.0 N."}
+{"instruction": "Differentiate f(x) = 6x^2 + 9 + 6x + x^3.", "response": "Using the power rule term-by-term, f'(x) = 12x + 6 + 3x^2."}
+{"instruction": "Given u=2 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=3.5 m/s and s=8.25 m."}
+{"instruction": "Differentiate f(x) = 7x^4 + 8x - 8x^4 - 7x.", "response": "Using the power rule term-by-term, f'(x) = 28x^3 + 8 - 32x^3 - 7."}
+{"instruction": "Given u=10 m/s, a=9.8 m/s^2, t=4 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=49.2 m/s and s=118.4 m."}
+{"instruction": "Differentiate f(x) = 5x^3 + 5x^4.", "response": "Using the power rule term-by-term, f'(x) = 15x^2 + 20x^3."}
+{"instruction": "Solve equation x^2 - 9x - 36 = 0.", "response": "Factoring gives roots x = -3 and x = 12."}
+{"instruction": "Integrate f(x) = -9x^5 + 7x^2 - x^3 + 4x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -9/6x^6 + 7/3x^3 - 1/4x^4 + x^4 + C."}
+{"instruction": "Solve equation x^2 - 6x - 40 = 0.", "response": "Factoring gives roots x = 10 and x = -4."}
+{"instruction": "Differentiate f(x) = 7x + 8x^5 + 4x - 2.", "response": "Using the power rule term-by-term, f'(x) = 7 + 40x^4 + 4."}
+{"instruction": "Solve equation x^2 + 8x - 48 = 0.", "response": "Factoring gives roots x = -12 and x = 4."}
+{"instruction": "Given u=2 m/s, a=0.5 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=3.5 m/s and s=8.25 m."}
+{"instruction": "Integrate f(x) = 8x - 2 - x^3 + 2x^5 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 4x^2 - 2x - 1/4x^4 + 2/6x^6 + C."}
+{"instruction": "Integrate f(x) = 9 + 1 + 4x^4 - 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 9x + x + 4/5x^5 - 2/4x^4 + C."}
+{"instruction": "Integrate f(x) = x^4 + 7 + x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 1/5x^5 + 7x + 1/5x^5 + C."}
+{"instruction": "Differentiate f(x) = -4 + 4x^5 + x^5.", "response": "Using the power rule term-by-term, f'(x) = 20x^4 + 5x^4."}
+{"instruction": "Find limit of sin(3x)/(3x) as x approaches 0.", "response": "Use standard limit sin(u)/u -> 1 as u -> 0. Therefore the limit is 1."}
+{"instruction": "Integrate f(x) = 6x + 6 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x^2 + 6x + C."}
+{"instruction": "Given u=15 m/s, a=3.0 m/s^2, t=3 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=24.0 m/s and s=58.5 m."}
+{"instruction": "Integrate f(x) = -6x - 2x^2 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -3x^2 - 2/3x^3 + C."}
+{"instruction": "A mass of 30 kg accelerates at 1.0 m/s^2. Find force.", "response": "Use F = ma. F = 30 * 1.0 = 30.0 N."}
+{"instruction": "Integrate f(x) = 8x^4 - 6x^2 - 2x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 8/5x^5 - 2x^3 - 2/4x^4 + C."}
+{"instruction": "Differentiate f(x) = 8x^5 - x^4.", "response": "Using the power rule term-by-term, f'(x) = 40x^4 - 4x^3."}
+{"instruction": "Differentiate f(x) = 3x + x^3.", "response": "Using the power rule term-by-term, f'(x) = 3 + 3x^2."}
+{"instruction": "Solve equation x^2 + 6x - 27 = 0.", "response": "Factoring gives roots x = 3 and x = -9."}
+{"instruction": "Solve equation x^2 - 1x - 56 = 0.", "response": "Factoring gives roots x = 8 and x = -7."}
+{"instruction": "Solve equation x^2 + 17x + 70 = 0.", "response": "Factoring gives roots x = -7 and x = -10."}
+{"instruction": "Solve equation x^2 + 0x - 1 = 0.", "response": "Factoring gives roots x = -1 and x = 1."}
+{"instruction": "Given u=2 m/s, a=0.5 m/s^2, t=1 s. Find final velocity and displacement.", "response": "Use v=u+at and s=ut+0.5at^2. v=2.5 m/s and s=2.25 m."}
+{"instruction": "Differentiate f(x) = -9 + 4x^3 - 8x^4.", "response": "Using the power rule term-by-term, f'(x) = 12x^2 - 32x^3."}
+{"instruction": "Integrate f(x) = -2x^3 + 7 - 5x^5 - 1 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -2/4x^4 + 7x - 5/6x^6 - x + C."}
+{"instruction": "Solve equation x^2 + 5x - 6 = 0.", "response": "Factoring gives roots x = 1 and x = -6."}
+{"instruction": "Differentiate f(x) = 3x^4 + 5x^2 - 8 + 4x^2.", "response": "Using the power rule term-by-term, f'(x) = 12x^3 + 10x + 8x."}
+{"instruction": "Solve equation x^2 - 7x + 12 = 0.", "response": "Factoring gives roots x = 3 and x = 4."}
+{"instruction": "Integrate f(x) = 6x + 3x^4 + 6 - 9x^3 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = 3x^2 + 3/5x^5 + 6x - 9/4x^4 + C."}
+{"instruction": "Differentiate f(x) = -8x^3 + 4x^2 - 8x^2.", "response": "Using the power rule term-by-term, f'(x) = -24x^2 + 8x - 16x."}
+{"instruction": "Solve equation x^2 - 3x - 4 = 0.", "response": "Factoring gives roots x = -1 and x = 4."}
+{"instruction": "Integrate f(x) = -5 + 7x^2 + 2x^4 with respect to x.", "response": "Applying the reverse power rule term-by-term, integral = -5x + 7/3x^3 + 2/5x^5 + C."}
